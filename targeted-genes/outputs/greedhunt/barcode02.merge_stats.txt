@@ -1,0 +1,7 @@
+Barcode: barcode02
+Total reads: 1765
+Products detected: 2
+
+Per-product counts:
+  clca                :     1418 ( 80.3%)
+  catB2               :      347 ( 19.7%)

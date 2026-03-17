@@ -1,0 +1,15 @@
+postage:
+  # fastq: data/fastq/full_barcode01_trim.fastq   # override only if not using trimmed porch output
+  ref:   admin/targets.fa
+  map:
+    mode: identification
+    identification:
+      preset: map-ont
+      extra_args: ""
+    stringent:
+      preset: map-ont
+      extra_args: "--secondary=no -N 1 -p 0.95"
+  threads: 8
+  # To run all trimmed samples from porch, leave 'samples' and 'sample' unset.
+  # samples: [full_barcode01_trim, full_barcode02_trim, full_barcode03_trim, full_barcode04_trim, full_unclassified_trim]
+  # sample: full_barcode01_trim

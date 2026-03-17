@@ -1,0 +1,6 @@
+porch:
+  input_dir: forme
+  pattern: full_*_trim.fastq
+  outdir: results/porch
+  threads: 8
+  extra_args: ""

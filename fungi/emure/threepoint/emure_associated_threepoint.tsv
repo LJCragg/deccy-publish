@@ -1,0 +1,5 @@
+OTU_ID	total_reads	barcode19	barcode20	barcode21	member_count	Kingdom	Phylum	Class	Order	Family	Genus	Species	threepoint_status	matched_genera	category
+OTU_222	2945	342	904	1699	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	pass	Linnemannia	Soil_health_core
+OTU_205	2728	114	633	1981	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	pass	Acaulospora	Plant_beneficial_symbiont
+OTU_57	371	232	43	97	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	pass	Acaulospora	Plant_beneficial_symbiont
+OTU_293	302	88	56	158	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	pass	Acaulospora	Plant_beneficial_symbiont

@@ -1,0 +1,5 @@
+module	n_taxa	n_degraders	degrader_nodes	mean_degree	max_degree	top_nodes	top_phyla
+1	89	8	OTU_1; OTU_157; OTU_23; OTU_239; OTU_242; OTU_279; OTU_302; OTU_327	65.3	78	OTU_292; OTU_83; OTU_105	Bacillota (55); Bacteroidota (12); Pseudomonadota (11)
+2	130	19	OTU_135; OTU_142; OTU_158; OTU_159; OTU_16; OTU_165; OTU_192; OTU_200; OTU_202; OTU_228; OTU_259; OTU_264; OTU_301; OTU_311; OTU_323; OTU_40; OTU_64; OTU_90; OTU_94	91.6	105	OTU_10; OTU_163; OTU_181	Pseudomonadota (59); Bacillota (58); Bacteroidota (4)
+3	15	2	OTU_199; OTU_22	8.5	11	OTU_134; OTU_229; OTU_32	Pseudomonadota (10); Actinomycetota (3); Bacillota (1)
+4	8	1	OTU_306	5.9	7	OTU_249; OTU_288; OTU_289	Bacillota (5); Pseudomonadota (2); Armatimonadota (1)

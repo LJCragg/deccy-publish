@@ -1,0 +1,21 @@
+# Enhanced Greedhunt Configuration
+# Product detection via minimap2 with quality filtering
+
+greedhunt:
+  ref: admin/targets.fa
+  outdir: results/greedhunt
+  input_source: slashing  # source of FASTQs: slashing, draftpick, or porch
+  
+  # Minimap2 parameters
+  preset: map-ont
+  minimap_extra: "-secondary=no"
+  threads: 8
+  
+  # Quality filters (from successful sonomek patterns)
+  min_mapq: 1          # minimum mapping quality
+  min_identity: 0.85   # minimum alignment identity (85%)
+  min_length: 300      # minimum read length
+  
+  # Output mode
+  output_mode: per-product  # per-product or merged
+  merged_subdir: merged     # directory for merged per-barcode FASTQs

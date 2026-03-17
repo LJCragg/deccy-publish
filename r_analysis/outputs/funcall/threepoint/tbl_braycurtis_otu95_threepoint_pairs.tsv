@@ -1,0 +1,4 @@
+sample_1	sample_1_short	sample_2	sample_2_short	bray_curtis
+barcode19	BC19	barcode20	BC20	0.445
+barcode19	BC19	barcode21	BC21	0.669
+barcode20	BC20	barcode21	BC21	0.375

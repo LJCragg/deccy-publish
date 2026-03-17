@@ -1,0 +1,17 @@
+# isONclust3 component configuration
+# Controls clustering of per-target or per-barcode FASTQs produced by greedhunt (or alternative sources)
+
+isonclust3:
+  # Input mode: 'per-target' expects directories results/greedhunt/<product>/*.fastq
+  # 'per-barcode' expects merged per-barcode FASTQs under results/greedhunt/merged/*.fastq
+  # Switch to per-barcode clustering (user request) — produces outputs under results/isonclust3/barcodes/<label>/
+  input_mode: per-barcode
+  greedhunt_dir: results/greedhunt
+  merged_subdir: merged
+  outdir: results/isonclust3
+  threads: 8
+  mode: ont           # pass-through to isONclust3 --mode (ont|pacbio)
+  seeding: minimizer  # seeding strategy (minimizer|syncmer) if exposed later
+  extra: "--post-cluster"  # extra CLI flags
+  # Whether to keep per-cluster FASTQ files (fastq_files/). Disabling removes them to save space.
+  keep_cluster_fastqs: true

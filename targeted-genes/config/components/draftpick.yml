@@ -1,0 +1,15 @@
+draftpick:
+  threads: 8
+  # Optional FASTA files for primer/adapter presence checks
+  primers_fasta: components/draftpick/admin/adapters.fa
+  adapters_fasta: components/draftpick/admin/adapters.fa
+  # Limit reads scanned for QC to speed up; 0 means scan all
+  max_reads_qc: 100000
+  # Fixed thresholds (no per-sample params files)
+  min_quality: 15
+  min_length: 300
+  max_length: 2500
+  require_primer: false
+  # Hard trim from each end before filtering
+  headcrop: 15
+  tailcrop: 15

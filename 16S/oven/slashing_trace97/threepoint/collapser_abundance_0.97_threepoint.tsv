@@ -1,0 +1,654 @@
+sample_id	cluster_id	abundance	member_taxids	member_taxa	read_count
+barcode13_120_filtered	2	0.005060	1076412	1076412||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus defluvii	6
+barcode13_120_filtered	3	0.002135	48256;396504	48256||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium hungatei;396504||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium sufflavum	5
+barcode13_120_filtered	4	0.001594	1499;1521	1499||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium josui;1521||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellulolyticum	9
+barcode13_120_filtered	5	0.003374	84032	84032||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermosuccinogenes	88
+barcode13_120_filtered	7	0.000735	908809	908809||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator mitchellensis	2
+barcode13_120_filtered	9	0.000384	365349;380084	365349||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus fermentans;380084||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus propionicus	8
+barcode13_120_filtered	10	0.112170	659425	659425||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Thermoclostridium|Thermoclostridium caenicola	17
+barcode13_120_filtered	12	0.008770	288965	288965||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio clariflavus	321
+barcode13_120_filtered	14	0.006601	394284	394284||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Psychrosinus|Psychrosinus fermentans	69
+barcode13_120_filtered	19	0.001925	209080	209080||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Propionispora|Propionispora hippei	3
+barcode13_120_filtered	20	0.000579	2590199;2918171	2590199||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter diazotrophicus;2918171||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter paludicola	3
+barcode13_120_filtered	31	0.013602	258515	258515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetanaerobacterium|Acetanaerobacterium elongatum	604
+barcode13_120_filtered	37	0.000775	1860101	1860101||Pseudomonadota|Betaproteobacteria|Rhodocyclales|Rhodocyclaceae|Propionivibrio|Candidatus Propionivibrio aalborgensis	23
+barcode13_120_filtered	41	0.001629	1379270	1379270||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Gemmatimonas|Gemmatimonas phototrophica	75
+barcode13_120_filtered	46	0.000343	1236215	1236215||Bacillota|Clostridia|Eubacteriales|Peptococcaceae|Desulfovectis|Desulfovectis peckii	1
+barcode13_120_filtered	47	0.001400	1537567	1537567||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter fontis	1
+barcode13_120_filtered	49	0.000700	626937;1805714;2763033	626937||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella minuta;1805714||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella massiliensis;2763033||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella tenuis	5
+barcode13_120_filtered	56	0.027532	2576756	2576756||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproicibacter|Caproicibacter fermentans	1080
+barcode13_120_filtered	59	0.000339	2763047	2763047||Bacillota|Clostridia|Eubacteriales||Flintibacter|Flintibacter faecis	4
+barcode13_120_filtered	61	0.000600	2763677	2763677||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Zongyangia|Zongyangia hominis	1
+barcode13_120_filtered	63	0.000573	2981773	2981773||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Muriventricola|Muriventricola aceti	1
+barcode13_120_filtered	65	0.001008	1147123	1147123||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator quimbayensis	37
+barcode13_120_filtered	67	0.004022	1547922;2824118	1547922||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Piscinibacter|Piscinibacter sakaiensis;2824118||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Ideonella|Ideonella alba	2
+barcode13_120_filtered	70	0.000421	1488331	1488331||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter bizertensis	2
+barcode13_120_filtered	78	0.000321	474960	474960||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hydrogenoanaerobacterium|Hydrogenoanaerobacterium saccharovorans	17
+barcode13_120_filtered	80	0.002272	985	985||Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Cytophaga|Cytophaga hutchinsonii	92
+barcode13_120_filtered	81	0.000857	1794912	1794912||Bacillota|Negativicutes||Acetonemataceae|Anaerosporomusa|Anaerosporomusa subterranea	34
+barcode13_120_filtered	85	0.004828	1958780;2991836	1958780||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium merdae;2991836||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalispora|Faecalispora anaeroviscerum	4
+barcode13_120_filtered	87	0.002139	44749	44749||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Sporobacter|Sporobacter termitidis	5
+barcode13_120_filtered	89	0.000943	1855912	1855912||Acidobacteriota|Vicinamibacteria|Vicinamibacterales|Vicinamibacteraceae|Luteitalea|Luteitalea pratensis	41
+barcode13_120_filtered	96	0.003550	1550;1499683	1550||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium subterminale;1499683||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium culturomicium	1
+barcode13_120_filtered	98	0.142209	1096341	1096341||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fonticella|Fonticella tunisiensis	35
+barcode13_120_filtered	101	0.000493	1716543	1716543||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermarum	18
+barcode13_120_filtered	103	0.055086	36849	36849||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oxobacter|Oxobacter pfennigii	29
+barcode13_120_filtered	105	0.000236	1511	1511||Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae|Acetoanaerobium|Acetoanaerobium sticklandii	23
+barcode13_120_filtered	110	0.003432	2836848;3240932	2836848||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium aromativorans;3240932||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium moutaii	142
+barcode13_120_filtered	113	0.000880	2014610	2014610||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Roseisolibacter|Roseisolibacter agri	13
+barcode13_120_filtered	114	0.004212	1650661;2108523	1650661||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium phoceensis;2108523||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Lawsonibacter|Lawsonibacter asaccharolyticus	2
+barcode13_120_filtered	120	0.001350	2941510	2941510||Bacillota|Clostridia|Eubacteriales|Pumilibacteraceae|Pumilibacter|Pumilibacter muris	13
+barcode13_120_filtered	121	0.001236	2038680	2038680||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Paludihabitans|Paludihabitans psychrotolerans	36
+barcode13_120_filtered	123	0.014207	320502	320502||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio alkalicellulosi	2
+barcode13_120_filtered	128	0.003922	29355	29355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellobioparum	10
+barcode13_120_filtered	134	0.003322	29353;35830	29353||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio aldrichii;35830||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio cellulolyticus	37
+barcode13_120_filtered	139	0.002014	879969	879969||Bacteroidota|Bacteroidia|Bacteroidales|Porphyromonadaceae|Macellibacteroides|Macellibacteroides fermentans	2
+barcode13_120_filtered	140	0.000351	651663	651663||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingopyxidaceae|Sphingopyxis|Sphingopyxis bauzanensis	6
+barcode13_120_filtered	141	0.000279	2655001	2655001||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Alkalibaculum|Alkalibaculum sporogenes	13
+barcode13_120_filtered	146	0.004147	1495	1495||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cylindrosporum	18
+barcode13_120_filtered	148	0.022386	433293	433293||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerotaenia|Anaerotaenia torta	20
+barcode13_120_filtered	150	0.000772	2675059	2675059||Pseudomonadota|Gammaproteobacteria|Lysobacterales|Lysobacteraceae|Lysobacter|Lysobacter helvus	1
+barcode13_120_filtered	152	0.004387	433286	433286||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna cellulosilytica	7
+barcode13_120_filtered	154	0.000324	1841868	1841868||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Provencibacterium|Provencibacterium massiliense	4
+barcode13_120_filtered	167	0.000557	1960156	1960156||Abditibacteriota|Abditibacteriia|Abditibacteriales|Abditibacteriaceae|Abditibacterium|Abditibacterium utsteinense	28
+barcode13_120_filtered	168	0.001520	484882;2786951	484882||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas stagni;2786951||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas ponticola	5
+barcode13_120_filtered	175	0.001736	433287	433287||Bacillota|Clostridia|Lachnospirales|Anaerotignaceae|Anaerotignum|Anaerotignum aminivorans	1
+barcode13_120_filtered	178	0.004608	52692	52692||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Acetobacterium|Acetobacterium malicum	2
+barcode13_120_filtered	179	0.002395	687525;2585369;2817372	687525||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium roseum;2585369||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium rubrum;2817372||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium arenae	4
+barcode13_120_filtered	180	0.001265	1367462	1367462||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium swellfunianum	34
+barcode13_120_filtered	186	0.000450	1658620	1658620||Rhodothermota|Rhodothermia|Rhodothermales|Rubricoccaceae|Rubrivirga|Rubrivirga profundi	11
+barcode13_120_filtered	192	0.024472	2030009;2305252;2709381;2909234	2030009||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola formosa;2305252||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola alkalilacus;2709381||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola algicola;2909234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Aliitabrizicola|Alitabrizicola rongguiensis	14
+barcode13_120_filtered	193	0.179979	2496273	2496273||Bacillota|Clostridia|Caldicoprobacterales|Xylanivirgaceae|Xylanivirga|Xylanivirga thermophila	629
+barcode13_120_filtered	196	0.000243	1527	1527||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna aminovalerica	4
+barcode13_120_filtered	199	0.002373	270498	270498||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella hongkongensis	13
+barcode13_120_filtered	202	0.000391	2583234	2583234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Paragemmobacter|Paragemmobacter kunshanensis	1
+barcode13_120_filtered	208	0.000919	1297424	1297424||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerobacterium|Anaerobacterium chartisolvens	4
+barcode13_120_filtered	210	0.000279	3036359	3036359||Bacteroidota|Sphingobacteriia|Sphingobacteriales|Aurantibacillaceae|Aurantibacillus|Aurantibacillus circumpalustris	13
+barcode13_120_filtered	214	0.000487	295419	295419||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium thermophilum	2
+barcode13_120_filtered	215	0.000575	2675220	2675220||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus oryzae	8
+barcode13_120_filtered	217	0.011554	253314	253314||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio straminisolvens	4
+barcode13_120_filtered	219	0.002379	758823	758823||Candidatus Melainabacteria|Vampirovibriophyceae|Vampirovibrionales||Vampirovibrio|Vampirovibrio chlorellavorus	111
+barcode13_120_filtered	225	0.018409	642589	642589||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens galactitolivorans	95
+barcode13_120_filtered	229	0.004559	1462919	1462919||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mobilitalea|Mobilitalea sibirica	23
+barcode13_120_filtered	231	0.002743	2010828	2010828||Bacteroidota|Bacteroidia|Marinilabiliales|Prolixibacteraceae|Aquipluma|Aquipluma nitroreducens	118
+barcode13_120_filtered	234	0.000474	913099	913099||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter acidaminivorans	3
+barcode13_120_filtered	236	0.003343	1944642	1944642||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Marasmitruncus|Marasmitruncus massiliensis	129
+barcode13_120_filtered	237	0.001305	130788	130788||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter saalensis	27
+barcode13_120_filtered	238	0.000879	1141888	1141888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas difficilis	8
+barcode13_120_filtered	246	0.000991	1244894;1664572	1244894||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas fonticola;1664572||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas piscinae	21
+barcode13_120_filtered	248	0.057697	2507161	2507161||Bacillota|Tissierellia|Tissierellales|Acidilutibacteraceae|Acidilutibacter|Acidilutibacter cellobiosedens	2488
+barcode13_120_filtered	249	0.001084	655338	655338||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fervidicella|Fervidicella metallireducens	12
+barcode13_120_filtered	250	0.000493	665118	665118||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia enhydra	11
+barcode13_120_filtered	255	0.001415	74312;74313	74312||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas variabilis;74313||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas subvibrioides	38
+barcode13_120_filtered	261	0.000805	2696063	2696063||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna sedimenticola	1
+barcode13_120_filtered	265	0.005652	909926;2494374	909926||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola aquatica;2494374||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola piscis	3
+barcode13_120_filtered	267	0.000279	373043	373043||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Acetobacteraceae|Paeniroseomonas|Paeniroseomonas aquatica	12
+barcode13_120_filtered	268	0.000343	36845	36845||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium intestinale	15
+barcode13_120_filtered	270	0.000364	1337094	1337094||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ercella|Ercella succinigenes	17
+barcode13_120_filtered	273	0.000750	1348470	1348470||Pseudomonadota|Alphaproteobacteria|Hyphomonadales|Hyphomonadaceae|Asprobacter|Asprobacter aquaticus	30
+barcode13_120_filtered	275	0.001886	2820301	2820301||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens faecalis	46
+barcode13_120_filtered	277	0.000391	2307010	2307010||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Candidatus Galacturonatibacter|Candidatus Galacturonatibacter soehngenii	79
+barcode14_120_filtered	2	0.006409	1076412	1076412||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus defluvii	1
+barcode14_120_filtered	3	0.003053	48256;396504	48256||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium hungatei;396504||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium sufflavum	6
+barcode14_120_filtered	4	0.001581	1499;1521	1499||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium josui;1521||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellulolyticum	3
+barcode14_120_filtered	5	0.005668	84032	84032||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermosuccinogenes	212
+barcode14_120_filtered	7	0.000341	908809	908809||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator mitchellensis	3
+barcode14_120_filtered	9	0.000467	365349;380084	365349||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus fermentans;380084||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus propionicus	3
+barcode14_120_filtered	10	0.055610	659425	659425||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Thermoclostridium|Thermoclostridium caenicola	8
+barcode14_120_filtered	12	0.003783	288965	288965||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio clariflavus	113
+barcode14_120_filtered	14	0.012579	394284	394284||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Psychrosinus|Psychrosinus fermentans	89
+barcode14_120_filtered	19	0.001962	209080	209080||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Propionispora|Propionispora hippei	3
+barcode14_120_filtered	20	0.000663	2590199;2918171	2590199||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter diazotrophicus;2918171||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter paludicola	3
+barcode14_120_filtered	28	0.000449	2066483	2066483|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Chromulinivoraceae|Candidatus Chromulinivorax|Candidatus Chromulinivorax destructor	5
+barcode14_120_filtered	31	0.016713	258515	258515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetanaerobacterium|Acetanaerobacterium elongatum	755
+barcode14_120_filtered	33	0.000269	192843;2527691;3386187	192843||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax ferrireducens;2527691||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax aquaticus;3386187||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Candidatus Aalborgicola|Candidatus Aalborgicola defluviihabitans	1
+barcode14_120_filtered	37	0.001007	1860101	1860101||Pseudomonadota|Betaproteobacteria|Rhodocyclales|Rhodocyclaceae|Propionivibrio|Candidatus Propionivibrio aalborgensis	43
+barcode14_120_filtered	41	0.002802	1379270	1379270||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Gemmatimonas|Gemmatimonas phototrophica	119
+barcode14_120_filtered	46	0.001091	1236215	1236215||Bacillota|Clostridia|Eubacteriales|Peptococcaceae|Desulfovectis|Desulfovectis peckii	1
+barcode14_120_filtered	47	0.002238	1537567	1537567||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter fontis	1
+barcode14_120_filtered	49	0.000616	626937;1805714;2763033	626937||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella minuta;1805714||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella massiliensis;2763033||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella tenuis	1
+barcode14_120_filtered	56	0.031375	2576756	2576756||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproicibacter|Caproicibacter fermentans	1274
+barcode14_120_filtered	59	0.000682	2763047	2763047||Bacillota|Clostridia|Eubacteriales||Flintibacter|Flintibacter faecis	22
+barcode14_120_filtered	61	0.000599	2763677	2763677||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Zongyangia|Zongyangia hominis	2
+barcode14_120_filtered	63	0.001078	2981773	2981773||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Muriventricola|Muriventricola aceti	1
+barcode14_120_filtered	65	0.000806	1147123	1147123||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator quimbayensis	21
+barcode14_120_filtered	67	0.007411	1547922;2824118	1547922||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Piscinibacter|Piscinibacter sakaiensis;2824118||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Ideonella|Ideonella alba	2
+barcode14_120_filtered	70	0.000497	1488331	1488331||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter bizertensis	1
+barcode14_120_filtered	77	0.000321	2963406;2994971	2963406||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella humidisoli;2994971||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella daejeonensis	12
+barcode14_120_filtered	78	0.000578	474960	474960||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hydrogenoanaerobacterium|Hydrogenoanaerobacterium saccharovorans	28
+barcode14_120_filtered	80	0.002460	985	985||Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Cytophaga|Cytophaga hutchinsonii	100
+barcode14_120_filtered	81	0.000685	1794912	1794912||Bacillota|Negativicutes||Acetonemataceae|Anaerosporomusa|Anaerosporomusa subterranea	31
+barcode14_120_filtered	85	0.006667	1958780;2991836	1958780||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium merdae;2991836||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalispora|Faecalispora anaeroviscerum	9
+barcode14_120_filtered	87	0.001674	44749	44749||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Sporobacter|Sporobacter termitidis	3
+barcode14_120_filtered	89	0.001220	1855912	1855912||Acidobacteriota|Vicinamibacteria|Vicinamibacterales|Vicinamibacteraceae|Luteitalea|Luteitalea pratensis	51
+barcode14_120_filtered	96	0.018986	1550;1499683	1550||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium subterminale;1499683||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium culturomicium	1
+barcode14_120_filtered	98	0.089107	1096341	1096341||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fonticella|Fonticella tunisiensis	13
+barcode14_120_filtered	101	0.000427	1716543	1716543||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermarum	8
+barcode14_120_filtered	103	0.049748	36849	36849||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oxobacter|Oxobacter pfennigii	20
+barcode14_120_filtered	110	0.003402	2836848;3240932	2836848||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium aromativorans;3240932||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium moutaii	151
+barcode14_120_filtered	113	0.001471	2014610	2014610||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Roseisolibacter|Roseisolibacter agri	25
+barcode14_120_filtered	114	0.002852	1650661;2108523	1650661||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium phoceensis;2108523||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Lawsonibacter|Lawsonibacter asaccharolyticus	1
+barcode14_120_filtered	120	0.001113	2941510	2941510||Bacillota|Clostridia|Eubacteriales|Pumilibacteraceae|Pumilibacter|Pumilibacter muris	13
+barcode14_120_filtered	121	0.001006	2038680	2038680||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Paludihabitans|Paludihabitans psychrotolerans	28
+barcode14_120_filtered	123	0.022580	320502	320502||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio alkalicellulosi	2
+barcode14_120_filtered	128	0.005572	29355	29355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellobioparum	5
+barcode14_120_filtered	131	0.000235	55583	55583||Bacillota|Clostridia|Eubacteriales|Desulfitobacteriaceae|Dehalobacter|Dehalobacter restrictus	1
+barcode14_120_filtered	134	0.004231	29353;35830	29353||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio aldrichii;35830||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio cellulolyticus	31
+barcode14_120_filtered	140	0.000986	651663	651663||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingopyxidaceae|Sphingopyxis|Sphingopyxis bauzanensis	24
+barcode14_120_filtered	141	0.000813	2655001	2655001||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Alkalibaculum|Alkalibaculum sporogenes	37
+barcode14_120_filtered	146	0.001781	1495	1495||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cylindrosporum	9
+barcode14_120_filtered	148	0.021880	433293	433293||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerotaenia|Anaerotaenia torta	43
+barcode14_120_filtered	150	0.001177	2675059	2675059||Pseudomonadota|Gammaproteobacteria|Lysobacterales|Lysobacteraceae|Lysobacter|Lysobacter helvus	1
+barcode14_120_filtered	152	0.005909	433286	433286||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna cellulosilytica	3
+barcode14_120_filtered	154	0.000285	1841868	1841868||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Provencibacterium|Provencibacterium massiliense	1
+barcode14_120_filtered	167	0.000685	1960156	1960156||Abditibacteriota|Abditibacteriia|Abditibacteriales|Abditibacteriaceae|Abditibacterium|Abditibacterium utsteinense	32
+barcode14_120_filtered	168	0.001631	484882;2786951	484882||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas stagni;2786951||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas ponticola	10
+barcode14_120_filtered	175	0.005683	433287	433287||Bacillota|Clostridia|Lachnospirales|Anaerotignaceae|Anaerotignum|Anaerotignum aminivorans	5
+barcode14_120_filtered	177	0.000834	408174;2917991	408174||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia insulae;2917991||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia lacusdianchii	5
+barcode14_120_filtered	178	0.006996	52692	52692||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Acetobacterium|Acetobacterium malicum	7
+barcode14_120_filtered	179	0.027833	687525;2585369;2817372	687525||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium roseum;2585369||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium rubrum;2817372||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium arenae	8
+barcode14_120_filtered	180	0.001755	1367462	1367462||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium swellfunianum	39
+barcode14_120_filtered	186	0.000792	1658620	1658620||Rhodothermota|Rhodothermia|Rhodothermales|Rubricoccaceae|Rubrivirga|Rubrivirga profundi	20
+barcode14_120_filtered	192	0.030993	2030009;2305252;2709381;2909234	2030009||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola formosa;2305252||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola alkalilacus;2709381||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola algicola;2909234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Aliitabrizicola|Alitabrizicola rongguiensis	8
+barcode14_120_filtered	193	0.078802	2496273	2496273||Bacillota|Clostridia|Caldicoprobacterales|Xylanivirgaceae|Xylanivirga|Xylanivirga thermophila	269
+barcode14_120_filtered	196	0.000221	1527	1527||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna aminovalerica	3
+barcode14_120_filtered	198	0.002589	351091	351091||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Oscillibacter|Oscillibacter valericigenes	2
+barcode14_120_filtered	199	0.000872	270498	270498||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella hongkongensis	3
+barcode14_120_filtered	202	0.000352	2583234	2583234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Paragemmobacter|Paragemmobacter kunshanensis	1
+barcode14_120_filtered	205	0.002367	1439888	1439888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus fusca	2
+barcode14_120_filtered	208	0.000972	1297424	1297424||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerobacterium|Anaerobacterium chartisolvens	2
+barcode14_120_filtered	210	0.000257	3036359	3036359||Bacteroidota|Sphingobacteriia|Sphingobacteriales|Aurantibacillaceae|Aurantibacillus|Aurantibacillus circumpalustris	11
+barcode14_120_filtered	214	0.000554	295419	295419||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium thermophilum	3
+barcode14_120_filtered	215	0.001001	2675220	2675220||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus oryzae	22
+barcode14_120_filtered	217	0.047407	253314	253314||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio straminisolvens	5
+barcode14_120_filtered	219	0.003616	758823	758823||Candidatus Melainabacteria|Vampirovibriophyceae|Vampirovibrionales||Vampirovibrio|Vampirovibrio chlorellavorus	169
+barcode14_120_filtered	221	0.000278	1678841	1678841||Bacteroidota|Bacteroidia|Bacteroidales|Lentimicrobiaceae|Lentimicrobium|Lentimicrobium saccharophilum	12
+barcode14_120_filtered	225	0.027579	642589	642589||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens galactitolivorans	113
+barcode14_120_filtered	229	0.004251	1462919	1462919||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mobilitalea|Mobilitalea sibirica	13
+barcode14_120_filtered	231	0.001712	2010828	2010828||Bacteroidota|Bacteroidia|Marinilabiliales|Prolixibacteraceae|Aquipluma|Aquipluma nitroreducens	79
+barcode14_120_filtered	233	0.000257	288966	288966||Bacillota|Clostridia|Lutisporales|Lutisporaceae|Lutispora|Lutispora thermophila	4
+barcode14_120_filtered	234	0.003122	913099	913099||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter acidaminivorans	3
+barcode14_120_filtered	236	0.003252	1944642	1944642||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Marasmitruncus|Marasmitruncus massiliensis	134
+barcode14_120_filtered	237	0.000644	130788	130788||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter saalensis	17
+barcode14_120_filtered	238	0.001819	1141888	1141888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas difficilis	16
+barcode14_120_filtered	246	0.001200	1244894;1664572	1244894||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas fonticola;1664572||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas piscinae	25
+barcode14_120_filtered	248	0.057304	2507161	2507161||Bacillota|Tissierellia|Tissierellales|Acidilutibacteraceae|Acidilutibacter|Acidilutibacter cellobiosedens	2594
+barcode14_120_filtered	249	0.000298	655338	655338||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fervidicella|Fervidicella metallireducens	9
+barcode14_120_filtered	250	0.000428	665118	665118||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia enhydra	8
+barcode14_120_filtered	254	0.000235	2763654	2763654||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Luoshenia|Luoshenia tenuis	8
+barcode14_120_filtered	255	0.002589	74312;74313	74312||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas variabilis;74313||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas subvibrioides	50
+barcode14_120_filtered	260	0.000428	2884263	2884263||Actinomycetota|Acidimicrobiia|Acidimicrobiales|Iamiaceae|Dermatobacter|Dermatobacter hominis	20
+barcode14_120_filtered	261	0.000903	2696063	2696063||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna sedimenticola	4
+barcode14_120_filtered	265	0.021771	909926;2494374	909926||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola aquatica;2494374||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola piscis	7
+barcode14_120_filtered	267	0.000642	373043	373043||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Acetobacteraceae|Paeniroseomonas|Paeniroseomonas aquatica	29
+barcode14_120_filtered	268	0.000578	36845	36845||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium intestinale	27
+barcode14_120_filtered	270	0.000449	1337094	1337094||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ercella|Ercella succinigenes	17
+barcode14_120_filtered	273	0.001540	1348470	1348470||Pseudomonadota|Alphaproteobacteria|Hyphomonadales|Hyphomonadaceae|Asprobacter|Asprobacter aquaticus	69
+barcode14_120_filtered	275	0.001969	2820301	2820301||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens faecalis	45
+barcode14_120_filtered	277	0.000392	2307010	2307010||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Candidatus Galacturonatibacter|Candidatus Galacturonatibacter soehngenii	53
+barcode15_120_filtered	2	0.005159	1076412	1076412||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus defluvii	1
+barcode15_120_filtered	3	0.002464	48256;396504	48256||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium hungatei;396504||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium sufflavum	3
+barcode15_120_filtered	4	0.002360	1499;1521	1499||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium josui;1521||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellulolyticum	1
+barcode15_120_filtered	5	0.004400	84032	84032||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermosuccinogenes	179
+barcode15_120_filtered	7	0.000384	908809	908809||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator mitchellensis	2
+barcode15_120_filtered	9	0.000959	365349;380084	365349||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus fermentans;380084||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus propionicus	5
+barcode15_120_filtered	10	0.030651	659425	659425||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Thermoclostridium|Thermoclostridium caenicola	11
+barcode15_120_filtered	12	0.004122	288965	288965||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio clariflavus	110
+barcode15_120_filtered	14	0.012584	394284	394284||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Psychrosinus|Psychrosinus fermentans	82
+barcode15_120_filtered	20	0.000983	2590199;2918171	2590199||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter diazotrophicus;2918171||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter paludicola	8
+barcode15_120_filtered	28	0.000235	2066483	2066483|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Chromulinivoraceae|Candidatus Chromulinivorax|Candidatus Chromulinivorax destructor	7
+barcode15_120_filtered	31	0.020240	258515	258515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetanaerobacterium|Acetanaerobacterium elongatum	893
+barcode15_120_filtered	35	0.000385	673862	673862|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Babeliaceae|Candidatus Babela|Candidatus Babela massiliensis	1
+barcode15_120_filtered	37	0.001067	1860101	1860101||Pseudomonadota|Betaproteobacteria|Rhodocyclales|Rhodocyclaceae|Propionivibrio|Candidatus Propionivibrio aalborgensis	40
+barcode15_120_filtered	41	0.002359	1379270	1379270||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Gemmatimonas|Gemmatimonas phototrophica	96
+barcode15_120_filtered	46	0.001068	1236215	1236215||Bacillota|Clostridia|Eubacteriales|Peptococcaceae|Desulfovectis|Desulfovectis peckii	1
+barcode15_120_filtered	47	0.001414	1537567	1537567||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter fontis	1
+barcode15_120_filtered	49	0.000875	626937;1805714;2763033	626937||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella minuta;1805714||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella massiliensis;2763033||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella tenuis	2
+barcode15_120_filtered	52	0.016836	1515	1515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio thermocellus	2
+barcode15_120_filtered	56	0.029585	2576756	2576756||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproicibacter|Caproicibacter fermentans	1230
+barcode15_120_filtered	59	0.000686	2763047	2763047||Bacillota|Clostridia|Eubacteriales||Flintibacter|Flintibacter faecis	16
+barcode15_120_filtered	61	0.000570	2763677	2763677||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Zongyangia|Zongyangia hominis	1
+barcode15_120_filtered	65	0.000965	1147123	1147123||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator quimbayensis	35
+barcode15_120_filtered	67	0.010707	1547922;2824118	1547922||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Piscinibacter|Piscinibacter sakaiensis;2824118||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Ideonella|Ideonella alba	1
+barcode15_120_filtered	72	0.000342	1852363	1852363||Bacillota|Clostridia|Eubacteriales|Beduinellaceae|Beduinella|Beduinella massiliensis	6
+barcode15_120_filtered	77	0.000504	2963406;2994971	2963406||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella humidisoli;2994971||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella daejeonensis	10
+barcode15_120_filtered	78	0.000427	474960	474960||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hydrogenoanaerobacterium|Hydrogenoanaerobacterium saccharovorans	19
+barcode15_120_filtered	80	0.002991	985	985||Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Cytophaga|Cytophaga hutchinsonii	117
+barcode15_120_filtered	81	0.000989	1794912	1794912||Bacillota|Negativicutes||Acetonemataceae|Anaerosporomusa|Anaerosporomusa subterranea	44
+barcode15_120_filtered	85	0.005570	1958780;2991836	1958780||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium merdae;2991836||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalispora|Faecalispora anaeroviscerum	9
+barcode15_120_filtered	87	0.001480	44749	44749||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Sporobacter|Sporobacter termitidis	4
+barcode15_120_filtered	89	0.001453	1855912	1855912||Acidobacteriota|Vicinamibacteria|Vicinamibacterales|Vicinamibacteraceae|Luteitalea|Luteitalea pratensis	68
+barcode15_120_filtered	95	0.002542	225084	225084||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix inopinata	2
+barcode15_120_filtered	96	0.008770	1550;1499683	1550||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium subterminale;1499683||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium culturomicium	3
+barcode15_120_filtered	98	0.110967	1096341	1096341||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fonticella|Fonticella tunisiensis	26
+barcode15_120_filtered	101	0.000966	1716543	1716543||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermarum	35
+barcode15_120_filtered	103	0.064205	36849	36849||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oxobacter|Oxobacter pfennigii	25
+barcode15_120_filtered	105	0.000479	1511	1511||Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae|Acetoanaerobium|Acetoanaerobium sticklandii	10
+barcode15_120_filtered	110	0.002692	2836848;3240932	2836848||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium aromativorans;3240932||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium moutaii	115
+barcode15_120_filtered	113	0.001796	2014610	2014610||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Roseisolibacter|Roseisolibacter agri	22
+barcode15_120_filtered	120	0.002136	2941510	2941510||Bacillota|Clostridia|Eubacteriales|Pumilibacteraceae|Pumilibacter|Pumilibacter muris	25
+barcode15_120_filtered	121	0.001403	2038680	2038680||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Paludihabitans|Paludihabitans psychrotolerans	51
+barcode15_120_filtered	123	0.031762	320502	320502||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio alkalicellulosi	2
+barcode15_120_filtered	128	0.006186	29355	29355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellobioparum	7
+barcode15_120_filtered	129	0.000369	1870986	1870986||Bacillota|Clostridia|Eubacteriales||Colidextribacter|Colidextribacter massiliensis	2
+barcode15_120_filtered	134	0.004533	29353;35830	29353||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio aldrichii;35830||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio cellulolyticus	34
+barcode15_120_filtered	139	0.003184	879969	879969||Bacteroidota|Bacteroidia|Bacteroidales|Porphyromonadaceae|Macellibacteroides|Macellibacteroides fermentans	2
+barcode15_120_filtered	140	0.000409	651663	651663||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingopyxidaceae|Sphingopyxis|Sphingopyxis bauzanensis	6
+barcode15_120_filtered	141	0.000641	2655001	2655001||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Alkalibaculum|Alkalibaculum sporogenes	25
+barcode15_120_filtered	146	0.002108	1495	1495||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cylindrosporum	10
+barcode15_120_filtered	148	0.024381	433293	433293||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerotaenia|Anaerotaenia torta	96
+barcode15_120_filtered	150	0.001196	2675059	2675059||Pseudomonadota|Gammaproteobacteria|Lysobacterales|Lysobacteraceae|Lysobacter|Lysobacter helvus	1
+barcode15_120_filtered	152	0.003317	433286	433286||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna cellulosilytica	4
+barcode15_120_filtered	154	0.000375	1841868	1841868||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Provencibacterium|Provencibacterium massiliense	5
+barcode15_120_filtered	167	0.000278	1960156	1960156||Abditibacteriota|Abditibacteriia|Abditibacteriales|Abditibacteriaceae|Abditibacterium|Abditibacterium utsteinense	15
+barcode15_120_filtered	168	0.001396	484882;2786951	484882||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas stagni;2786951||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas ponticola	15
+barcode15_120_filtered	175	0.004739	433287	433287||Bacillota|Clostridia|Lachnospirales|Anaerotignaceae|Anaerotignum|Anaerotignum aminivorans	2
+barcode15_120_filtered	177	0.000466	408174;2917991	408174||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia insulae;2917991||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia lacusdianchii	2
+barcode15_120_filtered	178	0.004168	52692	52692||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Acetobacterium|Acetobacterium malicum	2
+barcode15_120_filtered	179	0.015992	687525;2585369;2817372	687525||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium roseum;2585369||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium rubrum;2817372||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium arenae	5
+barcode15_120_filtered	180	0.001730	1367462	1367462||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium swellfunianum	35
+barcode15_120_filtered	186	0.000726	1658620	1658620||Rhodothermota|Rhodothermia|Rhodothermales|Rubricoccaceae|Rubrivirga|Rubrivirga profundi	13
+barcode15_120_filtered	192	0.041840	2030009;2305252;2709381;2909234	2030009||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola formosa;2305252||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola alkalilacus;2709381||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola algicola;2909234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Aliitabrizicola|Alitabrizicola rongguiensis	10
+barcode15_120_filtered	193	0.064007	2496273	2496273||Bacillota|Clostridia|Caldicoprobacterales|Xylanivirgaceae|Xylanivirga|Xylanivirga thermophila	251
+barcode15_120_filtered	196	0.000324	1527	1527||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna aminovalerica	1
+barcode15_120_filtered	198	0.002628	351091	351091||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Oscillibacter|Oscillibacter valericigenes	1
+barcode15_120_filtered	199	0.001004	270498	270498||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella hongkongensis	3
+barcode15_120_filtered	205	0.002683	1439888	1439888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus fusca	1
+barcode15_120_filtered	208	0.001018	1297424	1297424||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerobacterium|Anaerobacterium chartisolvens	3
+barcode15_120_filtered	210	0.000320	3036359	3036359||Bacteroidota|Sphingobacteriia|Sphingobacteriales|Aurantibacillaceae|Aurantibacillus|Aurantibacillus circumpalustris	15
+barcode15_120_filtered	215	0.001422	2675220	2675220||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus oryzae	17
+barcode15_120_filtered	217	0.066813	253314	253314||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio straminisolvens	4
+barcode15_120_filtered	219	0.002948	758823	758823||Candidatus Melainabacteria|Vampirovibriophyceae|Vampirovibrionales||Vampirovibrio|Vampirovibrio chlorellavorus	139
+barcode15_120_filtered	225	0.026026	642589	642589||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens galactitolivorans	184
+barcode15_120_filtered	229	0.003655	1462919	1462919||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mobilitalea|Mobilitalea sibirica	20
+barcode15_120_filtered	231	0.001474	2010828	2010828||Bacteroidota|Bacteroidia|Marinilabiliales|Prolixibacteraceae|Aquipluma|Aquipluma nitroreducens	68
+barcode15_120_filtered	234	0.002786	913099	913099||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter acidaminivorans	4
+barcode15_120_filtered	236	0.003078	1944642	1944642||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Marasmitruncus|Marasmitruncus massiliensis	128
+barcode15_120_filtered	237	0.000825	130788	130788||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter saalensis	14
+barcode15_120_filtered	238	0.001404	1141888	1141888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas difficilis	14
+barcode15_120_filtered	246	0.000889	1244894;1664572	1244894||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas fonticola;1664572||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas piscinae	16
+barcode15_120_filtered	248	0.050823	2507161	2507161||Bacillota|Tissierellia|Tissierellales|Acidilutibacteraceae|Acidilutibacter|Acidilutibacter cellobiosedens	2308
+barcode15_120_filtered	249	0.000579	655338	655338||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fervidicella|Fervidicella metallireducens	13
+barcode15_120_filtered	250	0.000562	665118	665118||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia enhydra	11
+barcode15_120_filtered	255	0.002363	74312;74313	74312||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas variabilis;74313||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas subvibrioides	96
+barcode15_120_filtered	260	0.000620	2884263	2884263||Actinomycetota|Acidimicrobiia|Acidimicrobiales|Iamiaceae|Dermatobacter|Dermatobacter hominis	26
+barcode15_120_filtered	261	0.000734	2696063	2696063||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna sedimenticola	7
+barcode15_120_filtered	265	0.019511	909926;2494374	909926||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola aquatica;2494374||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola piscis	9
+barcode15_120_filtered	267	0.000577	373043	373043||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Acetobacteraceae|Paeniroseomonas|Paeniroseomonas aquatica	27
+barcode15_120_filtered	268	0.000278	36845	36845||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium intestinale	13
+barcode15_120_filtered	273	0.001346	1348470	1348470||Pseudomonadota|Alphaproteobacteria|Hyphomonadales|Hyphomonadaceae|Asprobacter|Asprobacter aquaticus	60
+barcode15_120_filtered	275	0.002094	2820301	2820301||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens faecalis	46
+barcode15_120_filtered	277	0.000309	2307010	2307010||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Candidatus Galacturonatibacter|Candidatus Galacturonatibacter soehngenii	56
+barcode16_120_filtered	2	0.006393	1076412	1076412||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus defluvii	4
+barcode16_120_filtered	3	0.007924	48256;396504	48256||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium hungatei;396504||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium sufflavum	21
+barcode16_120_filtered	4	0.023354	1499;1521	1499||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium josui;1521||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellulolyticum	8
+barcode16_120_filtered	5	0.000368	84032	84032||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermosuccinogenes	14
+barcode16_120_filtered	9	0.001246	365349;380084	365349||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus fermentans;380084||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus propionicus	26
+barcode16_120_filtered	10	0.003024	659425	659425||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Thermoclostridium|Thermoclostridium caenicola	9
+barcode16_120_filtered	12	0.002726	288965	288965||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio clariflavus	84
+barcode16_120_filtered	13	0.001659	1032527	1032527||Verrucomicrobiota|Pedosphaerae|Pedosphaerales|Pedosphaeraceae|Pedosphaera|Pedosphaera parvula	81
+barcode16_120_filtered	14	0.012733	394284	394284||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Psychrosinus|Psychrosinus fermentans	49
+barcode16_120_filtered	16	0.004375	2763673	2763673||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Yanshouia|Yanshouia hominis	184
+barcode16_120_filtered	18	0.004180	342666	342666||Bacillota|Clostridia|Eubacteriales|Gracilibacteraceae|Gracilibacter|Gracilibacter thermotolerans	34
+barcode16_120_filtered	19	0.001924	209080	209080||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Propionispora|Propionispora hippei	16
+barcode16_120_filtered	20	0.005160	2590199;2918171	2590199||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter diazotrophicus;2918171||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter paludicola	25
+barcode16_120_filtered	22	0.000408	1514105	1514105||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix larvae	11
+barcode16_120_filtered	23	0.005545	3046382;3046383	3046382||Bacillota|Clostridia|Eubacteriales|Aristaeellaceae|Aristaeella|Aristaeella hokkaidonensis;3046383||Bacillota|Clostridia|Eubacteriales|Aristaeellaceae|Aristaeella|Aristaeella lactis	6
+barcode16_120_filtered	27	0.000353	1470354	1470354||Bacillota|Clostridia|Eubacteriales||Candidatus Soleaferrea|Candidatus Soleaferrea massiliensis	1
+barcode16_120_filtered	28	0.000488	2066483	2066483|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Chromulinivoraceae|Candidatus Chromulinivorax|Candidatus Chromulinivorax destructor	9
+barcode16_120_filtered	31	0.007662	258515	258515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetanaerobacterium|Acetanaerobacterium elongatum	328
+barcode16_120_filtered	33	0.000940	192843;2527691;3386187	192843||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax ferrireducens;2527691||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax aquaticus;3386187||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Candidatus Aalborgicola|Candidatus Aalborgicola defluviihabitans	5
+barcode16_120_filtered	35	0.000546	673862	673862|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Babeliaceae|Candidatus Babela|Candidatus Babela massiliensis	2
+barcode16_120_filtered	37	0.000838	1860101	1860101||Pseudomonadota|Betaproteobacteria|Rhodocyclales|Rhodocyclaceae|Propionivibrio|Candidatus Propionivibrio aalborgensis	32
+barcode16_120_filtered	38	0.000472	3073143	3073143||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Bengtsoniella|Bengtsoniella intestinalis	2
+barcode16_120_filtered	39	0.004007	2725268	2725268||Mycoplasmatota|Mollicutes|Candidatus Izemoplasmatales|Hujiaoplasmataceae|Hujiaoplasma|Hujiaoplasma nucleasis	179
+barcode16_120_filtered	41	0.001254	1379270	1379270||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Gemmatimonas|Gemmatimonas phototrophica	45
+barcode16_120_filtered	44	0.000846	2683714	2683714||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix aquatica	13
+barcode16_120_filtered	47	0.007376	1537567	1537567||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter fontis	20
+barcode16_120_filtered	49	0.008559	626937;1805714;2763033	626937||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella minuta;1805714||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella massiliensis;2763033||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella tenuis	11
+barcode16_120_filtered	52	0.005695	1515	1515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio thermocellus	1
+barcode16_120_filtered	55	0.001027	2818044	2818044||Bacillota|Clostridia|Peptostreptococcales|Anaerovoracaceae|Sinanaerobacter|Sinanaerobacter chloroacetimidivorans	2
+barcode16_120_filtered	58	0.006182	2941519	2941519||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vermiculatibacterium|Vermiculatibacterium agrestimuris	1
+barcode16_120_filtered	59	0.000889	2763047	2763047||Bacillota|Clostridia|Eubacteriales||Flintibacter|Flintibacter faecis	3
+barcode16_120_filtered	63	0.000656	2981773	2981773||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Muriventricola|Muriventricola aceti	8
+barcode16_120_filtered	65	0.000431	1147123	1147123||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator quimbayensis	22
+barcode16_120_filtered	67	0.006663	1547922;2824118	1547922||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Piscinibacter|Piscinibacter sakaiensis;2824118||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Ideonella|Ideonella alba	1
+barcode16_120_filtered	68	0.000349	2714355;3376993	2714355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas coprocola;3376993||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas sanitatis	3
+barcode16_120_filtered	69	0.002945	398199;2804028	398199||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Proteiniclasticum|Proteiniclasticum ruminis;2804028||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Proteiniclasticum|Proteiniclasticum sediminis	5
+barcode16_120_filtered	70	0.002499	1488331	1488331||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter bizertensis	15
+barcode16_120_filtered	72	0.046151	1852363	1852363||Bacillota|Clostridia|Eubacteriales|Beduinellaceae|Beduinella|Beduinella massiliensis	17
+barcode16_120_filtered	77	0.000407	2963406;2994971	2963406||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella humidisoli;2994971||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella daejeonensis	12
+barcode16_120_filtered	78	0.000883	474960	474960||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hydrogenoanaerobacterium|Hydrogenoanaerobacterium saccharovorans	37
+barcode16_120_filtered	79	0.000579	319644	319644||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Saccharofermentans|Saccharofermentans acetigenes	9
+barcode16_120_filtered	80	0.001702	985	985||Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Cytophaga|Cytophaga hutchinsonii	57
+barcode16_120_filtered	81	0.011741	1794912	1794912||Bacillota|Negativicutes||Acetonemataceae|Anaerosporomusa|Anaerosporomusa subterranea	495
+barcode16_120_filtered	87	0.008021	44749	44749||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Sporobacter|Sporobacter termitidis	33
+barcode16_120_filtered	89	0.000991	1855912	1855912||Acidobacteriota|Vicinamibacteria|Vicinamibacterales|Vicinamibacteraceae|Luteitalea|Luteitalea pratensis	40
+barcode16_120_filtered	90	0.000463	1121298;1325933	1121298||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium amylolyticum;1325933||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium polynesiense	5
+barcode16_120_filtered	95	0.019743	225084	225084||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix inopinata	8
+barcode16_120_filtered	98	0.056958	1096341	1096341||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fonticella|Fonticella tunisiensis	42
+barcode16_120_filtered	100	0.002101	2508949	2508949||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Candidatus Borkfalkia|Candidatus Borkfalkia ceftriaxoniphila	12
+barcode16_120_filtered	101	0.000476	1716543	1716543||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermarum	3
+barcode16_120_filtered	103	0.010871	36849	36849||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oxobacter|Oxobacter pfennigii	13
+barcode16_120_filtered	105	0.001099	1511	1511||Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae|Acetoanaerobium|Acetoanaerobium sticklandii	6
+barcode16_120_filtered	111	0.001115	1816678	1816678||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella timonensis	2
+barcode16_120_filtered	113	0.002189	2014610	2014610||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Roseisolibacter|Roseisolibacter agri	13
+barcode16_120_filtered	114	0.008927	1650661;2108523	1650661||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium phoceensis;2108523||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Lawsonibacter|Lawsonibacter asaccharolyticus	4
+barcode16_120_filtered	115	0.008872	1689270	1689270||Bacillota|Clostridia|Eubacteriales||Intestinimonas|Intestinimonas timonensis	1
+barcode16_120_filtered	117	0.002801	1332188	1332188||Candidatus Saccharimonadota|Candidatus Saccharimonadia|Candidatus Saccharimonadales|Candidatus Saccharimonadaceae|Candidatus Saccharimonas|Candidatus Saccharimonas aalborgensis	95
+barcode16_120_filtered	118	0.014304	100176	100176||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Papillibacter|Papillibacter cinnamivorans	3
+barcode16_120_filtered	120	0.007897	2941510	2941510||Bacillota|Clostridia|Eubacteriales|Pumilibacteraceae|Pumilibacter|Pumilibacter muris	5
+barcode16_120_filtered	121	0.000926	2038680	2038680||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Paludihabitans|Paludihabitans psychrotolerans	30
+barcode16_120_filtered	123	0.005141	320502	320502||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio alkalicellulosi	9
+barcode16_120_filtered	126	0.001727	118967	118967||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Anaerorhabdus|Anaerorhabdus furcosa	10
+barcode16_120_filtered	128	0.031586	29355	29355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellobioparum	12
+barcode16_120_filtered	129	0.001106	1870986	1870986||Bacillota|Clostridia|Eubacteriales||Colidextribacter|Colidextribacter massiliensis	7
+barcode16_120_filtered	131	0.000926	55583	55583||Bacillota|Clostridia|Eubacteriales|Desulfitobacteriaceae|Dehalobacter|Dehalobacter restrictus	6
+barcode16_120_filtered	134	0.005165	29353;35830	29353||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio aldrichii;35830||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio cellulolyticus	31
+barcode16_120_filtered	139	0.029111	879969	879969||Bacteroidota|Bacteroidia|Bacteroidales|Porphyromonadaceae|Macellibacteroides|Macellibacteroides fermentans	11
+barcode16_120_filtered	140	0.000691	651663	651663||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingopyxidaceae|Sphingopyxis|Sphingopyxis bauzanensis	12
+barcode16_120_filtered	141	0.000368	2655001	2655001||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Alkalibaculum|Alkalibaculum sporogenes	11
+barcode16_120_filtered	143	0.000279	884684	884684||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Mageeibacillus|Mageeibacillus indolicus	6
+barcode16_120_filtered	146	0.004198	1495	1495||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cylindrosporum	7
+barcode16_120_filtered	148	0.022389	433293	433293||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerotaenia|Anaerotaenia torta	61
+barcode16_120_filtered	152	0.000611	433286	433286||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna cellulosilytica	2
+barcode16_120_filtered	154	0.001040	1841868	1841868||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Provencibacterium|Provencibacterium massiliense	5
+barcode16_120_filtered	167	0.002348	1960156	1960156||Abditibacteriota|Abditibacteriia|Abditibacteriales|Abditibacteriaceae|Abditibacterium|Abditibacterium utsteinense	113
+barcode16_120_filtered	168	0.000385	484882;2786951	484882||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas stagni;2786951||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas ponticola	5
+barcode16_120_filtered	175	0.001790	433287	433287||Bacillota|Clostridia|Lachnospirales|Anaerotignaceae|Anaerotignum|Anaerotignum aminivorans	4
+barcode16_120_filtered	177	0.000545	408174;2917991	408174||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia insulae;2917991||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia lacusdianchii	4
+barcode16_120_filtered	178	0.006488	52692	52692||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Acetobacterium|Acetobacterium malicum	8
+barcode16_120_filtered	179	0.006341	687525;2585369;2817372	687525||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium roseum;2585369||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium rubrum;2817372||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium arenae	2
+barcode16_120_filtered	180	0.000485	1367462	1367462||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium swellfunianum	11
+barcode16_120_filtered	182	0.001092	35825	35825||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Pseudobacteroides|Pseudobacteroides cellulosolvens	5
+barcode16_120_filtered	185	0.000409	912	912||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Nitrobacteraceae|Nitrobacter|Nitrobacter hamburgensis	1
+barcode16_120_filtered	191	0.000863	29345	29345||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter hydroxybenzoicus	2
+barcode16_120_filtered	192	0.029412	2030009;2305252;2709381;2909234	2030009||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola formosa;2305252||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola alkalilacus;2709381||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola algicola;2909234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Aliitabrizicola|Alitabrizicola rongguiensis	25
+barcode16_120_filtered	193	0.036254	2496273	2496273||Bacillota|Clostridia|Caldicoprobacterales|Xylanivirgaceae|Xylanivirga|Xylanivirga thermophila	171
+barcode16_120_filtered	198	0.008756	351091	351091||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Oscillibacter|Oscillibacter valericigenes	6
+barcode16_120_filtered	199	0.001078	270498	270498||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella hongkongensis	8
+barcode16_120_filtered	201	0.000410	2780922	2780922||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Solibaculum|Solibaculum mannosilyticum	3
+barcode16_120_filtered	202	0.000610	2583234	2583234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Paragemmobacter|Paragemmobacter kunshanensis	2
+barcode16_120_filtered	203	0.000452	111831	111831||Pseudomonadota|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Defluviicoccus|Defluviicoccus vanus	20
+barcode16_120_filtered	205	0.001884	1439888	1439888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus fusca	3
+barcode16_120_filtered	208	0.001026	1297424	1297424||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerobacterium|Anaerobacterium chartisolvens	7
+barcode16_120_filtered	214	0.000330	295419	295419||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium thermophilum	1
+barcode16_120_filtered	215	0.000975	2675220	2675220||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus oryzae	5
+barcode16_120_filtered	217	0.013990	253314	253314||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio straminisolvens	8
+barcode16_120_filtered	219	0.001594	758823	758823||Candidatus Melainabacteria|Vampirovibriophyceae|Vampirovibrionales||Vampirovibrio|Vampirovibrio chlorellavorus	74
+barcode16_120_filtered	221	0.002328	1678841	1678841||Bacteroidota|Bacteroidia|Bacteroidales|Lentimicrobiaceae|Lentimicrobium|Lentimicrobium saccharophilum	107
+barcode16_120_filtered	225	0.002945	642589	642589||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens galactitolivorans	4
+barcode16_120_filtered	229	0.002454	1462919	1462919||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mobilitalea|Mobilitalea sibirica	16
+barcode16_120_filtered	231	0.027113	2010828	2010828||Bacteroidota|Bacteroidia|Marinilabiliales|Prolixibacteraceae|Aquipluma|Aquipluma nitroreducens	1222
+barcode16_120_filtered	233	0.073169	288966	288966||Bacillota|Clostridia|Lutisporales|Lutisporaceae|Lutispora|Lutispora thermophila	3141
+barcode16_120_filtered	234	0.013700	913099	913099||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter acidaminivorans	16
+barcode16_120_filtered	236	0.001702	1944642	1944642||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Marasmitruncus|Marasmitruncus massiliensis	57
+barcode16_120_filtered	237	0.013720	130788	130788||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter saalensis	445
+barcode16_120_filtered	238	0.000383	1141888	1141888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas difficilis	6
+barcode16_120_filtered	241	0.000259	1796619	1796619||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Irregularibacter|Irregularibacter muris	2
+barcode16_120_filtered	248	0.005191	2507161	2507161||Bacillota|Tissierellia|Tissierellales|Acidilutibacteraceae|Acidilutibacter|Acidilutibacter cellobiosedens	218
+barcode16_120_filtered	249	0.000512	655338	655338||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fervidicella|Fervidicella metallireducens	13
+barcode16_120_filtered	250	0.000575	665118	665118||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia enhydra	8
+barcode16_120_filtered	252	0.000280	360412	360412||Chloroflexota|Anaerolineae|Anaerolineales|Anaerolineaceae|Longilinea|Longilinea arvoryzae	11
+barcode16_120_filtered	254	0.002600	2763654	2763654||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Luoshenia|Luoshenia tenuis	22
+barcode16_120_filtered	255	0.000489	74312;74313	74312||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas variabilis;74313||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas subvibrioides	14
+barcode16_120_filtered	256	0.000452	365341;1395957	365341||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingobiaceae|Sphingobium|Sphingobium aromaticiconvertens;1395957||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingobiaceae|Sphingobium|Sphingobium endophyticum	11
+barcode16_120_filtered	257	0.000646	1473598	1473598||Acidobacteriota|Terriglobia|Bryobacterales|Bryobacteraceae|Paludibaculum|Paludibaculum fermentans	1
+barcode16_120_filtered	258	0.000366	1639882	1639882||Gemmatimonadota|Longimicrobiia|Longimicrobiales|Longimicrobiaceae|Longimicrobium|Longimicrobium terrae	17
+barcode16_120_filtered	260	0.000431	2884263	2884263||Actinomycetota|Acidimicrobiia|Acidimicrobiales|Iamiaceae|Dermatobacter|Dermatobacter hominis	19
+barcode16_120_filtered	265	0.013826	909926;2494374	909926||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola aquatica;2494374||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola piscis	13
+barcode16_120_filtered	270	0.000840	1337094	1337094||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ercella|Ercella succinigenes	33
+barcode16_120_filtered	272	0.001942	3133167	3133167||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecousia|Faecousia intestinalis	18
+barcode16_120_filtered	273	0.001013	1348470	1348470||Pseudomonadota|Alphaproteobacteria|Hyphomonadales|Hyphomonadaceae|Asprobacter|Asprobacter aquaticus	44
+barcode16_120_filtered	275	0.000280	2820301	2820301||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens faecalis	9
+barcode17_120_filtered	2	0.004051	1076412	1076412||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus defluvii	3
+barcode17_120_filtered	3	0.005576	48256;396504	48256||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium hungatei;396504||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium sufflavum	9
+barcode17_120_filtered	4	0.012444	1499;1521	1499||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium josui;1521||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellulolyticum	5
+barcode17_120_filtered	5	0.000373	84032	84032||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermosuccinogenes	15
+barcode17_120_filtered	9	0.001129	365349;380084	365349||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus fermentans;380084||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus propionicus	14
+barcode17_120_filtered	10	0.003321	659425	659425||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Thermoclostridium|Thermoclostridium caenicola	12
+barcode17_120_filtered	12	0.001764	288965	288965||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio clariflavus	31
+barcode17_120_filtered	13	0.001155	1032527	1032527||Verrucomicrobiota|Pedosphaerae|Pedosphaerales|Pedosphaeraceae|Pedosphaera|Pedosphaera parvula	55
+barcode17_120_filtered	14	0.009992	394284	394284||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Psychrosinus|Psychrosinus fermentans	32
+barcode17_120_filtered	16	0.004984	2763673	2763673||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Yanshouia|Yanshouia hominis	209
+barcode17_120_filtered	18	0.002054	342666	342666||Bacillota|Clostridia|Eubacteriales|Gracilibacteraceae|Gracilibacter|Gracilibacter thermotolerans	16
+barcode17_120_filtered	19	0.001652	209080	209080||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Propionispora|Propionispora hippei	12
+barcode17_120_filtered	20	0.006087	2590199;2918171	2590199||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter diazotrophicus;2918171||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter paludicola	30
+barcode17_120_filtered	22	0.000316	1514105	1514105||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix larvae	4
+barcode17_120_filtered	23	0.014573	3046382;3046383	3046382||Bacillota|Clostridia|Eubacteriales|Aristaeellaceae|Aristaeella|Aristaeella hokkaidonensis;3046383||Bacillota|Clostridia|Eubacteriales|Aristaeellaceae|Aristaeella|Aristaeella lactis	8
+barcode17_120_filtered	27	0.000505	1470354	1470354||Bacillota|Clostridia|Eubacteriales||Candidatus Soleaferrea|Candidatus Soleaferrea massiliensis	7
+barcode17_120_filtered	28	0.000498	2066483	2066483|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Chromulinivoraceae|Candidatus Chromulinivorax|Candidatus Chromulinivorax destructor	9
+barcode17_120_filtered	31	0.013643	258515	258515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetanaerobacterium|Acetanaerobacterium elongatum	599
+barcode17_120_filtered	33	0.004622	192843;2527691;3386187	192843||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax ferrireducens;2527691||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax aquaticus;3386187||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Candidatus Aalborgicola|Candidatus Aalborgicola defluviihabitans	2
+barcode17_120_filtered	35	0.000771	673862	673862|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Babeliaceae|Candidatus Babela|Candidatus Babela massiliensis	5
+barcode17_120_filtered	37	0.001198	1860101	1860101||Pseudomonadota|Betaproteobacteria|Rhodocyclales|Rhodocyclaceae|Propionivibrio|Candidatus Propionivibrio aalborgensis	45
+barcode17_120_filtered	38	0.000373	3073143	3073143||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Bengtsoniella|Bengtsoniella intestinalis	3
+barcode17_120_filtered	39	0.006438	2725268	2725268||Mycoplasmatota|Mollicutes|Candidatus Izemoplasmatales|Hujiaoplasmataceae|Hujiaoplasma|Hujiaoplasma nucleasis	293
+barcode17_120_filtered	41	0.001245	1379270	1379270||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Gemmatimonas|Gemmatimonas phototrophica	52
+barcode17_120_filtered	44	0.000603	2683714	2683714||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix aquatica	4
+barcode17_120_filtered	47	0.005315	1537567	1537567||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter fontis	18
+barcode17_120_filtered	49	0.009196	626937;1805714;2763033	626937||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella minuta;1805714||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella massiliensis;2763033||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella tenuis	11
+barcode17_120_filtered	52	0.006301	1515	1515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio thermocellus	1
+barcode17_120_filtered	55	0.000980	2818044	2818044||Bacillota|Clostridia|Peptostreptococcales|Anaerovoracaceae|Sinanaerobacter|Sinanaerobacter chloroacetimidivorans	2
+barcode17_120_filtered	58	0.004665	2941519	2941519||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vermiculatibacterium|Vermiculatibacterium agrestimuris	4
+barcode17_120_filtered	59	0.000672	2763047	2763047||Bacillota|Clostridia|Eubacteriales||Flintibacter|Flintibacter faecis	6
+barcode17_120_filtered	63	0.000734	2981773	2981773||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Muriventricola|Muriventricola aceti	6
+barcode17_120_filtered	65	0.000425	1147123	1147123||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator quimbayensis	14
+barcode17_120_filtered	67	0.004454	1547922;2824118	1547922||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Piscinibacter|Piscinibacter sakaiensis;2824118||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Ideonella|Ideonella alba	1
+barcode17_120_filtered	68	0.000597	2714355;3376993	2714355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas coprocola;3376993||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas sanitatis	2
+barcode17_120_filtered	69	0.002836	398199;2804028	398199||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Proteiniclasticum|Proteiniclasticum ruminis;2804028||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Proteiniclasticum|Proteiniclasticum sediminis	11
+barcode17_120_filtered	70	0.001743	1488331	1488331||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter bizertensis	6
+barcode17_120_filtered	72	0.038233	1852363	1852363||Bacillota|Clostridia|Eubacteriales|Beduinellaceae|Beduinella|Beduinella massiliensis	15
+barcode17_120_filtered	77	0.000406	2963406;2994971	2963406||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella humidisoli;2994971||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella daejeonensis	17
+barcode17_120_filtered	78	0.000321	474960	474960||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hydrogenoanaerobacterium|Hydrogenoanaerobacterium saccharovorans	12
+barcode17_120_filtered	79	0.000835	319644	319644||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Saccharofermentans|Saccharofermentans acetigenes	11
+barcode17_120_filtered	80	0.001989	985	985||Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Cytophaga|Cytophaga hutchinsonii	76
+barcode17_120_filtered	81	0.009197	1794912	1794912||Bacillota|Negativicutes||Acetonemataceae|Anaerosporomusa|Anaerosporomusa subterranea	393
+barcode17_120_filtered	85	0.000844	1958780;2991836	1958780||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium merdae;2991836||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalispora|Faecalispora anaeroviscerum	1
+barcode17_120_filtered	87	0.009878	44749	44749||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Sporobacter|Sporobacter termitidis	66
+barcode17_120_filtered	89	0.001198	1855912	1855912||Acidobacteriota|Vicinamibacteria|Vicinamibacterales|Vicinamibacteraceae|Luteitalea|Luteitalea pratensis	53
+barcode17_120_filtered	90	0.001552	1121298;1325933	1121298||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium amylolyticum;1325933||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium polynesiense	23
+barcode17_120_filtered	95	0.015928	225084	225084||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix inopinata	4
+barcode17_120_filtered	98	0.052688	1096341	1096341||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fonticella|Fonticella tunisiensis	22
+barcode17_120_filtered	100	0.009968	2508949	2508949||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Candidatus Borkfalkia|Candidatus Borkfalkia ceftriaxoniphila	40
+barcode17_120_filtered	101	0.000748	1716543	1716543||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermarum	8
+barcode17_120_filtered	103	0.015805	36849	36849||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oxobacter|Oxobacter pfennigii	9
+barcode17_120_filtered	105	0.000428	1511	1511||Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae|Acetoanaerobium|Acetoanaerobium sticklandii	8
+barcode17_120_filtered	111	0.001290	1816678	1816678||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella timonensis	5
+barcode17_120_filtered	113	0.002236	2014610	2014610||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Roseisolibacter|Roseisolibacter agri	18
+barcode17_120_filtered	114	0.009770	1650661;2108523	1650661||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium phoceensis;2108523||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Lawsonibacter|Lawsonibacter asaccharolyticus	10
+barcode17_120_filtered	115	0.013931	1689270	1689270||Bacillota|Clostridia|Eubacteriales||Intestinimonas|Intestinimonas timonensis	1
+barcode17_120_filtered	117	0.003123	1332188	1332188||Candidatus Saccharimonadota|Candidatus Saccharimonadia|Candidatus Saccharimonadales|Candidatus Saccharimonadaceae|Candidatus Saccharimonas|Candidatus Saccharimonas aalborgensis	104
+barcode17_120_filtered	118	0.014008	100176	100176||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Papillibacter|Papillibacter cinnamivorans	13
+barcode17_120_filtered	120	0.042663	2941510	2941510||Bacillota|Clostridia|Eubacteriales|Pumilibacteraceae|Pumilibacter|Pumilibacter muris	29
+barcode17_120_filtered	121	0.000812	2038680	2038680||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Paludihabitans|Paludihabitans psychrotolerans	25
+barcode17_120_filtered	123	0.006103	320502	320502||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio alkalicellulosi	8
+barcode17_120_filtered	126	0.001161	118967	118967||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Anaerorhabdus|Anaerorhabdus furcosa	2
+barcode17_120_filtered	128	0.019953	29355	29355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellobioparum	10
+barcode17_120_filtered	129	0.001096	1870986	1870986||Bacillota|Clostridia|Eubacteriales||Colidextribacter|Colidextribacter massiliensis	7
+barcode17_120_filtered	131	0.001818	55583	55583||Bacillota|Clostridia|Eubacteriales|Desulfitobacteriaceae|Dehalobacter|Dehalobacter restrictus	1
+barcode17_120_filtered	134	0.004798	29353;35830	29353||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio aldrichii;35830||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio cellulolyticus	23
+barcode17_120_filtered	139	0.062111	879969	879969||Bacteroidota|Bacteroidia|Bacteroidales|Porphyromonadaceae|Macellibacteroides|Macellibacteroides fermentans	17
+barcode17_120_filtered	140	0.000889	651663	651663||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingopyxidaceae|Sphingopyxis|Sphingopyxis bauzanensis	25
+barcode17_120_filtered	141	0.000492	2655001	2655001||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Alkalibaculum|Alkalibaculum sporogenes	19
+barcode17_120_filtered	143	0.001195	884684	884684||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Mageeibacillus|Mageeibacillus indolicus	16
+barcode17_120_filtered	146	0.004331	1495	1495||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cylindrosporum	6
+barcode17_120_filtered	148	0.012149	433293	433293||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerotaenia|Anaerotaenia torta	18
+barcode17_120_filtered	150	0.001048	2675059	2675059||Pseudomonadota|Gammaproteobacteria|Lysobacterales|Lysobacteraceae|Lysobacter|Lysobacter helvus	3
+barcode17_120_filtered	152	0.000623	433286	433286||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna cellulosilytica	2
+barcode17_120_filtered	154	0.001926	1841868	1841868||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Provencibacterium|Provencibacterium massiliense	2
+barcode17_120_filtered	167	0.002011	1960156	1960156||Abditibacteriota|Abditibacteriia|Abditibacteriales|Abditibacteriaceae|Abditibacterium|Abditibacterium utsteinense	98
+barcode17_120_filtered	168	0.000755	484882;2786951	484882||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas stagni;2786951||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas ponticola	12
+barcode17_120_filtered	175	0.001005	433287	433287||Bacillota|Clostridia|Lachnospirales|Anaerotignaceae|Anaerotignum|Anaerotignum aminivorans	4
+barcode17_120_filtered	177	0.001222	408174;2917991	408174||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia insulae;2917991||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia lacusdianchii	5
+barcode17_120_filtered	178	0.009421	52692	52692||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Acetobacterium|Acetobacterium malicum	14
+barcode17_120_filtered	179	0.010146	687525;2585369;2817372	687525||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium roseum;2585369||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium rubrum;2817372||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium arenae	5
+barcode17_120_filtered	180	0.000374	1367462	1367462||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium swellfunianum	10
+barcode17_120_filtered	182	0.000384	35825	35825||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Pseudobacteroides|Pseudobacteroides cellulosolvens	3
+barcode17_120_filtered	185	0.000642	912	912||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Nitrobacteraceae|Nitrobacter|Nitrobacter hamburgensis	3
+barcode17_120_filtered	186	0.000428	1658620	1658620||Rhodothermota|Rhodothermia|Rhodothermales|Rubricoccaceae|Rubrivirga|Rubrivirga profundi	11
+barcode17_120_filtered	191	0.000655	29345	29345||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter hydroxybenzoicus	4
+barcode17_120_filtered	192	0.029696	2030009;2305252;2709381;2909234	2030009||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola formosa;2305252||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola alkalilacus;2709381||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola algicola;2909234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Aliitabrizicola|Alitabrizicola rongguiensis	16
+barcode17_120_filtered	193	0.012316	2496273	2496273||Bacillota|Clostridia|Caldicoprobacterales|Xylanivirgaceae|Xylanivirga|Xylanivirga thermophila	60
+barcode17_120_filtered	198	0.011742	351091	351091||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Oscillibacter|Oscillibacter valericigenes	2
+barcode17_120_filtered	199	0.000344	270498	270498||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella hongkongensis	6
+barcode17_120_filtered	201	0.000734	2780922	2780922||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Solibaculum|Solibaculum mannosilyticum	7
+barcode17_120_filtered	202	0.000340	2583234	2583234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Paragemmobacter|Paragemmobacter kunshanensis	2
+barcode17_120_filtered	203	0.000385	111831	111831||Pseudomonadota|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Defluviicoccus|Defluviicoccus vanus	18
+barcode17_120_filtered	205	0.003095	1439888	1439888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus fusca	1
+barcode17_120_filtered	208	0.000749	1297424	1297424||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerobacterium|Anaerobacterium chartisolvens	6
+barcode17_120_filtered	214	0.000404	295419	295419||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium thermophilum	4
+barcode17_120_filtered	215	0.001609	2675220	2675220||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus oryzae	14
+barcode17_120_filtered	217	0.025106	253314	253314||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio straminisolvens	9
+barcode17_120_filtered	219	0.001369	758823	758823||Candidatus Melainabacteria|Vampirovibriophyceae|Vampirovibrionales||Vampirovibrio|Vampirovibrio chlorellavorus	65
+barcode17_120_filtered	221	0.001968	1678841	1678841||Bacteroidota|Bacteroidia|Bacteroidales|Lentimicrobiaceae|Lentimicrobium|Lentimicrobium saccharophilum	87
+barcode17_120_filtered	225	0.002673	642589	642589||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens galactitolivorans	4
+barcode17_120_filtered	229	0.001417	1462919	1462919||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mobilitalea|Mobilitalea sibirica	14
+barcode17_120_filtered	231	0.010064	2010828	2010828||Bacteroidota|Bacteroidia|Marinilabiliales|Prolixibacteraceae|Aquipluma|Aquipluma nitroreducens	448
+barcode17_120_filtered	233	0.042758	288966	288966||Bacillota|Clostridia|Lutisporales|Lutisporaceae|Lutispora|Lutispora thermophila	1871
+barcode17_120_filtered	234	0.008793	913099	913099||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter acidaminivorans	8
+barcode17_120_filtered	236	0.001650	1944642	1944642||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Marasmitruncus|Marasmitruncus massiliensis	50
+barcode17_120_filtered	237	0.009138	130788	130788||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter saalensis	278
+barcode17_120_filtered	238	0.000831	1141888	1141888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas difficilis	7
+barcode17_120_filtered	241	0.001262	1796619	1796619||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Irregularibacter|Irregularibacter muris	10
+barcode17_120_filtered	246	0.000815	1244894;1664572	1244894||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas fonticola;1664572||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas piscinae	22
+barcode17_120_filtered	248	0.016113	2507161	2507161||Bacillota|Tissierellia|Tissierellales|Acidilutibacteraceae|Acidilutibacter|Acidilutibacter cellobiosedens	706
+barcode17_120_filtered	249	0.000517	655338	655338||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fervidicella|Fervidicella metallireducens	9
+barcode17_120_filtered	250	0.000596	665118	665118||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia enhydra	14
+barcode17_120_filtered	252	0.000342	360412	360412||Chloroflexota|Anaerolineae|Anaerolineales|Anaerolineaceae|Longilinea|Longilinea arvoryzae	12
+barcode17_120_filtered	254	0.001560	2763654	2763654||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Luoshenia|Luoshenia tenuis	16
+barcode17_120_filtered	255	0.001063	74312;74313	74312||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas variabilis;74313||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas subvibrioides	41
+barcode17_120_filtered	256	0.000887	365341;1395957	365341||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingobiaceae|Sphingobium|Sphingobium aromaticiconvertens;1395957||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingobiaceae|Sphingobium|Sphingobium endophyticum	18
+barcode17_120_filtered	257	0.000535	1473598	1473598||Acidobacteriota|Terriglobia|Bryobacterales|Bryobacteraceae|Paludibaculum|Paludibaculum fermentans	3
+barcode17_120_filtered	258	0.000342	1639882	1639882||Gemmatimonadota|Longimicrobiia|Longimicrobiales|Longimicrobiaceae|Longimicrobium|Longimicrobium terrae	20
+barcode17_120_filtered	260	0.000684	2884263	2884263||Actinomycetota|Acidimicrobiia|Acidimicrobiales|Iamiaceae|Dermatobacter|Dermatobacter hominis	28
+barcode17_120_filtered	265	0.013094	909926;2494374	909926||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola aquatica;2494374||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola piscis	13
+barcode17_120_filtered	270	0.001390	1337094	1337094||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ercella|Ercella succinigenes	47
+barcode17_120_filtered	272	0.001724	3133167	3133167||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecousia|Faecousia intestinalis	17
+barcode17_120_filtered	273	0.001027	1348470	1348470||Pseudomonadota|Alphaproteobacteria|Hyphomonadales|Hyphomonadaceae|Asprobacter|Asprobacter aquaticus	46
+barcode18_120_filtered	2	0.007888	1076412	1076412||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus defluvii	3
+barcode18_120_filtered	3	0.007378	48256;396504	48256||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium hungatei;396504||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium sufflavum	10
+barcode18_120_filtered	4	0.017352	1499;1521	1499||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium josui;1521||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellulolyticum	9
+barcode18_120_filtered	5	0.000329	84032	84032||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermosuccinogenes	15
+barcode18_120_filtered	9	0.000595	365349;380084	365349||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus fermentans;380084||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Pelosinus|Pelosinus propionicus	12
+barcode18_120_filtered	10	0.001450	659425	659425||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Thermoclostridium|Thermoclostridium caenicola	8
+barcode18_120_filtered	12	0.001735	288965	288965||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio clariflavus	57
+barcode18_120_filtered	13	0.000665	1032527	1032527||Verrucomicrobiota|Pedosphaerae|Pedosphaerales|Pedosphaeraceae|Pedosphaera|Pedosphaera parvula	30
+barcode18_120_filtered	14	0.013664	394284	394284||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Psychrosinus|Psychrosinus fermentans	68
+barcode18_120_filtered	16	0.005880	2763673	2763673||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Yanshouia|Yanshouia hominis	249
+barcode18_120_filtered	18	0.003382	342666	342666||Bacillota|Clostridia|Eubacteriales|Gracilibacteraceae|Gracilibacter|Gracilibacter thermotolerans	19
+barcode18_120_filtered	19	0.002160	209080	209080||Bacillota|Negativicutes|Selenomonadales|Sporomusaceae|Propionispora|Propionispora hippei	8
+barcode18_120_filtered	20	0.004035	2590199;2918171	2590199||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter diazotrophicus;2918171||Myxococcota|Myxococcia|Myxococcales|Anaeromyxobacteraceae|Anaeromyxobacter|Anaeromyxobacter paludicola	21
+barcode18_120_filtered	22	0.000245	1514105	1514105||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix larvae	6
+barcode18_120_filtered	23	0.005645	3046382;3046383	3046382||Bacillota|Clostridia|Eubacteriales|Aristaeellaceae|Aristaeella|Aristaeella hokkaidonensis;3046383||Bacillota|Clostridia|Eubacteriales|Aristaeellaceae|Aristaeella|Aristaeella lactis	6
+barcode18_120_filtered	27	0.000271	1470354	1470354||Bacillota|Clostridia|Eubacteriales||Candidatus Soleaferrea|Candidatus Soleaferrea massiliensis	5
+barcode18_120_filtered	28	0.000315	2066483	2066483|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Chromulinivoraceae|Candidatus Chromulinivorax|Candidatus Chromulinivorax destructor	6
+barcode18_120_filtered	31	0.007576	258515	258515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetanaerobacterium|Acetanaerobacterium elongatum	333
+barcode18_120_filtered	33	0.000463	192843;2527691;3386187	192843||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax ferrireducens;2527691||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Rhodoferax|Rhodoferax aquaticus;3386187||Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Candidatus Aalborgicola|Candidatus Aalborgicola defluviihabitans	3
+barcode18_120_filtered	35	0.000887	673862	673862|||Candidatus Babeliae|Candidatus Babeliales|Candidatus Babeliaceae|Candidatus Babela|Candidatus Babela massiliensis	3
+barcode18_120_filtered	37	0.000834	1860101	1860101||Pseudomonadota|Betaproteobacteria|Rhodocyclales|Rhodocyclaceae|Propionivibrio|Candidatus Propionivibrio aalborgensis	22
+barcode18_120_filtered	38	0.000359	3073143	3073143||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Bengtsoniella|Bengtsoniella intestinalis	1
+barcode18_120_filtered	39	0.005602	2725268	2725268||Mycoplasmatota|Mollicutes|Candidatus Izemoplasmatales|Hujiaoplasmataceae|Hujiaoplasma|Hujiaoplasma nucleasis	252
+barcode18_120_filtered	41	0.000979	1379270	1379270||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Gemmatimonas|Gemmatimonas phototrophica	38
+barcode18_120_filtered	44	0.000508	2683714	2683714||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix aquatica	8
+barcode18_120_filtered	47	0.008803	1537567	1537567||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter fontis	17
+barcode18_120_filtered	49	0.007494	626937;1805714;2763033	626937||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella minuta;1805714||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella massiliensis;2763033||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella tenuis	6
+barcode18_120_filtered	52	0.004876	1515	1515||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio thermocellus	1
+barcode18_120_filtered	55	0.001169	2818044	2818044||Bacillota|Clostridia|Peptostreptococcales|Anaerovoracaceae|Sinanaerobacter|Sinanaerobacter chloroacetimidivorans	2
+barcode18_120_filtered	56	0.000460	2576756	2576756||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproicibacter|Caproicibacter fermentans	6
+barcode18_120_filtered	58	0.004886	2941519	2941519||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vermiculatibacterium|Vermiculatibacterium agrestimuris	1
+barcode18_120_filtered	59	0.000448	2763047	2763047||Bacillota|Clostridia|Eubacteriales||Flintibacter|Flintibacter faecis	5
+barcode18_120_filtered	63	0.000815	2981773	2981773||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Muriventricola|Muriventricola aceti	12
+barcode18_120_filtered	65	0.000580	1147123	1147123||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Caloramator|Caloramator quimbayensis	24
+barcode18_120_filtered	67	0.001772	1547922;2824118	1547922||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Piscinibacter|Piscinibacter sakaiensis;2824118||Pseudomonadota|Betaproteobacteria|Burkholderiales|Sphaerotilaceae|Ideonella|Ideonella alba	1
+barcode18_120_filtered	68	0.000273	2714355;3376993	2714355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas coprocola;3376993||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas sanitatis	3
+barcode18_120_filtered	69	0.001901	398199;2804028	398199||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Proteiniclasticum|Proteiniclasticum ruminis;2804028||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Proteiniclasticum|Proteiniclasticum sediminis	9
+barcode18_120_filtered	70	0.002045	1488331	1488331||Bacillota|Clostridia|Eubacteriales|Eubacteriales Family XII. Incertae Sedis|Fusibacter|Fusibacter bizertensis	6
+barcode18_120_filtered	72	0.033772	1852363	1852363||Bacillota|Clostridia|Eubacteriales|Beduinellaceae|Beduinella|Beduinella massiliensis	10
+barcode18_120_filtered	77	0.000322	2963406;2994971	2963406||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella humidisoli;2994971||Actinomycetota|Actinomycetes|Micrococcales|Microbacteriaceae|Microcella|Microcella daejeonensis	12
+barcode18_120_filtered	78	0.000431	474960	474960||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hydrogenoanaerobacterium|Hydrogenoanaerobacterium saccharovorans	19
+barcode18_120_filtered	79	0.000494	319644	319644||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Saccharofermentans|Saccharofermentans acetigenes	10
+barcode18_120_filtered	80	0.002165	985	985||Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Cytophaga|Cytophaga hutchinsonii	77
+barcode18_120_filtered	81	0.009166	1794912	1794912||Bacillota|Negativicutes||Acetonemataceae|Anaerosporomusa|Anaerosporomusa subterranea	391
+barcode18_120_filtered	87	0.006904	44749	44749||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Sporobacter|Sporobacter termitidis	27
+barcode18_120_filtered	89	0.000794	1855912	1855912||Acidobacteriota|Vicinamibacteria|Vicinamibacterales|Vicinamibacteraceae|Luteitalea|Luteitalea pratensis	36
+barcode18_120_filtered	90	0.000785	1121298;1325933	1121298||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium amylolyticum;1325933||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium polynesiense	1
+barcode18_120_filtered	95	0.014966	225084	225084||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Erysipelothrix|Erysipelothrix inopinata	3
+barcode18_120_filtered	98	0.124793	1096341	1096341||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fonticella|Fonticella tunisiensis	50
+barcode18_120_filtered	100	0.003634	2508949	2508949||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Candidatus Borkfalkia|Candidatus Borkfalkia ceftriaxoniphila	12
+barcode18_120_filtered	101	0.000692	1716543	1716543||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermarum	5
+barcode18_120_filtered	103	0.010759	36849	36849||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oxobacter|Oxobacter pfennigii	5
+barcode18_120_filtered	105	0.001481	1511	1511||Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae|Acetoanaerobium|Acetoanaerobium sticklandii	7
+barcode18_120_filtered	111	0.001001	1816678	1816678||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella timonensis	3
+barcode18_120_filtered	113	0.001917	2014610	2014610||Gemmatimonadota|Gemmatimonadia|Gemmatimonadales|Gemmatimonadaceae|Roseisolibacter|Roseisolibacter agri	9
+barcode18_120_filtered	114	0.008484	1650661;2108523	1650661||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium phoceensis;2108523||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Lawsonibacter|Lawsonibacter asaccharolyticus	6
+barcode18_120_filtered	115	0.010290	1689270	1689270||Bacillota|Clostridia|Eubacteriales||Intestinimonas|Intestinimonas timonensis	3
+barcode18_120_filtered	117	0.001760	1332188	1332188||Candidatus Saccharimonadota|Candidatus Saccharimonadia|Candidatus Saccharimonadales|Candidatus Saccharimonadaceae|Candidatus Saccharimonas|Candidatus Saccharimonas aalborgensis	55
+barcode18_120_filtered	118	0.013400	100176	100176||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Papillibacter|Papillibacter cinnamivorans	10
+barcode18_120_filtered	120	0.014307	2941510	2941510||Bacillota|Clostridia|Eubacteriales|Pumilibacteraceae|Pumilibacter|Pumilibacter muris	6
+barcode18_120_filtered	121	0.000962	2038680	2038680||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Paludihabitans|Paludihabitans psychrotolerans	32
+barcode18_120_filtered	123	0.006955	320502	320502||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio alkalicellulosi	2
+barcode18_120_filtered	126	0.001526	118967	118967||Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Anaerorhabdus|Anaerorhabdus furcosa	11
+barcode18_120_filtered	128	0.035004	29355	29355||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium cellobioparum	12
+barcode18_120_filtered	129	0.001034	1870986	1870986||Bacillota|Clostridia|Eubacteriales||Colidextribacter|Colidextribacter massiliensis	3
+barcode18_120_filtered	131	0.001309	55583	55583||Bacillota|Clostridia|Eubacteriales|Desulfitobacteriaceae|Dehalobacter|Dehalobacter restrictus	1
+barcode18_120_filtered	134	0.004198	29353;35830	29353||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio aldrichii;35830||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio cellulolyticus	22
+barcode18_120_filtered	139	0.030308	879969	879969||Bacteroidota|Bacteroidia|Bacteroidales|Porphyromonadaceae|Macellibacteroides|Macellibacteroides fermentans	5
+barcode18_120_filtered	140	0.000486	651663	651663||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingopyxidaceae|Sphingopyxis|Sphingopyxis bauzanensis	8
+barcode18_120_filtered	141	0.000429	2655001	2655001||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Alkalibaculum|Alkalibaculum sporogenes	16
+barcode18_120_filtered	143	0.000429	884684	884684||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Mageeibacillus|Mageeibacillus indolicus	6
+barcode18_120_filtered	146	0.004882	1495	1495||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cylindrosporum	19
+barcode18_120_filtered	148	0.018275	433293	433293||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerotaenia|Anaerotaenia torta	21
+barcode18_120_filtered	154	0.001348	1841868	1841868||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Provencibacterium|Provencibacterium massiliense	7
+barcode18_120_filtered	167	0.002082	1960156	1960156||Abditibacteriota|Abditibacteriia|Abditibacteriales|Abditibacteriaceae|Abditibacterium|Abditibacterium utsteinense	99
+barcode18_120_filtered	168	0.000628	484882;2786951	484882||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas stagni;2786951||Pseudomonadota|Alphaproteobacteria|Acetobacterales|Roseomonadaceae|Falsiroseomonas|Falsiroseomonas ponticola	8
+barcode18_120_filtered	175	0.001481	433287	433287||Bacillota|Clostridia|Lachnospirales|Anaerotignaceae|Anaerotignum|Anaerotignum aminivorans	2
+barcode18_120_filtered	177	0.000406	408174;2917991	408174||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia insulae;2917991||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia lacusdianchii	5
+barcode18_120_filtered	178	0.004421	52692	52692||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Acetobacterium|Acetobacterium malicum	5
+barcode18_120_filtered	179	0.003944	687525;2585369;2817372	687525||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium roseum;2585369||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium rubrum;2817372||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium arenae	3
+barcode18_120_filtered	180	0.000305	1367462	1367462||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium swellfunianum	11
+barcode18_120_filtered	182	0.000656	35825	35825||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Pseudobacteroides|Pseudobacteroides cellulosolvens	5
+barcode18_120_filtered	185	0.000322	912	912||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Nitrobacteraceae|Nitrobacter|Nitrobacter hamburgensis	1
+barcode18_120_filtered	186	0.000537	1658620	1658620||Rhodothermota|Rhodothermia|Rhodothermales|Rubricoccaceae|Rubrivirga|Rubrivirga profundi	13
+barcode18_120_filtered	191	0.000875	29345	29345||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter hydroxybenzoicus	8
+barcode18_120_filtered	192	0.029199	2030009;2305252;2709381;2909234	2030009||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola formosa;2305252||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola alkalilacus;2709381||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Pseudotabrizicola|Pseudotabrizicola algicola;2909234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Aliitabrizicola|Alitabrizicola rongguiensis	18
+barcode18_120_filtered	193	0.027888	2496273	2496273||Bacillota|Clostridia|Caldicoprobacterales|Xylanivirgaceae|Xylanivirga|Xylanivirga thermophila	123
+barcode18_120_filtered	198	0.013385	351091	351091||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Oscillibacter|Oscillibacter valericigenes	3
+barcode18_120_filtered	199	0.000636	270498	270498||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella hongkongensis	2
+barcode18_120_filtered	201	0.000671	2780922	2780922||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Solibaculum|Solibaculum mannosilyticum	1
+barcode18_120_filtered	202	0.000352	2583234	2583234||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Paragemmobacter|Paragemmobacter kunshanensis	2
+barcode18_120_filtered	203	0.000300	111831	111831||Pseudomonadota|Alphaproteobacteria|Rhodospirillales|Rhodospirillaceae|Defluviicoccus|Defluviicoccus vanus	14
+barcode18_120_filtered	205	0.002049	1439888	1439888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus fusca	1
+barcode18_120_filtered	208	0.000838	1297424	1297424||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerobacterium|Anaerobacterium chartisolvens	4
+barcode18_120_filtered	210	0.000279	3036359	3036359||Bacteroidota|Sphingobacteriia|Sphingobacteriales|Aurantibacillaceae|Aurantibacillus|Aurantibacillus circumpalustris	12
+barcode18_120_filtered	214	0.000337	295419	295419||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Roseobacteraceae|Rubellimicrobium|Rubellimicrobium thermophilum	2
+barcode18_120_filtered	215	0.001189	2675220	2675220||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingosinicellaceae|Sandarakinorhabdus|Sandarakinorhabdus oryzae	5
+barcode18_120_filtered	217	0.015833	253314	253314||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Acetivibrio|Acetivibrio straminisolvens	13
+barcode18_120_filtered	219	0.002168	758823	758823||Candidatus Melainabacteria|Vampirovibriophyceae|Vampirovibrionales||Vampirovibrio|Vampirovibrio chlorellavorus	103
+barcode18_120_filtered	221	0.001803	1678841	1678841||Bacteroidota|Bacteroidia|Bacteroidales|Lentimicrobiaceae|Lentimicrobium|Lentimicrobium saccharophilum	83
+barcode18_120_filtered	225	0.003648	642589	642589||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens galactitolivorans	13
+barcode18_120_filtered	229	0.001884	1462919	1462919||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mobilitalea|Mobilitalea sibirica	21
+barcode18_120_filtered	231	0.014495	2010828	2010828||Bacteroidota|Bacteroidia|Marinilabiliales|Prolixibacteraceae|Aquipluma|Aquipluma nitroreducens	657
+barcode18_120_filtered	233	0.067152	288966	288966||Bacillota|Clostridia|Lutisporales|Lutisporaceae|Lutispora|Lutispora thermophila	2954
+barcode18_120_filtered	234	0.012294	913099	913099||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter acidaminivorans	13
+barcode18_120_filtered	236	0.001133	1944642	1944642||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Marasmitruncus|Marasmitruncus massiliensis	38
+barcode18_120_filtered	237	0.010314	130788	130788||Bacillota|Tissierellia|||Sedimentibacter|Sedimentibacter saalensis	308
+barcode18_120_filtered	238	0.000408	1141888	1141888||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas difficilis	3
+barcode18_120_filtered	241	0.000515	1796619	1796619||Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Irregularibacter|Irregularibacter muris	2
+barcode18_120_filtered	246	0.000477	1244894;1664572	1244894||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas fonticola;1664572||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas piscinae	8
+barcode18_120_filtered	248	0.010839	2507161	2507161||Bacillota|Tissierellia|Tissierellales|Acidilutibacteraceae|Acidilutibacter|Acidilutibacter cellobiosedens	482
+barcode18_120_filtered	249	0.000622	655338	655338||Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Fervidicella|Fervidicella metallireducens	14
+barcode18_120_filtered	250	0.000501	665118	665118||Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Devosiaceae|Devosia|Devosia enhydra	12
+barcode18_120_filtered	252	0.000236	360412	360412||Chloroflexota|Anaerolineae|Anaerolineales|Anaerolineaceae|Longilinea|Longilinea arvoryzae	10
+barcode18_120_filtered	254	0.001415	2763654	2763654||Bacillota|Clostridia|Christensenellales|Christensenellaceae|Luoshenia|Luoshenia tenuis	17
+barcode18_120_filtered	255	0.000944	74312;74313	74312||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas variabilis;74313||Pseudomonadota|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Brevundimonas|Brevundimonas subvibrioides	27
+barcode18_120_filtered	256	0.000366	365341;1395957	365341||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingobiaceae|Sphingobium|Sphingobium aromaticiconvertens;1395957||Pseudomonadota|Alphaproteobacteria|Sphingomonadales|Sphingobiaceae|Sphingobium|Sphingobium endophyticum	8
+barcode18_120_filtered	257	0.000429	1473598	1473598||Acidobacteriota|Terriglobia|Bryobacterales|Bryobacteraceae|Paludibaculum|Paludibaculum fermentans	1
+barcode18_120_filtered	258	0.000386	1639882	1639882||Gemmatimonadota|Longimicrobiia|Longimicrobiales|Longimicrobiaceae|Longimicrobium|Longimicrobium terrae	23
+barcode18_120_filtered	260	0.000365	2884263	2884263||Actinomycetota|Acidimicrobiia|Acidimicrobiales|Iamiaceae|Dermatobacter|Dermatobacter hominis	17
+barcode18_120_filtered	265	0.011244	909926;2494374	909926||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola aquatica;2494374||Pseudomonadota|Alphaproteobacteria|Rhodobacterales|Paracoccaceae|Tabrizicola|Tabrizicola piscis	15
+barcode18_120_filtered	270	0.000880	1337094	1337094||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ercella|Ercella succinigenes	31
+barcode18_120_filtered	272	0.001193	3133167	3133167||Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecousia|Faecousia intestinalis	22
+barcode18_120_filtered	273	0.000687	1348470	1348470||Pseudomonadota|Alphaproteobacteria|Hyphomonadales|Hyphomonadaceae|Asprobacter|Asprobacter aquaticus	29
+barcode18_120_filtered	275	0.000279	2820301	2820301||Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Caproiciproducens|Caproiciproducens faecalis	11
+barcode18_120_filtered	277	0.000241	2307010	2307010||Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Candidatus Galacturonatibacter|Candidatus Galacturonatibacter soehngenii	150

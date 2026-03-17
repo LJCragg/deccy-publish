@@ -1,0 +1,13 @@
+OTU_ID	total_reads	barcode19	barcode20	barcode21	member_count	Kingdom	Phylum	Class	Order	Family	Genus	Species	threepoint_status	matched_family	category	evidence_class	priority_tier
+OTU_251	11249	1397	3499	6353	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Racocetra	Racocetra crispa	pass	Gigasporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_222	2945	342	904	1699	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	pass	Mortierellaceae	Hydrocarbon_pollutant_associated	C	Secondary
+OTU_205	2728	114	633	1981	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	pass	Acaulosporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_229	2645	276	915	1454	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora spurca	pass	Diversisporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_63	1665	80	454	1131	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Dentiscutata	Dentiscutata savannicola	pass	Gigasporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_231	1340	144	387	809	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora aurantia	pass	Diversisporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_77	569	41	195	333	1		Mucoromycota	Glomeromycetes	Archaeosporales	Archaeosporaceae	Archaeospora	Archaeospora ecuadoriana	pass	Archaeosporaceae	Phytoremediation_facilitation	D	Reserve
+OTU_258	448	43	73	332	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Entomortierella	Entomortierella sugadairana	pass	Mortierellaceae	Hydrocarbon_pollutant_associated	C	Secondary
+OTU_216	380	43	95	243	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Redeckera	Redeckera megalocarpum	pass	Diversisporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_57	371	232	43	97	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	pass	Acaulosporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_293	302	88	56	158	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	pass	Acaulosporaceae	Phytoremediation_facilitation	D	Supportive
+OTU_182	189	13	31	145	2		Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia colbranii	pass	Pleosporaceae	Hydrocarbon_pollutant_associated	C	Secondary

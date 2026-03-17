@@ -1,0 +1,12 @@
+{
+  "label": "full_unclassified_trim.slashed",
+  "input_path": "results/slashing/full_unclassified_trim.slashed.fastq",
+  "total_inputs": 3306,
+  "products": {
+    "BpHc": 2,
+    "catB2": 32,
+    "clca": 113,
+    "ntDAa": 0
+  },
+  "merged_total": null
+}

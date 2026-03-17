@@ -1,0 +1,13 @@
+OTU_ID	Genus	Species	Phylum	matched_family	category	total_reads	barcode19	barcode20	barcode21	evidence_class	priority_tier
+OTU_251	Racocetra	Racocetra crispa	Mucoromycota	Gigasporaceae	Phytoremediation_facilitation	11249	1397	3499	6353	D	Supportive
+OTU_222	Linnemannia	Linnemannia solitaria	Mucoromycota	Mortierellaceae	Hydrocarbon_pollutant_associated	2945	342	904	1699	C	Secondary
+OTU_205	Acaulospora	Acaulospora colombiana	Mucoromycota	Acaulosporaceae	Phytoremediation_facilitation	2728	114	633	1981	D	Supportive
+OTU_229	Diversispora	Diversispora spurca	Mucoromycota	Diversisporaceae	Phytoremediation_facilitation	2645	276	915	1454	D	Supportive
+OTU_63	Dentiscutata	Dentiscutata savannicola	Mucoromycota	Gigasporaceae	Phytoremediation_facilitation	1665	80	454	1131	D	Supportive
+OTU_231	Diversispora	Diversispora aurantia	Mucoromycota	Diversisporaceae	Phytoremediation_facilitation	1340	144	387	809	D	Supportive
+OTU_77	Archaeospora	Archaeospora ecuadoriana	Mucoromycota	Archaeosporaceae	Phytoremediation_facilitation	569	41	195	333	D	Reserve
+OTU_258	Entomortierella	Entomortierella sugadairana	Mucoromycota	Mortierellaceae	Hydrocarbon_pollutant_associated	448	43	73	332	C	Secondary
+OTU_216	Redeckera	Redeckera megalocarpum	Mucoromycota	Diversisporaceae	Phytoremediation_facilitation	380	43	95	243	D	Supportive
+OTU_57	Acaulospora	Acaulospora cavernata	Mucoromycota	Acaulosporaceae	Phytoremediation_facilitation	371	232	43	97	D	Supportive
+OTU_293	Acaulospora	Acaulospora laevis	Mucoromycota	Acaulosporaceae	Phytoremediation_facilitation	302	88	56	158	D	Supportive
+OTU_182	Curvularia	Curvularia colbranii	Ascomycota	Pleosporaceae	Hydrocarbon_pollutant_associated	189	13	31	145	C	Secondary

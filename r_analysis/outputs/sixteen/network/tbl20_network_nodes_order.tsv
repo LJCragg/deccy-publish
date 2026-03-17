@@ -1,0 +1,49 @@
+node	module	degree	strength	betweenness	closeness	Phylum	Class	evidence_category	is_degrader
+Abditibacteriales	1	1	0.771	0	0.022753	Abditibacteriota	Abditibacteriia	NA	FALSE
+Acetobacterales	2	20	16.686	11.667	0.027892	Pseudomonadota	Alphaproteobacteria	NA	FALSE
+Acidimicrobiales	3	3	2.429	2	0.267671	Actinomycetota	Acidimicrobiia	NA	FALSE
+Anaerolineales	1	11	9.8	0	0.043388	Chloroflexota	Anaerolineae	NA	FALSE
+Bacteroidales	1	11	9.8	0	0.043388	Bacteroidota	Bacteroidia	NA	FALSE
+Bdellovibrionales	4	1	0.829	0	0.828571	Bdellovibrionota	Bdellovibrionia	NA	FALSE
+Blastocatellales	1	14	12	4.2	0.053146	Acidobacteriota	Blastocatellia	NA	FALSE
+Bryobacterales	1	14	12.171	9.7	0.053418	Acidobacteriota	Terriglobia	NA	FALSE
+Burkholderiales	2	21	18.257	0.222	0.029409	Pseudomonadota	Betaproteobacteria	POP_BROAD	TRUE
+Caldicoprobacterales	2	19	16.429	0	0.027318	Bacillota	Clostridia	NA	FALSE
+Candidatus Babeliales	3	1	0.714	0	0.153	NA	Candidatus Babeliae	NA	FALSE
+Candidatus Izemoplasmatales	1	11	9.4	0	0.041956	Mycoplasmatota	Mollicutes	NA	FALSE
+Candidatus Saccharimonadales	1	11	9.8	0	0.043388	Candidatus Saccharimonadota	Candidatus Saccharimonadia	NA	FALSE
+Caulobacterales	2	12	10.114	0	0.021821	Pseudomonadota	Alphaproteobacteria	NA	FALSE
+Chitinophagales	1	13	10.829	1.2	0.048748	Bacteroidota	Chitinophagia	NA	FALSE
+Christensenellales	1	8	6.971	0	0.036806	Bacillota	Clostridia	NA	FALSE
+Cytophagales	2	22	19.257	1.75	0.03076	Bacteroidota	Cytophagia	NA	FALSE
+Erysipelotrichales	1	8	6.4	0	0.036001	Bacillota	Erysipelotrichia	NA	FALSE
+Eubacteriales	2	22	18.571	4.122	0.030123	Bacillota	Clostridia	BOTH	TRUE
+Fusobacteriales	2	23	18.943	0	0.030436	Fusobacteriota	Fusobacteriia	NA	FALSE
+Gemmatimonadales	2	21	17.743	5.867	0.028968	Gemmatimonadota	Gemmatimonadia	NA	FALSE
+Geobacterales	4	1	0.829	0	0.828571	Thermodesulfobacteriota	Desulfuromonadia	NA	FALSE
+Hyphomicrobiales	2	12	10.4	0	0.022104	Pseudomonadota	Alphaproteobacteria	POP_BROAD	TRUE
+Hyphomonadales	2	17	13.686	2	0.02482	Pseudomonadota	Alphaproteobacteria	NA	FALSE
+Lachnospirales	2	22	19.257	1.75	0.03076	Bacillota	Clostridia	NA	FALSE
+Legionellales	2	21	18.257	0.222	0.029409	Pseudomonadota	Gammaproteobacteria	NA	FALSE
+Longimicrobiales	1	13	10.829	1.2	0.048748	Gemmatimonadota	Longimicrobiia	NA	FALSE
+Lutisporales	1	8	6.171	0	0.036337	Bacillota	Clostridia	NA	FALSE
+Lysobacterales	2	24	20.629	12.722	0.03293	Pseudomonadota	Gammaproteobacteria	NA	FALSE
+Marinilabiliales	1	8	6.629	14	0.038755	Bacteroidota	Bacteroidia	NA	FALSE
+Micrococcales	2	12	10.4	0	0.022104	Actinomycetota	Actinomycetes	NA	FALSE
+Myxococcales	1	12	10.057	1.5	0.043748	Myxococcota	Myxococcia	BOTH	TRUE
+Nitrosomonadales	2	22	19.257	1.75	0.03076	Pseudomonadota	Betaproteobacteria	NA	FALSE
+Opitutales	2	18	15.543	0	0.026163	Verrucomicrobiota	Opitutia	NA	FALSE
+Pedosphaerales	1	14	12.171	9.7	0.053418	Verrucomicrobiota	Pedosphaerae	NA	FALSE
+Peptostreptococcales	1	13	10.371	0.5	0.046558	Bacillota	Clostridia	NA	FALSE
+Propionibacteriales	3	2	1.657	0	0.199176	Actinomycetota	Actinomycetes	NA	FALSE
+Rhodobacterales	2	21	17.743	5.867	0.028968	Pseudomonadota	Alphaproteobacteria	NA	FALSE
+Rhodocyclales	2	25	21	1.156	0.0333	Pseudomonadota	Betaproteobacteria	NA	FALSE
+Rhodospirillales	3	2	1.714	0	0.205551	Pseudomonadota	Alphaproteobacteria	NA	FALSE
+Rhodothermales	2	22	18.571	4.122	0.030123	Rhodothermota	Rhodothermia	NA	FALSE
+Selenomonadales	2	22	19.257	1.75	0.03076	Bacillota	Negativicutes	NA	FALSE
+Sphingobacteriales	2	21	18.257	0.222	0.029409	Bacteroidota	Sphingobacteriia	NA	FALSE
+Sphingomonadales	2	25	21	1.156	0.0333	Pseudomonadota	Alphaproteobacteria	BOTH	TRUE
+Steroidobacterales	2	19	16.429	0	0.027318	Pseudomonadota	Gammaproteobacteria	NA	FALSE
+Tissierellales	2	24	19.943	2.5	0.031867	Bacillota	Tissierellia	NA	FALSE
+Vampirovibrionales	2	18	15.543	0	0.026163	Candidatus Melainabacteria	Vampirovibriophyceae	NA	FALSE
+Vicinamibacterales	2	25	21	1.156	0.0333	Acidobacteriota	Vicinamibacteria	NA	FALSE

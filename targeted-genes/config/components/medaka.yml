@@ -1,0 +1,21 @@
+# Enhanced Medaka Configuration
+# Consensus generation with quality validation
+
+medaka:
+  clusters_dir: results/isonclust3
+  ref: admin/targets.fa
+  outdir: results/medaka
+  
+  # Medaka parameters
+  model: r1041_e82_400bps_sup_v5.2.0  # update to match your basecalling model
+  threads: 4
+  
+  # Cluster selection (from successful sonomek patterns)
+  min_cluster_size: 20     # minimum reads per cluster
+  top_n_clusters: 10       # maximum clusters to process (0 = all)
+  coverage_target: 0.0     # stop when this % of reads is covered (0 = disabled)
+  
+  # Quality thresholds
+  min_length: 500          # minimum consensus length (bp)
+  max_length: 2500         # maximum consensus length (bp)
+  min_coverage: 10.0       # minimum coverage depth (x)

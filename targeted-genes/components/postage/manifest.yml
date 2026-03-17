@@ -1,0 +1,16 @@
+name: postage
+version: 0.1.0
+owners: ["uca"]
+entry_rule: postage:all
+inputs:
+  - name: reads
+    pattern: results/porechop/{sample}/trimmed.fastq.gz
+  - name: ref
+    pattern: config/components/postage.yml  # points to ref path in config
+outputs:
+  - name: bam
+    pattern: results/postage/{sample}/map/{sample}.bam
+  - name: tables
+    pattern: results/postage/{sample}/tables/*.tsv
+config_key: postage
+env: envs/postage.yml

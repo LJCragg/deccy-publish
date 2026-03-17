@@ -1,0 +1,54 @@
+# Nextflow runtime and reports
+work/
+.nextflow/
+.nextflow.log*
+report-*.html
+trace-*.txt
+timeline-*.html
+dag-*.png
+
+# Conda/Mamba caches
+.conda/
+.mamba/
+*.conda
+*.lock
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw inputs and run outputs (reproducible)
+rin/
+rout/
+
+# Large reference databases
+refdbs/mimt/emu_db/
+refdbs/mimt/ncbi_tax/
+refdbs/ncbi/
+refdbs/mimt/*.fna.gz
+refdbs/mimt/*.tax.gz
+
+# Oven derived artifacts (regenerate as needed)
+oven/results/
+oven/clusters/
+oven/seqs/
+oven/logs/
+oven/tmp/
+
+# OS/filesystem cruft
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+cannon/collapsed95/
+cannon/collapsed97/
+cannon/emu/
+Luca/
+env/
+.conda/
+rout/
+refdbs/mimt18s/
+refdbs/mergemimt/
+refdbs/unit/

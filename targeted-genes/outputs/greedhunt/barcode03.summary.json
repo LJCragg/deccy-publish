@@ -1,0 +1,24 @@
+{
+  "barcode": "full_barcode03_trim",
+  "total_input_reads": 26120,
+  "total_assigned_reads": 2705,
+  "assignment_rate": 0.10356049004594181,
+  "products_detected": 2,
+  "filters": {
+    "min_mapq": 1,
+    "min_identity": 0.85,
+    "min_length": 300
+  },
+  "per_product": {
+    "clca": {
+      "reads": 2288,
+      "bases": 1020824,
+      "pct_of_total": 84.58410351201479
+    },
+    "catB2": {
+      "reads": 417,
+      "bases": 198380,
+      "pct_of_total": 15.415896487985211
+    }
+  }
+}

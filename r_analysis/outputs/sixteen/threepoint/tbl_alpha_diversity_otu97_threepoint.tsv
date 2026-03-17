@@ -1,0 +1,7 @@
+cohort	short_id	total_reads	observed_otus	shannon	simpson
+Ss1	barcode13	46398	165	3.443	0.923
+Ss1	barcode14	46281	181	3.998	0.965
+Ss1	barcode15	46246	178	3.943	0.961
+Ss2	barcode16	45625	221	4.377	0.977
+Ss2	barcode17	45964	225	4.427	0.979
+Ss2	barcode18	46125	226	4.251	0.968

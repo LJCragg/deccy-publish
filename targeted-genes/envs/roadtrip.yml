@@ -1,0 +1,15 @@
+name: roadtrip
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - minimap2
+  - samtools
+  - mafft
+  - medaka
+  - isonclust3
+  - snakemake
+  - porechop
+  - seqkit

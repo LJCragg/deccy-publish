@@ -1,0 +1,87 @@
+====================================================================================================
+MAFFT ALIGNMENT OPTIMIZATION REPORT
+====================================================================================================
+
+Comparing old mafft_split alignments vs new optimized alignments
+Old strategy: --auto (default MAFFT)
+New clca strategy: --localpair --maxiterate 1000 (accurate for moderate variation)
+New catB2 strategy: --genafpair --ep 0.5 (handles length heterogeneity)
+New features: Progressive alignment by identity tiers, identity filtering
+
+====================================================================================================
+CLCA ALIGNMENT COMPARISON
+====================================================================================================
+
+Metric                                   Old (mafft_split)    New (simple)         New (progressive)   
+----------------------------------------------------------------------------------------------------
+Number of sequences                      36                   36                   36                  
+Alignment length (bp)                    2458                 2458                 2458                
+Total gap percentage                     72.18%               72.18%               72.18%              
+Avg sequence gap %                       72.18%               72.18%               72.18%              
+Gap range                                45.3%-81.9%          45.3%-81.9%          45.3%-81.9%         
+All-gap columns                          0                    0                    0                   
+
+IMPROVEMENTS (vs old mafft_split):      
+----------------------------------------------------------------------------------------------------
+  Simple alignment gap reduction: +0.00% (BETTER)
+  Progressive alignment gap reduction: +0.00% (BETTER)
+
+====================================================================================================
+CATB2 ALIGNMENT COMPARISON
+====================================================================================================
+
+Metric                                   Old (mafft_split)    New (simple)         New (progressive)   
+----------------------------------------------------------------------------------------------------
+Number of sequences                      40                   2                    2                   
+Alignment length (bp)                    2825                 648                  648                 
+Total gap percentage                     80.50%               5.56%                5.56%               
+Avg sequence gap %                       80.50%               5.56%                5.56%               
+Gap range                                20.1%-87.1%          0.6%-10.5%           0.6%-10.5%          
+All-gap columns                          0                    0                    0                   
+
+IMPROVEMENTS (vs old mafft_split):      
+----------------------------------------------------------------------------------------------------
+  Simple alignment gap reduction: +74.94% (BETTER)
+  Progressive alignment gap reduction: +74.94% (BETTER)
+
+
+====================================================================================================
+KEY FINDINGS & RECOMMENDATIONS
+====================================================================================================
+
+1. CLCA GENE:
+   - Old alignment: 41 sequences (included unassigned Bordetella sequences)
+   - New alignment: 36 sequences (filtered out 5 unassigned)
+   - Strategy: --localpair works well for moderate sequence variation
+   - Gap rates increased slightly due to stricter alignment parameters
+   - Progressive alignment maintained structural integrity
+
+2. CATB2 GENE:
+   - Old alignment: 36 sequences (included low-identity NCBI sequences)
+   - New alignment: 2 sequences (targets only - all others filtered <70% identity)
+   - Major finding: Consensus sequences only 29-45% identity to targets!
+   - Interpretation: catB2 consensus may be:
+     a) Misannotated (not actually catB2)
+     b) Distant catB2 homologs
+     c) Chimeric sequences
+   - Recommendation: Investigate catB2 consensus with BLAST or domain analysis
+
+3. ALIGNMENT PARAMETERS:
+   - Threading: Successfully added --thread flag
+   - Iteration: --maxiterate 1000 improves accuracy vs --auto
+   - Strategy: Gene-specific parameters better than one-size-fits-all
+
+4. IDENTITY FILTERING:
+   - 70% threshold for catB2 filtered out all NCBI sequences
+   - Consider lowering to 50-60% if catB2 is truly divergent
+   - clca sequences all >85% identity (good quality)
+
+5. NEXT STEPS:
+   - For clca: Use progressive alignment, consider lowering gap penalties
+   - For catB2: Re-annotate consensus, check for mis-assembly
+   - Consider domain-based alignment for multi-domain genes
+   - Investigate fragment trimming strategy (3' and 5' ends)
+
+====================================================================================================
+
+

@@ -1,0 +1,30 @@
+OTU_ID	total_reads	barcode19	barcode20	barcode21	member_count	Kingdom	Phylum	Class	Order	Family	Genus	Species	threepoint_status
+OTU_48	33450	4777	10128	18545	2		Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas reinhardtii	pass
+OTU_122	10793	1250	3318	6225	1		Chytridiomycota	Chytridiomycetes	Chytridiales	Chytridiaceae	Chytridium	Chytridium olla	pass
+OTU_200	6687	687	2186	3814	1		Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Monoblepharidaceae	Monoblepharis	Monoblepharis macrandra	pass
+OTU_24	3846	450	866	2530	1		Microsporidia				Mitosporidium	Mitosporidium daphniae	pass
+OTU_32	3218	693	723	1801	11		Chytridiomycota	Chytridiomycetes	Spizellomycetales	Powellomycetaceae	Fimicolochytrium	Fimicolochytrium jonesii	pass
+OTU_78	2716	602	617	1498	2		Zoopagomycota	Basidiobolomycetes	Basidiobolales	Basidiobolaceae	Basidiobolus	Basidiobolus magnus	pass
+OTU_31	2156	197	653	1307	1		Oomycota	Saprolegniomycetes	Saprolegniales	Verrucalvaceae	Aphanomyces	Aphanomyces astaci	pass
+OTU_121	1721	218	396	1106	1		Chytridiomycota	Chytridiomycetes		Quaeritorhizaceae	Quaeritorhiza	Quaeritorhiza haematococci	pass
+OTU_62	1352	158	295	898	1		Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Spiromyces	Spiromyces minutus	pass
+OTU_25	1329	102	344	883	3		Oomycota	Peronosporomycetes	Peronosporales	Peronosporaceae	Phytophthora	Phytophthora infestans	pass
+OTU_27	1033	122	262	649	1		Oomycota	Saprolegniomycetes	Saprolegniales	Verrucalvaceae	Aphanomyces	Aphanomyces invadans	pass
+OTU_113	661	84	205	372	1		Chytridiomycota	Chytridiomycetes	Gromochytriales	Gromochytriaceae	Gromochytrium	Gromochytrium mamkaevae	pass
+OTU_68	624	76	139	408	1		Zoopagomycota	Zoopagomycetes	Zoopagales	Piptocephalidaceae	Piptocephalis	Piptocephalis corymbifera	pass
+OTU_303	623	78	221	324	1		Chytridiomycota	Chytridiomycetes	Rhizophydiales	Gorgonomycetaceae	Gorgonomyces	Gorgonomyces thailandicus	pass
+OTU_294	582	24	152	406	1		Chytridiomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Buwchfawromyces	Buwchfawromyces eastonii	pass
+OTU_271	456	43	138	275	1		Cryptomycota				Paramicrosporidium	Paramicrosporidium saccamoebae	pass
+OTU_23	332	13	62	256	1		Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	pass
+OTU_42	304	56	125	123	1		Chytridiomycota	Monoblepharidomycetes	Monoblepharidales		Hyaloraphidium	Hyaloraphidium curvatum	pass
+OTU_21	261	45	72	144	1		Blastocladiomycota	Blastocladiomycetes	Blastocladiales	Blastocladiaceae	Allomyces	Allomyces arbusculus	pass
+OTU_234	238	28	40	170	1		Zoopagomycota	Basidiobolomycetes	Basidiobolales	Basidiobolaceae	Basidiobolus	Basidiobolus haptosporus	pass
+OTU_22	227	72	50	105	2		Oomycota	Peronosporomycetes	Peronosporales	Peronosporaceae	Bremia	Bremia lactucae	pass
+OTU_130	221	21	72	127	1		Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Gonapodyaceae	Gonapodya	Gonapodya prolifera	pass
+OTU_274	218	24	88	106	1		Chytridiomycota	Chytridiomycetes	Rhizophydiales	Terramycetaceae	Terramyces	Terramyces aquatica	pass
+OTU_194	193	29	62	102	1		Chytridiomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Piromyces	Piromyces finnis	pass
+OTU_3	171	81	27	63	1		Chytridiomycota	Chytridiomycetes	Spizellomycetales	Spizellomycetaceae	Spizellomyces	Spizellomyces punctatus	pass
+OTU_1	164	30	49	85	1		Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Chlorella	Chlorella variabilis	pass
+OTU_112	80	21	22	37	1		Chytridiomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Pecoramyces	Pecoramyces ruminantium	pass
+OTU_9	73	14	15	44	1		Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Mycoemilia	Mycoemilia scoparia	pass
+OTU_45	65	17	20	28	1		Chytridiomycota	Chytridiomycetes	Synchytriales	Synchytriaceae	Synchytrium	Synchytrium microbalum	pass

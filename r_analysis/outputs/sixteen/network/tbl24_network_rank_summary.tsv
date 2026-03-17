@@ -1,0 +1,5 @@
+rank	n_nodes	n_edges	n_modules	n_degrader_nodes	top_degree_node	top_degree	top_strength_node	top_strength
+genus	175	4409	6	13	Acidovorax	76	Acidovorax	62.8
+otu97	242	8949	4	30	OTU_10	105	OTU_128	87.657
+family	88	1088	5	10	Rhodocyclaceae	39	Rhodocyclaceae	31.229
+order	48	355	4	5	Rhodocyclales	25	Rhodocyclales	21.0

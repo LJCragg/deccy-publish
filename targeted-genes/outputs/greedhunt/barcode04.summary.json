@@ -1,0 +1,29 @@
+{
+  "barcode": "full_barcode04_trim",
+  "total_input_reads": 25073,
+  "total_assigned_reads": 2405,
+  "assignment_rate": 0.09591991385155346,
+  "products_detected": 3,
+  "filters": {
+    "min_mapq": 1,
+    "min_identity": 0.85,
+    "min_length": 300
+  },
+  "per_product": {
+    "catB2": {
+      "reads": 401,
+      "bases": 192170,
+      "pct_of_total": 16.673596673596673
+    },
+    "clca": {
+      "reads": 2003,
+      "bases": 898216,
+      "pct_of_total": 83.28482328482329
+    },
+    "BpHc": {
+      "reads": 1,
+      "bases": 338,
+      "pct_of_total": 0.04158004158004158
+    }
+  }
+}

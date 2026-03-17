@@ -1,0 +1,12 @@
+{
+  "label": "full_barcode01_trim.slashed",
+  "input_path": "results/slashing/full_barcode01_trim.slashed.fastq",
+  "total_inputs": 32147,
+  "products": {
+    "BpHc": 0,
+    "catB2": 223,
+    "clca": 795,
+    "ntDAa": 0
+  },
+  "merged_total": null
+}

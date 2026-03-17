@@ -1,0 +1,9 @@
+name: greedhunt
+description: Enhanced product detection via minimap2 mapping with quality metrics
+entry_rule: greedhunt_all
+outputs:
+  - pattern: results/greedhunt/{product}/{barcode}.fastq
+  - pattern: results/greedhunt/{product}/{barcode}.stats.json
+  - pattern: results/greedhunt/merged/{barcode}.fastq
+config_key: greedhunt
+env: envs/roadtrip.yml

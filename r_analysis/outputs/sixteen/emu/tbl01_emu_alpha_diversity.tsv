@@ -1,0 +1,7 @@
+cohort	short_id	total_estimated_counts	observed_taxa	shannon	simpson
+Ss1	barcode13	47541	210	3.577	0.927
+Ss1	barcode14	47657	249	4.191	0.968
+Ss1	barcode15	47667	258	4.166	0.965
+Ss2	barcode16	47355	314	4.584	0.979
+Ss2	barcode17	47660	324	4.648	0.981
+Ss2	barcode18	47474	300	4.433	0.97

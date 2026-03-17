@@ -1,0 +1,4 @@
+stage	n_clusters	pct_of_prethreepoint	pct_of_prev_stage
+Prethreepoint OTU97	353	100	100
+Threepoint OTU97	245	69.4	69.4
+Associated OTU97	30	8.5	12.2

@@ -1,0 +1,5 @@
+OTU_ID	Genus	Species	Phylum	matched_genera	category	total_reads	threepoint_status	barcode19	barcode20	barcode21
+OTU_222	Linnemannia	Linnemannia solitaria	Mucoromycota	Linnemannia	Soil_health_core	2945	pass	342	904	1699
+OTU_205	Acaulospora	Acaulospora colombiana	Mucoromycota	Acaulospora	Plant_beneficial_symbiont	2728	pass	114	633	1981
+OTU_57	Acaulospora	Acaulospora cavernata	Mucoromycota	Acaulospora	Plant_beneficial_symbiont	371	pass	232	43	97
+OTU_293	Acaulospora	Acaulospora laevis	Mucoromycota	Acaulospora	Plant_beneficial_symbiont	302	pass	88	56	158

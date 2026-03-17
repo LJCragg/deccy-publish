@@ -1,0 +1,13 @@
+OTU_ID	Family	Genus	Species	Phylum	matched_family	category	evidence_class	priority_tier	total_reads	threepoint_status	barcode19	barcode20	barcode21
+OTU_251	Gigasporaceae	Racocetra	Racocetra crispa	Mucoromycota	Gigasporaceae	Phytoremediation_facilitation	D	Supportive	11249	pass	1397	3499	6353
+OTU_222	Mortierellaceae	Linnemannia	Linnemannia solitaria	Mucoromycota	Mortierellaceae	Hydrocarbon_pollutant_associated	C	Secondary	2945	pass	342	904	1699
+OTU_205	Acaulosporaceae	Acaulospora	Acaulospora colombiana	Mucoromycota	Acaulosporaceae	Phytoremediation_facilitation	D	Supportive	2728	pass	114	633	1981
+OTU_229	Diversisporaceae	Diversispora	Diversispora spurca	Mucoromycota	Diversisporaceae	Phytoremediation_facilitation	D	Supportive	2645	pass	276	915	1454
+OTU_63	Gigasporaceae	Dentiscutata	Dentiscutata savannicola	Mucoromycota	Gigasporaceae	Phytoremediation_facilitation	D	Supportive	1665	pass	80	454	1131
+OTU_231	Diversisporaceae	Diversispora	Diversispora aurantia	Mucoromycota	Diversisporaceae	Phytoremediation_facilitation	D	Supportive	1340	pass	144	387	809
+OTU_77	Archaeosporaceae	Archaeospora	Archaeospora ecuadoriana	Mucoromycota	Archaeosporaceae	Phytoremediation_facilitation	D	Reserve	569	pass	41	195	333
+OTU_258	Mortierellaceae	Entomortierella	Entomortierella sugadairana	Mucoromycota	Mortierellaceae	Hydrocarbon_pollutant_associated	C	Secondary	448	pass	43	73	332
+OTU_216	Diversisporaceae	Redeckera	Redeckera megalocarpum	Mucoromycota	Diversisporaceae	Phytoremediation_facilitation	D	Supportive	380	pass	43	95	243
+OTU_57	Acaulosporaceae	Acaulospora	Acaulospora cavernata	Mucoromycota	Acaulosporaceae	Phytoremediation_facilitation	D	Supportive	371	pass	232	43	97
+OTU_293	Acaulosporaceae	Acaulospora	Acaulospora laevis	Mucoromycota	Acaulosporaceae	Phytoremediation_facilitation	D	Supportive	302	pass	88	56	158
+OTU_182	Pleosporaceae	Curvularia	Curvularia colbranii	Ascomycota	Pleosporaceae	Hydrocarbon_pollutant_associated	C	Secondary	189	pass	13	31	145

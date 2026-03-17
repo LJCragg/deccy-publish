@@ -1,0 +1,16 @@
+sample_1	sample_2	short_1	short_2	comparison	bray_curtis
+barcode13_120_filtered	barcode14_120_filtered	barcode13	barcode14	Within Ss1	0.25
+barcode13_120_filtered	barcode15_120_filtered	barcode13	barcode15	Within Ss1	0.273
+barcode13_120_filtered	barcode16_120_filtered	barcode13	barcode16	Between cohorts	0.586
+barcode13_120_filtered	barcode17_120_filtered	barcode13	barcode17	Between cohorts	0.603
+barcode13_120_filtered	barcode18_120_filtered	barcode13	barcode18	Between cohorts	0.528
+barcode14_120_filtered	barcode15_120_filtered	barcode14	barcode15	Within Ss1	0.145
+barcode14_120_filtered	barcode16_120_filtered	barcode14	barcode16	Between cohorts	0.531
+barcode14_120_filtered	barcode17_120_filtered	barcode14	barcode17	Between cohorts	0.534
+barcode14_120_filtered	barcode18_120_filtered	barcode14	barcode18	Between cohorts	0.511
+barcode15_120_filtered	barcode16_120_filtered	barcode15	barcode16	Between cohorts	0.522
+barcode15_120_filtered	barcode17_120_filtered	barcode15	barcode17	Between cohorts	0.523
+barcode15_120_filtered	barcode18_120_filtered	barcode15	barcode18	Between cohorts	0.475
+barcode16_120_filtered	barcode17_120_filtered	barcode16	barcode17	Within Ss2	0.21
+barcode16_120_filtered	barcode18_120_filtered	barcode16	barcode18	Within Ss2	0.147
+barcode17_120_filtered	barcode18_120_filtered	barcode17	barcode18	Within Ss2	0.211

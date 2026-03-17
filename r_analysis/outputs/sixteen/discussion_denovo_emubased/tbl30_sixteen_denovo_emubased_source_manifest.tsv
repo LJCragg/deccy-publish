@@ -1,0 +1,5 @@
+scope	pipeline	otu_table	modified_time
+Pre-threepoint	De-novo	/home/uca/chover/claude/sixteen/denovo/06_tables/otu_table_combined.tsv	2026-02-26 21:03:01.221617
+Pre-threepoint	Emu based	/home/uca/chover/claude/sixteen/emure/04_tables/otu_table_combined.tsv	2026-03-06 17:28:13.01792
+Post-threepoint	De-novo	/home/uca/chover/claude/sixteen/threepoint/outputs/otu97_threepoint.tsv	2026-03-14 16:05:35.517018
+Post-threepoint	Emu based	/home/uca/chover/claude/sixteen/threepoint/outputs/emure/emure_otu97_threepoint.tsv	2026-03-06 17:28:18.089864

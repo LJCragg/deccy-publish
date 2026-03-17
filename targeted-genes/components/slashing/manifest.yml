@@ -1,0 +1,7 @@
+name: slashing
+description: Porechop trim + fixed-threshold filtering in one pass
+entry_rule: slashing_all
+outputs:
+  - pattern: results/slashing/{sample}.slashed.fastq
+config_key: slashing
+env: envs/roadtrip.yml

@@ -1,0 +1,13 @@
+OTU_ID	sample_id	read_count	relative_abundance	member_count	Kingdom	Phylum	Class	Order	Family	Genus	Species	matched_genera	category
+OTU_222	barcode19	342	0.440722	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	Linnemannia	Soil_health_core
+OTU_222	barcode20	904	0.552567	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	Linnemannia	Soil_health_core
+OTU_222	barcode21	1699	0.431766	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	Linnemannia	Soil_health_core
+OTU_205	barcode19	114	0.146907	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	Acaulospora	Plant_beneficial_symbiont
+OTU_205	barcode20	633	0.386919	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	Acaulospora	Plant_beneficial_symbiont
+OTU_205	barcode21	1981	0.503431	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	Acaulospora	Plant_beneficial_symbiont
+OTU_57	barcode19	232	0.298969	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	Acaulospora	Plant_beneficial_symbiont
+OTU_57	barcode20	43	0.026284	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	Acaulospora	Plant_beneficial_symbiont
+OTU_57	barcode21	97	0.024651	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	Acaulospora	Plant_beneficial_symbiont
+OTU_293	barcode19	88	0.113402	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	Acaulospora	Plant_beneficial_symbiont
+OTU_293	barcode20	56	0.034230	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	Acaulospora	Plant_beneficial_symbiont
+OTU_293	barcode21	158	0.040152	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	Acaulospora	Plant_beneficial_symbiont

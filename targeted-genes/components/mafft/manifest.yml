@@ -1,0 +1,11 @@
+name: mafft
+version: 0.1.0
+description: Align per-target consensus sequences with MAFFT
+entry_rule: mafft_all
+outputs:
+  - pattern: results/mafft/{target}/alignment.fasta
+  - pattern: results/mafft/{target}/alignment.with_fragments.fasta
+  - pattern: results/mafft/{target}/fragments.fasta
+  - pattern: results/mafft/{target}/fragments.alignment.fasta
+config_key: mafft
+env: envs/roadtrip.yml

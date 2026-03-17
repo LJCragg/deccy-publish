@@ -1,0 +1,2 @@
+scope	n_samples	reads_raw_per_sample	mean_reads_qc	min_reads_qc	max_reads_qc	mean_retention_pct	min_retention_pct	max_retention_pct	mean_q_cutoff	mean_q_after	mean_len_after_bp	mean_gc_after_pct
+All	6	120000	47690	47466	47910	39.74	39.55	39.92	21.64	24.2	1456.7	54.15

@@ -1,0 +1,7 @@
+sample_id	short_id	cohort	prethreepoint_clusters	prethreepoint_reads	threepoint_clusters	threepoint_reads	associated_clusters	associated_reads	threepoint_retention_pct	associated_of_threepoint_pct	associated_of_prethreepoint_pct
+barcode13_120_filtered	barcode13	Ss1	179	46660	165	46398	21	1569	92.2	12.7	11.7
+barcode14_120_filtered	barcode14	Ss1	209	46740	181	46281	24	2569	86.6	13.3	11.5
+barcode15_120_filtered	barcode15	Ss1	209	46813	178	46246	22	1987	85.2	12.4	10.5
+barcode16_120_filtered	barcode16	Ss2	261	46412	221	45625	29	2499	84.7	13.1	11.1
+barcode17_120_filtered	barcode17	Ss2	269	46745	225	45964	30	2838	83.6	13.3	11.2
+barcode18_120_filtered	barcode18	Ss2	254	46603	226	46125	29	2205	89	12.8	11.4

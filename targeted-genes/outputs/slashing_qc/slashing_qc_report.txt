@@ -1,0 +1,81 @@
+================================================================================
+SLASHING QC SUMMARY
+================================================================================
+
+Total Samples: 5
+Total Reads In: 381,589
+Total Reads Out: 118,966 (31.2% retained)
+
+--------------------------------------------------------------------------------
+
+Sample: full_barcode01_trim
+  PRE-FILTERING:
+    Reads: 91,567
+    Length: 76-11,888 bp (median: 425)
+    Quality: Q 24.9
+  POST-FILTERING:
+    Reads: 32,147 (35.1% retained)
+    Length: 300-2,500 bp (median: 483)
+    Quality: Q 30.1 (↑ 5.3)
+  IMPACT:
+    Removed: 59,420 reads (64.9%)
+    Quality change: +5.3 median Q
+    Primer detection: 6,947/32,147 (21.6%)
+
+Sample: full_barcode02_trim
+  PRE-FILTERING:
+    Reads: 91,695
+    Length: 32-6,854 bp (median: 426)
+    Quality: Q 24.9
+  POST-FILTERING:
+    Reads: 32,320 (35.2% retained)
+    Length: 300-2,498 bp (median: 484)
+    Quality: Q 30.2 (↑ 5.3)
+  IMPACT:
+    Removed: 59,375 reads (64.8%)
+    Quality change: +5.3 median Q
+    Primer detection: 7,265/32,320 (22.5%)
+
+Sample: full_barcode03_trim
+  PRE-FILTERING:
+    Reads: 63,414
+    Length: 59-29,692 bp (median: 499)
+    Quality: Q 25.0
+  POST-FILTERING:
+    Reads: 26,120 (41.2% retained)
+    Length: 300-2,491 bp (median: 464)
+    Quality: Q 30.3 (↑ 5.4)
+  IMPACT:
+    Removed: 37,294 reads (58.8%)
+    Quality change: +5.4 median Q
+    Primer detection: 4,449/26,120 (17.0%)
+
+Sample: full_barcode04_trim
+  PRE-FILTERING:
+    Reads: 62,130
+    Length: 49-27,384 bp (median: 505)
+    Quality: Q 24.7
+  POST-FILTERING:
+    Reads: 25,073 (40.4% retained)
+    Length: 300-2,500 bp (median: 463)
+    Quality: Q 30.4 (↑ 5.7)
+  IMPACT:
+    Removed: 37,057 reads (59.6%)
+    Quality change: +5.7 median Q
+    Primer detection: 3,794/25,073 (15.1%)
+
+Sample: full_unclassified_trim
+  PRE-FILTERING:
+    Reads: 72,783
+    Length: 1-283,504 bp (median: 411)
+    Quality: Q 6.0
+  POST-FILTERING:
+    Reads: 3,306 (4.5% retained)
+    Length: 300-2,476 bp (median: 489)
+    Quality: Q 26.6 (↑ 20.6)
+  IMPACT:
+    Removed: 69,477 reads (95.5%)
+    Quality change: +20.6 median Q
+    Primer detection: 1,286/3,306 (38.9%)
+
+================================================================================

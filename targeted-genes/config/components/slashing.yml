@@ -1,0 +1,20 @@
+slashing:
+  input_dir: forme
+  pattern: full_*_trim.fastq
+  outdir: results/slashing
+  threads: 8
+  porechop_threads: 1
+  # Porechop tuning
+  porechop_extra: ""
+  # Filtering thresholds
+  min_quality: 20
+  min_length: 300
+  max_length: 2500
+  require_primer: false
+  primers_fasta: components/draftpick/admin/adapters.fa
+  adapters_fasta: components/draftpick/admin/adapters.fa
+  # Hard trim from each end before filtering
+  headcrop: 15
+  tailcrop: 15
+  # Limit reads scanned for QC (0 = all)
+  max_reads_qc: 100000

@@ -1,0 +1,5 @@
+# Deprecated: use porch.yml instead.
+# This file remains to avoid breaking references; values are ignored.
+porechop:
+  threads: 8
+  extra_args: ""

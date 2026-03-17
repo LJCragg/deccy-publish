@@ -1,0 +1,19 @@
+# MAFFT alignment configuration
+# Align per-target consensus sequences after medaka
+
+mafft:
+  medaka_dir: results/medaka
+  ref: admin/targets.fa
+  outdir: results/mafft
+
+  # Grouping mode: barcode (per-medaka target dir) or gene (assign to targets)
+  group_by: gene
+
+  # Alignment options
+  min_length: 650        # sequences shorter than this go to fragments
+  include_targets: true  # add reference targets per gene
+  extra_fasta: ""         # optional extra sequences (FASTA), filtered by target suffix
+  add_fragments: true    # if true, add fragments into main alignment output
+  minimap_preset: asm5   # mapping preset for gene assignment
+  min_identity: 0.0      # minimum identity for assigning a gene (0 = no filter)
+  threads: 4

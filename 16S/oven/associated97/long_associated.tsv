@@ -1,0 +1,9 @@
+sample_id	cluster_id	estimated_counts	abundance	tax_id	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species_subgroup	species_group
+barcode13_120_filtered	86	21.0	0.0009907605154479	1244894	Sphingomonas fonticola	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota					
+barcode14_120_filtered	86	25.0	0.001200435764577	1244894	Sphingomonas fonticola	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota					
+barcode15_120_filtered	86	16.0	0.0008892379626746	1244894	Sphingomonas fonticola	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota					
+barcode16_120_filtered	9	25.0	0.0051604846511173	2590199	Anaeromyxobacter diazotrophicus	Anaeromyxobacter	Anaeromyxobacteraceae	Myxococcales	Myxococcia	Myxococcota					
+barcode17_120_filtered	86	6.7449960386786305	0.0003666841245554	1664572	Sphingomonas piscinae	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota					
+barcode17_120_filtered	86	8.25500396132137	0.00044877400719	1244894	Sphingomonas fonticola	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota					
+barcode17_120_filtered	9	29.0	0.0056805706429727	2590199	Anaeromyxobacter diazotrophicus	Anaeromyxobacter	Anaeromyxobacteraceae	Myxococcales	Myxococcia	Myxococcota					
+barcode18_120_filtered	9	21.0	0.0040348542730865	2590199	Anaeromyxobacter diazotrophicus	Anaeromyxobacter	Anaeromyxobacteraceae	Myxococcales	Myxococcia	Myxococcota					

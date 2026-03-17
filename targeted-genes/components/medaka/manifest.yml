@@ -1,0 +1,9 @@
+name: medaka
+description: Enhanced consensus generation with quality validation from sonomek patterns
+entry_rule: medaka_all
+outputs:
+  - pattern: results/medaka/{target}/{barcode}/cluster_*/consensus.fasta
+  - pattern: results/medaka/{target}/{barcode}/cluster_*/qc_stats.json
+  - pattern: results/medaka/{target}/{barcode}/merged_consensus.fasta
+config_key: medaka
+env: envs/roadtrip.yml

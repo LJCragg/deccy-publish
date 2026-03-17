@@ -1,0 +1,5 @@
+module	n_taxa	n_degraders	degrader_genera	mean_degree	max_degree	top_taxa	top_phyla
+1	16	1	Myxococcales	10.6	14	Blastocatellales; Bryobacterales; Pedosphaerales	Bacillota (4); Bacteroidota (3); Acidobacteriota (2)
+2	26	4	Burkholderiales; Eubacteriales; Hyphomicrobiales; Sphingomonadales	20.4	25	Rhodocyclales; Sphingomonadales; Vicinamibacterales	Pseudomonadota (12); Bacillota (5); Bacteroidota (2)
+3	4	0		2	3	Acidimicrobiales; Propionibacteriales; Rhodospirillales	Actinomycetota (2); Pseudomonadota (1)
+4	2	0		1	1	Bdellovibrionales; Geobacterales	Bdellovibrionota (1); Thermodesulfobacteriota (1)

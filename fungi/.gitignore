@@ -1,0 +1,46 @@
+# Data and binaries
+input/
+house/input/
+output/
+house/output/
+dordowna/
+house/dordowna/
+mapping/refdbs/mimt18s/src/
+mapping/refdbs/mimt18s/emu_db/
+mapping/refdbs/mimt18s/*.tar.gz
+mapping/refdbs/mimt18s/*.gz
+mapping/refdbs/mimt18s/*.zip
+vendor/
+house/vendor/
+*.pod5
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.tar.gz
+*.tgz
+*.zip
+*:Zone.Identifier
+.nextflow*
+work/
+rout/
+mapping/out/
+oven/slashing/logs/
+oven/slashing/filtered/
+oven/slashing/trimmed/
+oven/slashing/qc_before/
+oven/slashing/qc_after/
+oven/slashing/summary.tsv
+
+# Environments and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Misc
+*.log
+.conda/
+env-*/
+mapping/refdbs/mergemimt/
+mapping/refdbs/mimt18s/
+mapping/refdbs/unit/

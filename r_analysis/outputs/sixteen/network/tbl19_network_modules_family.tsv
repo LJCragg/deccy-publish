@@ -1,0 +1,6 @@
+module	n_taxa	n_degraders	degrader_genera	mean_degree	max_degree	top_taxa	top_phyla
+1	3	1	Flavobacteriaceae	2.7	3	Abditibacteriaceae; Eubacteriales Family XII. Incertae Sedis; Flavobacteriaceae	Abditibacteriota (1); Bacillota (1); Bacteroidota (1)
+2	46	6	Comamonadaceae; Desulfitobacteriaceae; Eubacteriaceae; Sphingomonadaceae; Sphingopyxidaceae; Sphingorhabdaceae	31.2	39	Rhodocyclaceae; Vicinamibacteraceae; Acidilutibacteraceae	Pseudomonadota (23); Bacillota (12); Bacteroidota (4)
+3	30	2	Anaeromyxobacteraceae; Sphingobiaceae	23.2	28	Bryobacteraceae; Pedosphaeraceae; Rhodospirillaceae	Bacillota (10); Bacteroidota (8); Pseudomonadota (4)
+4	7	1	Rhizobiaceae	5.1	6	Iamiaceae; Microbacteriaceae; Rhizobiaceae	Actinomycetota (3); Pseudomonadota (3)
+5	2	0		1	1	Geobacteraceae; Pseudobdellovibrionaceae	Bdellovibrionota (1); Thermodesulfobacteriota (1)

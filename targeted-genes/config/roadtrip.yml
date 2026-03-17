@@ -1,0 +1,18 @@
+# Global toggles and defaults for roadtrip
+# Enable/disable components and choose dataflow.
+
+components:
+  bc_m3: false     # set true when basecalling is wired
+  slashing: true   # combined trim+filter (porechop + draftpick gate) - WORKING WELL
+  porch: false     # legacy trim-only (disabled)
+  draftpick: false # legacy filter-only (disabled)
+  postage: true    # run mapping/validation
+  greedhunt: true  # ENHANCED: product detection with quality metrics
+  isonclust3: true # clustering of greedhunt outputs into putative gene-family clusters
+  medaka: true     # ENHANCED: consensus generation with quality validation
+  mafft: true      # optional: align consensus sequences per target
+
+flow:
+  postage_input: slashing  # 'slashing', 'draftpick', 'trimmed' or 'raw'
+
+threads: 8

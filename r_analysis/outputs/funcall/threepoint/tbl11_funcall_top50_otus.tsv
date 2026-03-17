@@ -1,0 +1,51 @@
+OTU_ID	Genus	Species	Phylum	Class	Order	Family	total_reads	n_samples	rank	pct_total
+OTU_48	Chlamydomonas	Chlamydomonas reinhardtii	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	35082.6	4	1	18.51711492216843
+OTU_251	Racocetra	Racocetra crispa	Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	12065.8	4	2	6.368507614256067
+OTU_122	Chytridium	Chytridium olla	Chytridiomycota	Chytridiomycetes	Chytridiales	Chytridiaceae	11246.3	4	3	5.935963399211656
+OTU_58	Jimgerdemannia	Jimgerdemannia lactiflua	Mucoromycota	Endogonomycetes	Endogonales	Endogonaceae	11175.3	4	4	5.898488549586088
+OTU_38	Aureobasidium	Aureobasidium pullulans	Ascomycota	Dothideomycetes	Dothideales	Saccotheciaceae	10447.8	4	5	5.514503294619878
+OTU_36	Vishniacozyma	Vishniacozyma tephrensis	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	9995.9	4	6	5.275983793974889
+OTU_200	Monoblepharis	Monoblepharis macrandra	Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Monoblepharidaceae	7110.9	4	7	3.753238143696519
+OTU_301	Metschnikowia	Metschnikowia dekortorum	Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	6400.2	4	8	3.3781201770924163
+OTU_24	Mitosporidium	Mitosporidium daphniae	Microsporidia				4113.1	4	9	2.170954985844008
+OTU_29	Agaricus	Agaricus bisporus	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	4033.2	4	10	2.128782584645657
+OTU_284	Metschnikowia	Metschnikowia vanudenii	Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	4010.1	4	11	2.1165900631477608
+OTU_32	Spizellomyces	Spizellomyces acuminatus	Chytridiomycota	Chytridiomycetes	Spizellomycetales	Spizellomycetaceae	3398.8	4	12	1.7939368860194531
+OTU_222	Linnemannia	Linnemannia solitaria	Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	3140.7	4	13	1.657707890408761
+OTU_205	Acaulospora	Acaulospora colombiana	Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	2952.9	4	14	1.5585842740752158
+OTU_78	Basidiobolus	Basidiobolus magnus	Zoopagomycota	Basidiobolomycetes	Basidiobolales	Basidiobolaceae	2893.5	4	15	1.5272320759377687
+OTU_229	Diversispora	Diversispora spurca	Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	2791.8	4	16	1.473553312460018
+OTU_97	Dactylidispora	Dactylidispora ellipsospora	Ascomycota	Sordariomycetes	Coronophorales	Ceratostomataceae	2719.3	4	17	1.4352867406592618
+OTU_0	Lactarius	Lactarius deliciosus	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	2569.9	4	18	1.356431212010531
+OTU_31	Aphanomyces	Aphanomyces astaci	Oomycota	Saprolegniomycetes	Saprolegniales	Verrucalvaceae	2250.1	4	19	1.1876360442604366
+OTU_121	Quaeritorhiza	Quaeritorhiza haematococci	Chytridiomycota	Chytridiomycetes		Quaeritorhizaceae	1820.2	4	20	0.9607284688515384
+OTU_63	Dentiscutata	Dentiscutata savannicola	Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	1792	4	21	0.9458440919580029
+OTU_252	Puccinia	Puccinia wiehei	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	1662.3	4	22	0.8773865145434085
+OTU_66	Helenozyma	Helenozyma melibiosica	Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	1608.4	4	23	0.8489372977149843
+OTU_62	Spiromyces	Spiromyces minutus	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	1462.7	4	24	0.7720346837650507
+OTU_188	Hydnum	Hydnum cremeoalbum	Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	1461.7	4	25	0.7715068689815919
+OTU_231	Diversispora	Diversispora aurantia	Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	1402	4	26	0.7399963264091072
+OTU_25	Phytophthora	Phytophthora cinnamomi	Oomycota	Peronosporomycetes	Peronosporales	Peronosporaceae	1401.9	4	27	0.7399435449307613
+OTU_41	Parastagonospora	Parastagonospora nodorum	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	1196.5	4	28	0.6315303884083429
+OTU_35	Blastobotrys	Blastobotrys chiropterorum	Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	1138.5	4	29	0.6009171309677379
+OTU_27	Aphanomyces	Aphanomyces invadans	Oomycota	Saprolegniomycetes	Saprolegniales	Verrucalvaceae	1081.8	4	30	0.5709900327456292
+OTU_90	Metschnikowia	Metschnikowia laotica	Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	848.7	4	31	0.4479564067214046
+OTU_289	Kodamaea	Kodamaea kakaduensis	Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	808.7	4	32	0.4268438153830563
+OTU_137	Hydnum	Hydnum reginae	Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	734.2	4	33	0.38752161401538265
+OTU_91	Lipomyces	Lipomyces oligophaga	Ascomycota	Lipomycetes	Lipomycetales	Lipomycetaceae	714	4	34	0.37685975538951677
+OTU_113	Gromochytrium	Gromochytrium mamkaevae	Chytridiomycota	Chytridiomycetes	Gromochytriales	Gromochytriaceae	713.5	4	35	0.3765958479977874
+OTU_71	Kodamaea	Kodamaea ohmeri	Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	707.4	4	36	0.3733761778186893
+OTU_15	Skoua	Skoua fertilis	Ascomycota	Leotiomycetes		Myxotrichaceae	685.4	3	37	0.36176425258259776
+OTU_68	Piptocephalis	Piptocephalis corymbifera	Zoopagomycota	Zoopagomycetes	Zoopagales	Piptocephalidaceae	663.6	4	38	0.3502578903031979
+OTU_303	Gorgonomyces	Gorgonomyces thailandicus	Chytridiomycota	Chytridiomycetes	Rhizophydiales	Gorgonomycetaceae	657.5	4	39	0.34703822012409985
+OTU_294	Buwchfawromyces	Buwchfawromyces eastonii	Chytridiomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	623.6999999999999	4	40	0.3291980804431955
+OTU_77	Archaeospora	Archaeospora ecuadoriana	Mucoromycota	Glomeromycetes	Archaeosporales	Archaeosporaceae	620.7	4	41	0.32761463609281943
+OTU_49	Wickerhamiella	Wickerhamiella sorbophila	Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	606.1	4	42	0.3199085402543223
+OTU_44	Yamadazyma	Yamadazyma scolyti	Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	578.4	3	43	0.3052880707525161
+OTU_118	Lobosporangium	Lobosporangium transversale	Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	563.9	2	44	0.29763475639236486
+OTU_88	Dasyspora	Dasyspora nitidae	Basidiomycota	Pucciniomycetes	Pucciniales	Sphaerophragmiaceae	561.5	3	45	0.29636800091206394
+OTU_73	Sporobolomyces	Sporobolomyces beijingensis	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	557.5	3	46	0.29425674177822914
+OTU_179	Sporobolomyces	Sporobolomyces cellobiolyticus	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	548.8	4	47	0.28966475316213836
+OTU_116	Meliola	Meliola pottsiae	Ascomycota	Sordariomycetes	Meliolales	Meliolaceae	542.2	4	48	0.28618117559131095
+OTU_197	Milesina	Milesina woodwardiana	Basidiomycota	Pucciniomycetes	Pucciniales	Milesinaceae	506.5	4	49	0.26733818782183505
+OTU_46	Pseudallescheria	Pseudallescheria ellipsoidea	Ascomycota	Sordariomycetes	Microascales	Microascaceae	488.5	3	50	0.25783752171957836

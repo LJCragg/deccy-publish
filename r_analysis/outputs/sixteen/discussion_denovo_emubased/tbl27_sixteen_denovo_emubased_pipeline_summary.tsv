@@ -1,0 +1,25 @@
+scope	metric	Emu based	De-novo
+Pre-threepoint	Total OTUs (pooled run)	353	857
+Pre-threepoint	Observed OTUs per sample	230.2 +/- 36.2	690.7 +/- 49.2
+Pre-threepoint	Total genera (pooled run)	242	288
+Pre-threepoint	Genera per sample	165.5 +/- 31.0	257.0 +/- 14.0
+Pre-threepoint	Shared genera with other pipeline	193	193
+Pre-threepoint	Pipeline-only genera	49	95
+Pre-threepoint	Shannon per sample	4.13 +/- 0.38	4.62 +/- 0.27
+Pre-threepoint	Simpson per sample	0.963 +/- 0.020	0.971 +/- 0.011
+Pre-threepoint	Mean reads per sample	46662 +/- 143	40426 +/- 1934
+Pre-threepoint	Global cluster size mean	793	283
+Pre-threepoint	Global cluster size median	136	48
+Pre-threepoint	Global cluster size mode	28	19
+Post-threepoint	Total OTUs (pooled run)	245	357
+Post-threepoint	Observed OTUs per sample	199.3 +/- 27.6	313.3 +/- 14.2
+Post-threepoint	Total genera (pooled run)	177	153
+Post-threepoint	Genera per sample	146.2 +/- 25.4	141.0 +/- 6.9
+Post-threepoint	Shared genera with other pipeline	125	125
+Post-threepoint	Pipeline-only genera	52	28
+Post-threepoint	Shannon per sample	4.07 +/- 0.37	4.31 +/- 0.25
+Post-threepoint	Simpson per sample	0.962 +/- 0.020	0.968 +/- 0.012
+Post-threepoint	Mean reads per sample	46106 +/- 278	37972 +/- 2016
+Post-threepoint	Global cluster size mean	1129	638
+Post-threepoint	Global cluster size median	276	162
+Post-threepoint	Global cluster size mode	53	63

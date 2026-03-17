@@ -1,0 +1,37 @@
+cohort	phylum	total_estimated_counts	pct_of_cohort
+Ss1	Bacillota	102197.9	71.53
+Ss1	Pseudomonadota	33750.1	23.62
+Ss1	Unknown	2705	1.89
+Ss1	Bacteroidota	1534	1.07
+Ss1	Gemmatimonadota	799	0.56
+Ss1	Candidatus Melainabacteria	418	0.29
+Ss1	Actinomycetota	310	0.22
+Ss1	Verrucomicrobiota	302	0.21
+Ss1	Fusobacteriota	209	0.15
+Ss1	Acidobacteriota	169	0.12
+Ss1	Myxococcota	118	0.08
+Ss1	Rhodothermota	92	0.06
+Ss1	Armatimonadota	78	0.05
+Ss1	Abditibacteriota	71	0.05
+Ss1	Thermodesulfobacteriota	63	0.04
+Ss1	Deinococcota	28	0.02
+Ss1	Bdellovibrionota	21	0.01
+Ss2	Bacillota	90276.4	63.36
+Ss2	Pseudomonadota	32885.2	23.08
+Ss2	Bacteroidota	11673.8	8.19
+Ss2	Unknown	2892.4	2.03
+Ss2	Myxococcota	781	0.55
+Ss2	Mycoplasmatota	775	0.54
+Ss2	Gemmatimonadota	736.5	0.52
+Ss2	Verrucomicrobiota	435	0.31
+Ss2	Candidatus Saccharimonadota	358	0.25
+Ss2	Actinomycetota	307.4	0.22
+Ss2	Abditibacteriota	300	0.21
+Ss2	Acidobacteriota	294	0.21
+Ss2	Candidatus Melainabacteria	239	0.17
+Ss2	Armatimonadota	186	0.13
+Ss2	Bdellovibrionota	162.6	0.11
+Ss2	Thermodesulfobacteriota	67	0.05
+Ss2	Rhodothermota	45	0.03
+Ss2	Chloroflexota	40	0.03
+Ss2	Fusobacteriota	34.8	0.02

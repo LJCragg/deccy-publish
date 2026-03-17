@@ -1,0 +1,7 @@
+cohort	short_id	sample	replicate	reads_raw	reads_qc	retention_pct	q_cutoff	mean_q_after	mean_len_after_bp	mean_gc_after_pct
+Ss1	barcode13	BC13	1	120000	47731	39.78	21.6	24.14	1477.4	54.38
+Ss1	barcode14	BC14	2	120000	47910	39.92	21.84	24.38	1455.7	54.35
+Ss1	barcode15	BC15	3	120000	47909	39.92	21.76	24.36	1454	54.38
+Ss2	barcode16	BC16	1	120000	47466	39.55	21.5	24.06	1453	53.92
+Ss2	barcode17	BC17	2	120000	47560	39.63	21.61	24.17	1448.4	53.97
+Ss2	barcode18	BC18	3	120000	47563	39.64	21.54	24.11	1451.4	53.92

@@ -1,0 +1,187 @@
+OTU_ID	sample_id	read_count	relative_abundance	member_count	Kingdom	Phylum	Class	Order	Family	Genus	Species	matched_phylum	category
+OTU_251	barcode19	1397	0.136840	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Racocetra	Racocetra crispa	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_251	barcode20	3499	0.126222	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Racocetra	Racocetra crispa	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_251	barcode21	6353	0.114851	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Racocetra	Racocetra crispa	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_58	barcode19	586	0.057400	6		Mucoromycota	Endogonomycetes	Endogonales	Endogonaceae	Vinositunica	Vinositunica ingens	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_58	barcode20	2570	0.092709	6		Mucoromycota	Endogonomycetes	Endogonales	Endogonaceae	Vinositunica	Vinositunica ingens	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_58	barcode21	7468	0.135009	6		Mucoromycota	Endogonomycetes	Endogonales	Endogonaceae	Vinositunica	Vinositunica ingens	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_38	barcode19	524	0.051327	26		Ascomycota	Dothideomycetes	Mycosphaerellales	Teratosphaeriaceae	Salinomyces	Salinomyces polonicus	Ascomycota	Pollutant_responsive
+OTU_38	barcode20	2835	0.102269	26		Ascomycota	Dothideomycetes	Mycosphaerellales	Teratosphaeriaceae	Salinomyces	Salinomyces polonicus	Ascomycota	Pollutant_responsive
+OTU_38	barcode21	6564	0.118666	26		Ascomycota	Dothideomycetes	Mycosphaerellales	Teratosphaeriaceae	Salinomyces	Salinomyces polonicus	Ascomycota	Pollutant_responsive
+OTU_36	barcode19	1386	0.135763	3		Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella shivajii	Basidiomycota	Direct_POP_degradation
+OTU_36	barcode20	2488	0.089751	3		Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella shivajii	Basidiomycota	Direct_POP_degradation
+OTU_36	barcode21	5640	0.101961	3		Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	Kwoniella shivajii	Basidiomycota	Direct_POP_degradation
+OTU_301	barcode19	830	0.081301	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia dekortorum	Ascomycota	Pollutant_responsive
+OTU_301	barcode20	1267	0.045705	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia dekortorum	Ascomycota	Pollutant_responsive
+OTU_301	barcode21	4013	0.072548	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia dekortorum	Ascomycota	Pollutant_responsive
+OTU_284	barcode19	657	0.064355	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia vanudenii	Ascomycota	Pollutant_responsive
+OTU_284	barcode20	830	0.029941	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia vanudenii	Ascomycota	Pollutant_responsive
+OTU_284	barcode21	2365	0.042755	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia vanudenii	Ascomycota	Pollutant_responsive
+OTU_29	barcode19	31	0.003037	8		Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Gloiocephala	Gloiocephala aquatica	Basidiomycota	Direct_POP_degradation
+OTU_29	barcode20	2282	0.082320	8		Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Gloiocephala	Gloiocephala aquatica	Basidiomycota	Direct_POP_degradation
+OTU_29	barcode21	1497	0.027063	8		Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Gloiocephala	Gloiocephala aquatica	Basidiomycota	Direct_POP_degradation
+OTU_222	barcode19	342	0.033500	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_222	barcode20	904	0.032611	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_222	barcode21	1699	0.030715	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Linnemannia	Linnemannia solitaria	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_205	barcode19	114	0.011167	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_205	barcode20	633	0.022835	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_205	barcode21	1981	0.035813	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora colombiana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_229	barcode19	276	0.027035	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora spurca	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_229	barcode20	915	0.033007	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora spurca	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_229	barcode21	1454	0.026286	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora spurca	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_97	barcode19	285	0.027917	5		Ascomycota	Sordariomycetes	Coronophorales	Ceratostomataceae	Dactylidispora	Dactylidispora singaporensis	Ascomycota	Pollutant_responsive
+OTU_97	barcode20	1059	0.038202	5		Ascomycota	Sordariomycetes	Coronophorales	Ceratostomataceae	Dactylidispora	Dactylidispora singaporensis	Ascomycota	Pollutant_responsive
+OTU_97	barcode21	1238	0.022381	5		Ascomycota	Sordariomycetes	Coronophorales	Ceratostomataceae	Dactylidispora	Dactylidispora singaporensis	Ascomycota	Pollutant_responsive
+OTU_0	barcode19	16	0.001567	7		Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Psilocybe	Psilocybe cubensis	Basidiomycota	Direct_POP_degradation
+OTU_0	barcode20	2365	0.085314	7		Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Psilocybe	Psilocybe cubensis	Basidiomycota	Direct_POP_degradation
+OTU_0	barcode21	87	0.001573	7		Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Psilocybe	Psilocybe cubensis	Basidiomycota	Direct_POP_degradation
+OTU_63	barcode19	80	0.007836	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Dentiscutata	Dentiscutata savannicola	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_63	barcode20	454	0.016377	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Dentiscutata	Dentiscutata savannicola	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_63	barcode21	1131	0.020447	1		Mucoromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Dentiscutata	Dentiscutata savannicola	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_252	barcode19	346	0.033892	1		Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia wiehei	Basidiomycota	Direct_POP_degradation
+OTU_252	barcode20	322	0.011616	1		Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia wiehei	Basidiomycota	Direct_POP_degradation
+OTU_252	barcode21	887	0.016035	1		Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia wiehei	Basidiomycota	Direct_POP_degradation
+OTU_66	barcode19	120	0.011754	6		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Danielia	Danielia oregonensis	Ascomycota	Pollutant_responsive
+OTU_66	barcode20	445	0.016053	6		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Danielia	Danielia oregonensis	Ascomycota	Pollutant_responsive
+OTU_66	barcode21	970	0.017536	6		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Danielia	Danielia oregonensis	Ascomycota	Pollutant_responsive
+OTU_188	barcode19	42	0.004114	2		Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Hydnum	Hydnum pinicola	Basidiomycota	Direct_POP_degradation
+OTU_188	barcode20	284	0.010245	2		Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Hydnum	Hydnum pinicola	Basidiomycota	Direct_POP_degradation
+OTU_188	barcode21	1025	0.018530	2		Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Hydnum	Hydnum pinicola	Basidiomycota	Direct_POP_degradation
+OTU_231	barcode19	144	0.014105	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora aurantia	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_231	barcode20	387	0.013961	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora aurantia	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_231	barcode21	809	0.014625	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora aurantia	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_41	barcode19	33	0.003232	1		Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora nodorum	Ascomycota	Pollutant_responsive
+OTU_41	barcode20	22	0.000794	1		Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora nodorum	Ascomycota	Pollutant_responsive
+OTU_41	barcode21	1074	0.019416	1		Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora nodorum	Ascomycota	Pollutant_responsive
+OTU_35	barcode19	241	0.023607	4		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Sugiyamaella	Sugiyamaella lignohabitans	Ascomycota	Pollutant_responsive
+OTU_35	barcode20	217	0.007828	4		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Sugiyamaella	Sugiyamaella lignohabitans	Ascomycota	Pollutant_responsive
+OTU_35	barcode21	609	0.011010	4		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Sugiyamaella	Sugiyamaella lignohabitans	Ascomycota	Pollutant_responsive
+OTU_90	barcode19	44	0.004310	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia laotica	Ascomycota	Pollutant_responsive
+OTU_90	barcode20	216	0.007792	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia laotica	Ascomycota	Pollutant_responsive
+OTU_90	barcode21	525	0.009491	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Metschnikowia	Metschnikowia laotica	Ascomycota	Pollutant_responsive
+OTU_289	barcode19	145	0.014203	1		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Kodamaea	Kodamaea kakaduensis	Ascomycota	Pollutant_responsive
+OTU_289	barcode20	153	0.005519	1		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Kodamaea	Kodamaea kakaduensis	Ascomycota	Pollutant_responsive
+OTU_289	barcode21	476	0.008605	1		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Kodamaea	Kodamaea kakaduensis	Ascomycota	Pollutant_responsive
+OTU_15	barcode19	107	0.010481	9		Ascomycota	Dothideomycetes	Hysteriales	Hysteriaceae	Gloniopsis	Gloniopsis calami	Ascomycota	Pollutant_responsive
+OTU_15	barcode20	217	0.007828	9		Ascomycota	Dothideomycetes	Hysteriales	Hysteriaceae	Gloniopsis	Gloniopsis calami	Ascomycota	Pollutant_responsive
+OTU_15	barcode21	362	0.006544	9		Ascomycota	Dothideomycetes	Hysteriales	Hysteriaceae	Gloniopsis	Gloniopsis calami	Ascomycota	Pollutant_responsive
+OTU_71	barcode19	23	0.002253	4		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Kodamaea	Kodamaea ohmeri	Ascomycota	Pollutant_responsive
+OTU_71	barcode20	170	0.006133	4		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Kodamaea	Kodamaea ohmeri	Ascomycota	Pollutant_responsive
+OTU_71	barcode21	491	0.008876	4		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Kodamaea	Kodamaea ohmeri	Ascomycota	Pollutant_responsive
+OTU_137	barcode19	39	0.003820	1		Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Hydnum	Hydnum reginae	Basidiomycota	Direct_POP_degradation
+OTU_137	barcode20	192	0.006926	1		Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Hydnum	Hydnum reginae	Basidiomycota	Direct_POP_degradation
+OTU_137	barcode21	444	0.008027	1		Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Hydnum	Hydnum reginae	Basidiomycota	Direct_POP_degradation
+OTU_91	barcode19	117	0.011460	1		Ascomycota	Lipomycetes	Lipomycetales	Lipomycetaceae	Lipomyces	Lipomyces oligophaga	Ascomycota	Pollutant_responsive
+OTU_91	barcode20	160	0.005772	1		Ascomycota	Lipomycetes	Lipomycetales	Lipomycetaceae	Lipomyces	Lipomyces oligophaga	Ascomycota	Pollutant_responsive
+OTU_91	barcode21	389	0.007032	1		Ascomycota	Lipomycetes	Lipomycetales	Lipomycetaceae	Lipomyces	Lipomyces oligophaga	Ascomycota	Pollutant_responsive
+OTU_49	barcode19	82	0.008032	3		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Wickerhamiella	Wickerhamiella osmotolerans	Ascomycota	Pollutant_responsive
+OTU_49	barcode20	155	0.005591	3		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Wickerhamiella	Wickerhamiella osmotolerans	Ascomycota	Pollutant_responsive
+OTU_49	barcode21	351	0.006345	3		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Wickerhamiella	Wickerhamiella osmotolerans	Ascomycota	Pollutant_responsive
+OTU_44	barcode19	122	0.011950	5		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Yamadazyma	[Candida] blattariae	Ascomycota	Pollutant_responsive
+OTU_44	barcode20	200	0.007215	5		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Yamadazyma	[Candida] blattariae	Ascomycota	Pollutant_responsive
+OTU_44	barcode21	256	0.004628	5		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Yamadazyma	[Candida] blattariae	Ascomycota	Pollutant_responsive
+OTU_77	barcode19	41	0.004016	1		Mucoromycota	Glomeromycetes	Archaeosporales	Archaeosporaceae	Archaeospora	Archaeospora ecuadoriana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_77	barcode20	195	0.007034	1		Mucoromycota	Glomeromycetes	Archaeosporales	Archaeosporaceae	Archaeospora	Archaeospora ecuadoriana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_77	barcode21	333	0.006020	1		Mucoromycota	Glomeromycetes	Archaeosporales	Archaeosporaceae	Archaeospora	Archaeospora ecuadoriana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_88	barcode19	438	0.042903	3		Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	Pucciniastrum	Pucciniastrum myosotidii	Basidiomycota	Direct_POP_degradation
+OTU_88	barcode20	45	0.001623	3		Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	Pucciniastrum	Pucciniastrum myosotidii	Basidiomycota	Direct_POP_degradation
+OTU_88	barcode21	79	0.001428	3		Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	Pucciniastrum	Pucciniastrum myosotidii	Basidiomycota	Direct_POP_degradation
+OTU_73	barcode19	33	0.003232	5		Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces beijingensis	Basidiomycota	Direct_POP_degradation
+OTU_73	barcode20	116	0.004185	5		Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces beijingensis	Basidiomycota	Direct_POP_degradation
+OTU_73	barcode21	409	0.007394	5		Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces beijingensis	Basidiomycota	Direct_POP_degradation
+OTU_179	barcode19	35	0.003428	3		Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces cellobiolyticus	Basidiomycota	Direct_POP_degradation
+OTU_179	barcode20	165	0.005952	3		Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces cellobiolyticus	Basidiomycota	Direct_POP_degradation
+OTU_179	barcode21	306	0.005532	3		Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces cellobiolyticus	Basidiomycota	Direct_POP_degradation
+OTU_46	barcode19	186	0.018219	8		Ascomycota	Sordariomycetes	Glomerellales	Australiascaceae	Monilochaetes	Monilochaetes dimorphospora	Ascomycota	Pollutant_responsive
+OTU_46	barcode20	142	0.005122	8		Ascomycota	Sordariomycetes	Glomerellales	Australiascaceae	Monilochaetes	Monilochaetes dimorphospora	Ascomycota	Pollutant_responsive
+OTU_46	barcode21	160	0.002893	8		Ascomycota	Sordariomycetes	Glomerellales	Australiascaceae	Monilochaetes	Monilochaetes dimorphospora	Ascomycota	Pollutant_responsive
+OTU_116	barcode19	39	0.003820	1		Ascomycota	Sordariomycetes	Meliolales	Meliolaceae	Meliola	Meliola pottsiae	Ascomycota	Pollutant_responsive
+OTU_116	barcode20	96	0.003463	1		Ascomycota	Sordariomycetes	Meliolales	Meliolaceae	Meliola	Meliola pottsiae	Ascomycota	Pollutant_responsive
+OTU_116	barcode21	327	0.005912	1		Ascomycota	Sordariomycetes	Meliolales	Meliolaceae	Meliola	Meliola pottsiae	Ascomycota	Pollutant_responsive
+OTU_197	barcode19	40	0.003918	1		Basidiomycota	Pucciniomycetes	Pucciniales	Milesinaceae	Milesina	Milesina woodwardiana	Basidiomycota	Direct_POP_degradation
+OTU_197	barcode20	101	0.003643	1		Basidiomycota	Pucciniomycetes	Pucciniales	Milesinaceae	Milesina	Milesina woodwardiana	Basidiomycota	Direct_POP_degradation
+OTU_197	barcode21	308	0.005568	1		Basidiomycota	Pucciniomycetes	Pucciniales	Milesinaceae	Milesina	Milesina woodwardiana	Basidiomycota	Direct_POP_degradation
+OTU_258	barcode19	43	0.004212	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Entomortierella	Entomortierella sugadairana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_258	barcode20	73	0.002633	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Entomortierella	Entomortierella sugadairana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_258	barcode21	332	0.006002	1		Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Entomortierella	Entomortierella sugadairana	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_216	barcode19	43	0.004212	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Redeckera	Redeckera megalocarpum	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_216	barcode20	95	0.003427	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Redeckera	Redeckera megalocarpum	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_216	barcode21	243	0.004393	1		Mucoromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Redeckera	Redeckera megalocarpum	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_57	barcode19	232	0.022725	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_57	barcode20	43	0.001551	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_57	barcode21	97	0.001754	2		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora cavernata	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_261	barcode19	44	0.004310	1		Ascomycota	Saccharomycetes	Phaffomycetales	Phaffomycetaceae	Phaffomyces	[Candida] orba	Ascomycota	Pollutant_responsive
+OTU_261	barcode20	105	0.003788	1		Ascomycota	Saccharomycetes	Phaffomycetales	Phaffomycetaceae	Phaffomyces	[Candida] orba	Ascomycota	Pollutant_responsive
+OTU_261	barcode21	180	0.003254	1		Ascomycota	Saccharomycetes	Phaffomycetales	Phaffomycetaceae	Phaffomyces	[Candida] orba	Ascomycota	Pollutant_responsive
+OTU_72	barcode19	43	0.004212	2		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Danielozyma	Danielozyma litseae	Ascomycota	Pollutant_responsive
+OTU_72	barcode20	100	0.003607	2		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Danielozyma	Danielozyma litseae	Ascomycota	Pollutant_responsive
+OTU_72	barcode21	180	0.003254	2		Ascomycota	Pichiomycetes	Serinales	Debaryomycetaceae	Danielozyma	Danielozyma litseae	Ascomycota	Pollutant_responsive
+OTU_84	barcode19	19	0.001861	1		Ascomycota				Novakomyces	Novakomyces olei	Ascomycota	Pollutant_responsive
+OTU_84	barcode20	72	0.002597	1		Ascomycota				Novakomyces	Novakomyces olei	Ascomycota	Pollutant_responsive
+OTU_84	barcode21	215	0.003887	1		Ascomycota				Novakomyces	Novakomyces olei	Ascomycota	Pollutant_responsive
+OTU_293	barcode19	88	0.008620	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_293	barcode20	56	0.002020	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_293	barcode21	158	0.002856	1		Mucoromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora laevis	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_109	barcode19	52	0.005094	1		Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Dicephalospora	Dicephalospora sessilis	Ascomycota	Pollutant_responsive
+OTU_109	barcode20	65	0.002345	1		Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Dicephalospora	Dicephalospora sessilis	Ascomycota	Pollutant_responsive
+OTU_109	barcode21	183	0.003308	1		Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Dicephalospora	Dicephalospora sessilis	Ascomycota	Pollutant_responsive
+OTU_39	barcode19	29	0.002841	1		Basidiomycota	Ustilaginomycetes	Ustilaginales		Kalmanozyma	Kalmanozyma brasiliensis	Basidiomycota	Direct_POP_degradation
+OTU_39	barcode20	161	0.005808	1		Basidiomycota	Ustilaginomycetes	Ustilaginales		Kalmanozyma	Kalmanozyma brasiliensis	Basidiomycota	Direct_POP_degradation
+OTU_39	barcode21	105	0.001898	1		Basidiomycota	Ustilaginomycetes	Ustilaginales		Kalmanozyma	Kalmanozyma brasiliensis	Basidiomycota	Direct_POP_degradation
+OTU_60	barcode19	27	0.002645	1		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Wickerhamiella	Wickerhamiella galacta	Ascomycota	Pollutant_responsive
+OTU_60	barcode20	115	0.004148	1		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Wickerhamiella	Wickerhamiella galacta	Ascomycota	Pollutant_responsive
+OTU_60	barcode21	126	0.002278	1		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Wickerhamiella	Wickerhamiella galacta	Ascomycota	Pollutant_responsive
+OTU_107	barcode19	59	0.005779	2		Ascomycota	Dothideomycetes	Pleosporales	Lentitheciaceae	Darksidea	Darksidea zeta	Ascomycota	Pollutant_responsive
+OTU_107	barcode20	65	0.002345	2		Ascomycota	Dothideomycetes	Pleosporales	Lentitheciaceae	Darksidea	Darksidea zeta	Ascomycota	Pollutant_responsive
+OTU_107	barcode21	134	0.002422	2		Ascomycota	Dothideomycetes	Pleosporales	Lentitheciaceae	Darksidea	Darksidea zeta	Ascomycota	Pollutant_responsive
+OTU_268	barcode19	72	0.007053	1		Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	Apiotrichum otae	Basidiomycota	Direct_POP_degradation
+OTU_268	barcode20	108	0.003896	1		Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	Apiotrichum otae	Basidiomycota	Direct_POP_degradation
+OTU_268	barcode21	30	0.000542	1		Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	Apiotrichum otae	Basidiomycota	Direct_POP_degradation
+OTU_230	barcode19	130	0.012734	1		Basidiomycota	Pucciniomycetes	Pucciniales	Sphaerophragmiaceae	Dasyspora	Dasyspora frutescentis	Basidiomycota	Direct_POP_degradation
+OTU_230	barcode20	24	0.000866	1		Basidiomycota	Pucciniomycetes	Pucciniales	Sphaerophragmiaceae	Dasyspora	Dasyspora frutescentis	Basidiomycota	Direct_POP_degradation
+OTU_230	barcode21	50	0.000904	1		Basidiomycota	Pucciniomycetes	Pucciniales	Sphaerophragmiaceae	Dasyspora	Dasyspora frutescentis	Basidiomycota	Direct_POP_degradation
+OTU_86	barcode19	17	0.001665	3		Ascomycota	Saccharomycetes	Phaffomycetales	Phaffomycetaceae	Cyberlindnera	Cyberlindnera mississippiensis	Ascomycota	Pollutant_responsive
+OTU_86	barcode20	67	0.002417	3		Ascomycota	Saccharomycetes	Phaffomycetales	Phaffomycetaceae	Cyberlindnera	Cyberlindnera mississippiensis	Ascomycota	Pollutant_responsive
+OTU_86	barcode21	111	0.002007	3		Ascomycota	Saccharomycetes	Phaffomycetales	Phaffomycetaceae	Cyberlindnera	Cyberlindnera mississippiensis	Ascomycota	Pollutant_responsive
+OTU_182	barcode19	13	0.001273	2		Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia colbranii	Ascomycota	Pollutant_responsive
+OTU_182	barcode20	31	0.001118	2		Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia colbranii	Ascomycota	Pollutant_responsive
+OTU_182	barcode21	145	0.002621	2		Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia colbranii	Ascomycota	Pollutant_responsive
+OTU_286	barcode19	52	0.005094	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Sungouiella	Sungouiella pseudoflosculorum	Ascomycota	Pollutant_responsive
+OTU_286	barcode20	58	0.002092	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Sungouiella	Sungouiella pseudoflosculorum	Ascomycota	Pollutant_responsive
+OTU_286	barcode21	77	0.001392	1		Ascomycota	Pichiomycetes	Serinales	Metschnikowiaceae	Sungouiella	Sungouiella pseudoflosculorum	Ascomycota	Pollutant_responsive
+OTU_280	barcode19	14	0.001371	1		Basidiomycota	Agaricomycetes	Agaricales		Tricholomopsis	Tricholomopsis osiliensis	Basidiomycota	Direct_POP_degradation
+OTU_280	barcode20	47	0.001695	1		Basidiomycota	Agaricomycetes	Agaricales		Tricholomopsis	Tricholomopsis osiliensis	Basidiomycota	Direct_POP_degradation
+OTU_280	barcode21	117	0.002115	1		Basidiomycota	Agaricomycetes	Agaricales		Tricholomopsis	Tricholomopsis osiliensis	Basidiomycota	Direct_POP_degradation
+OTU_95	barcode19	23	0.002253	1		Basidiomycota	Classiculomycetes	Classiculales	Classiculaceae	Classicula	Classicula sinensis	Basidiomycota	Direct_POP_degradation
+OTU_95	barcode20	44	0.001587	1		Basidiomycota	Classiculomycetes	Classiculales	Classiculaceae	Classicula	Classicula sinensis	Basidiomycota	Direct_POP_degradation
+OTU_95	barcode21	107	0.001934	1		Basidiomycota	Classiculomycetes	Classiculales	Classiculaceae	Classicula	Classicula sinensis	Basidiomycota	Direct_POP_degradation
+OTU_143	barcode19	27	0.002645	1		Basidiomycota	Microbotryomycetes		Chrysozymaceae	Trigonosporomyces	Trigonosporomyces hylophilus	Basidiomycota	Direct_POP_degradation
+OTU_143	barcode20	41	0.001479	1		Basidiomycota	Microbotryomycetes		Chrysozymaceae	Trigonosporomyces	Trigonosporomyces hylophilus	Basidiomycota	Direct_POP_degradation
+OTU_143	barcode21	100	0.001808	1		Basidiomycota	Microbotryomycetes		Chrysozymaceae	Trigonosporomyces	Trigonosporomyces hylophilus	Basidiomycota	Direct_POP_degradation
+OTU_248	barcode19	66	0.006465	1		Ascomycota	Trigonopsidomycetes	Trigonopsidales	Trigonopsidaceae	Tortispora	Tortispora agaves	Ascomycota	Pollutant_responsive
+OTU_248	barcode20	20	0.000721	1		Ascomycota	Trigonopsidomycetes	Trigonopsidales	Trigonopsidaceae	Tortispora	Tortispora agaves	Ascomycota	Pollutant_responsive
+OTU_248	barcode21	55	0.000994	1		Ascomycota	Trigonopsidomycetes	Trigonopsidales	Trigonopsidaceae	Tortispora	Tortispora agaves	Ascomycota	Pollutant_responsive
+OTU_163	barcode19	57	0.005583	1		Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactifluus	Lactifluus chrysocarpus	Basidiomycota	Direct_POP_degradation
+OTU_163	barcode20	28	0.001010	1		Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactifluus	Lactifluus chrysocarpus	Basidiomycota	Direct_POP_degradation
+OTU_163	barcode21	55	0.000994	1		Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactifluus	Lactifluus chrysocarpus	Basidiomycota	Direct_POP_degradation
+OTU_82	barcode19	19	0.001861	3		Ascomycota	Lipomycetes	Lipomycetales	Lipomycetaceae	Myxozyma	Myxozyma vanderwaltii	Ascomycota	Pollutant_responsive
+OTU_82	barcode20	24	0.000866	3		Ascomycota	Lipomycetes	Lipomycetales	Lipomycetaceae	Myxozyma	Myxozyma vanderwaltii	Ascomycota	Pollutant_responsive
+OTU_82	barcode21	95	0.001717	3		Ascomycota	Lipomycetes	Lipomycetales	Lipomycetaceae	Myxozyma	Myxozyma vanderwaltii	Ascomycota	Pollutant_responsive
+OTU_10	barcode19	11	0.001077	1		Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	Pseudocercospora	Pseudocercospora fijiensis	Ascomycota	Pollutant_responsive
+OTU_10	barcode20	46	0.001659	1		Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	Pseudocercospora	Pseudocercospora fijiensis	Ascomycota	Pollutant_responsive
+OTU_10	barcode21	78	0.001410	1		Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	Pseudocercospora	Pseudocercospora fijiensis	Ascomycota	Pollutant_responsive
+OTU_275	barcode19	15	0.001469	1		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Starmerella	Starmerella vitae	Ascomycota	Pollutant_responsive
+OTU_275	barcode20	27	0.000974	1		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Starmerella	Starmerella vitae	Ascomycota	Pollutant_responsive
+OTU_275	barcode21	86	0.001555	1		Ascomycota	Dipodascomycetes	Dipodascales	Trichomonascaceae	Starmerella	Starmerella vitae	Ascomycota	Pollutant_responsive
+OTU_115	barcode19	33	0.003232	1		Ascomycota	Dothideomycetes	Kirschsteiniotheliales	Kirschsteiniotheliaceae	Kirschsteiniothelia	Kirschsteiniothelia puerensis	Ascomycota	Pollutant_responsive
+OTU_115	barcode20	28	0.001010	1		Ascomycota	Dothideomycetes	Kirschsteiniotheliales	Kirschsteiniotheliaceae	Kirschsteiniothelia	Kirschsteiniothelia puerensis	Ascomycota	Pollutant_responsive
+OTU_115	barcode21	57	0.001030	1		Ascomycota	Dothideomycetes	Kirschsteiniotheliales	Kirschsteiniotheliaceae	Kirschsteiniothelia	Kirschsteiniothelia puerensis	Ascomycota	Pollutant_responsive
+OTU_19	barcode19	13	0.001273	1		Ascomycota	Sordariomycetes		Atractosporaceae	Atractospora	Atractospora decumbens	Ascomycota	Pollutant_responsive
+OTU_19	barcode20	32	0.001154	1		Ascomycota	Sordariomycetes		Atractosporaceae	Atractospora	Atractospora decumbens	Ascomycota	Pollutant_responsive
+OTU_19	barcode21	58	0.001049	1		Ascomycota	Sordariomycetes		Atractosporaceae	Atractospora	Atractospora decumbens	Ascomycota	Pollutant_responsive
+OTU_85	barcode19	15	0.001469	1		Mucoromycota		Calcarisporiellales	Calcarisporiellaceae	Calcarisporiella	Calcarisporiella thermophila	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_85	barcode20	25	0.000902	1		Mucoromycota		Calcarisporiellales	Calcarisporiellaceae	Calcarisporiella	Calcarisporiella thermophila	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_85	barcode21	36	0.000651	1		Mucoromycota		Calcarisporiellales	Calcarisporiellaceae	Calcarisporiella	Calcarisporiella thermophila	Mucoromycota	Indirect_facilitation;Phytoremediation_facilitation
+OTU_96	barcode19	12	0.001175	1		Ascomycota	Lecanoromycetes	Ostropales	Stictidaceae	Cyanodermella	Cyanodermella oleoligni	Ascomycota	Pollutant_responsive
+OTU_96	barcode20	20	0.000721	1		Ascomycota	Lecanoromycetes	Ostropales	Stictidaceae	Cyanodermella	Cyanodermella oleoligni	Ascomycota	Pollutant_responsive
+OTU_96	barcode21	25	0.000452	1		Ascomycota	Lecanoromycetes	Ostropales	Stictidaceae	Cyanodermella	Cyanodermella oleoligni	Ascomycota	Pollutant_responsive

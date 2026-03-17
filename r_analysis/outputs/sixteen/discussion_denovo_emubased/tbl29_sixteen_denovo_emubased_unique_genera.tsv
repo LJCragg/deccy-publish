@@ -1,0 +1,225 @@
+genus	total_reads	samples_detected	scope	pipeline	rank_within_pipeline
+Pseudotabrizicola	3509	6	Pre-threepoint	De-novo	1
+Rubrivivax	711	6	Pre-threepoint	De-novo	2
+Ideonella	273	6	Pre-threepoint	De-novo	3
+Altererythrobacter	253	6	Pre-threepoint	De-novo	4
+Cognatilysobacter	243	6	Pre-threepoint	De-novo	5
+Sandaracinobacter	181	6	Pre-threepoint	De-novo	6
+Gehongia	162	3	Pre-threepoint	De-novo	7
+Moorella	136	3	Pre-threepoint	De-novo	8
+Marivivens	125	6	Pre-threepoint	De-novo	9
+Babela	114	6	Pre-threepoint	De-novo	10
+Dichotomicrobium	101	6	Pre-threepoint	De-novo	11
+Methylocapsa	90	6	Pre-threepoint	De-novo	12
+Rhizobium	85	6	Pre-threepoint	De-novo	13
+Sinanaerobacter	78	6	Pre-threepoint	De-novo	14
+Sediminicoccus	76	6	Pre-threepoint	De-novo	15
+Craurococcus	65	6	Pre-threepoint	De-novo	16
+Variovorax	57	6	Pre-threepoint	De-novo	17
+Microvirga	55	6	Pre-threepoint	De-novo	18
+Neotabrizicola	55	6	Pre-threepoint	De-novo	19
+Rubritepida	53	6	Pre-threepoint	De-novo	20
+Desulfuromonas	49	6	Pre-threepoint	De-novo	21
+Oleomonas	46	6	Pre-threepoint	De-novo	22
+Segnochrobactrum	45	6	Pre-threepoint	De-novo	23
+Anaerobium	42	6	Pre-threepoint	De-novo	24
+Angelakisella	41	3	Pre-threepoint	De-novo	25
+Leptolinea	40	6	Pre-threepoint	De-novo	26
+Shinella	37	6	Pre-threepoint	De-novo	27
+Thermincola	37	4	Pre-threepoint	De-novo	28
+Blastococcus	34	6	Pre-threepoint	De-novo	29
+Pseudaquabacterium	34	6	Pre-threepoint	De-novo	30
+Syntrophomonas	33	4	Pre-threepoint	De-novo	31
+Roseimaritima	32	6	Pre-threepoint	De-novo	32
+Pantoea	31	4	Pre-threepoint	De-novo	33
+Croceibacterium	30	6	Pre-threepoint	De-novo	34
+Geobacter	30	6	Pre-threepoint	De-novo	35
+Termitidicoccus	29	5	Pre-threepoint	De-novo	36
+Caloranaerobacter	27	3	Pre-threepoint	De-novo	37
+Daejeonella	26	4	Pre-threepoint	De-novo	38
+Faunimonas	26	6	Pre-threepoint	De-novo	39
+Polluticoccus	26	6	Pre-threepoint	De-novo	40
+Pararhodonellum	25	6	Pre-threepoint	De-novo	41
+Thermaurantiacus	24	5	Pre-threepoint	De-novo	42
+Candidatus Mycosynbacter	23	5	Pre-threepoint	De-novo	43
+Novispirillum	23	5	Pre-threepoint	De-novo	44
+Caulobacter	21	5	Pre-threepoint	De-novo	45
+Fuerstiella	21	6	Pre-threepoint	De-novo	46
+Flavisolibacter	20	5	Pre-threepoint	De-novo	47
+Mesorhizobium	20	6	Pre-threepoint	De-novo	48
+Povalibacter	20	5	Pre-threepoint	De-novo	49
+Aureliella	19	6	Pre-threepoint	De-novo	50
+Bosea	19	6	Pre-threepoint	De-novo	51
+Chelatococcus	19	5	Pre-threepoint	De-novo	52
+Sphingosinicella	19	5	Pre-threepoint	De-novo	53
+Verrucomicrobium	19	6	Pre-threepoint	De-novo	54
+Candidatus Nucleicultrix	18	5	Pre-threepoint	De-novo	55
+Lentzea	17	4	Pre-threepoint	De-novo	56
+Luteolibacter	17	6	Pre-threepoint	De-novo	57
+Carboxylicivirga	16	4	Pre-threepoint	De-novo	58
+Flavisphingomonas	16	4	Pre-threepoint	De-novo	59
+Methylocystis	16	6	Pre-threepoint	De-novo	60
+Paracoccus	16	6	Pre-threepoint	De-novo	61
+Pseudorhodoferax	16	6	Pre-threepoint	De-novo	62
+Geminicoccus	15	4	Pre-threepoint	De-novo	63
+Tellurimicrobium	15	5	Pre-threepoint	De-novo	64
+Belnapia	14	4	Pre-threepoint	De-novo	65
+Fumia	14	3	Pre-threepoint	De-novo	66
+Georgenia	13	4	Pre-threepoint	De-novo	67
+Nanosyncoccus	13	3	Pre-threepoint	De-novo	68
+Ohtaekwangia	13	5	Pre-threepoint	De-novo	69
+Rhodocaloribacter	13	4	Pre-threepoint	De-novo	70
+Skermanella	13	3	Pre-threepoint	De-novo	71
+Thiobacillus	13	3	Pre-threepoint	De-novo	72
+Paradesertivirga	12	4	Pre-threepoint	De-novo	73
+Parasegetibacter	12	5	Pre-threepoint	De-novo	74
+Anatilimnocola	11	4	Pre-threepoint	De-novo	75
+Brooklawnia	11	6	Pre-threepoint	De-novo	76
+Candidatus Amoebophilus	11	4	Pre-threepoint	De-novo	77
+Phormidium	11	6	Pre-threepoint	De-novo	78
+Phreatobacter	11	4	Pre-threepoint	De-novo	79
+Pseudobdellovibrio	11	4	Pre-threepoint	De-novo	80
+Rhodothermus	11	6	Pre-threepoint	De-novo	81
+Galbitalea	10	5	Pre-threepoint	De-novo	82
+Pollutibacter	10	4	Pre-threepoint	De-novo	83
+Thomasclavelia	10	3	Pre-threepoint	De-novo	84
+Pelobacter	9	4	Pre-threepoint	De-novo	85
+Serratia	9	3	Pre-threepoint	De-novo	86
+Ancalomicrobium	8	5	Pre-threepoint	De-novo	87
+Candidatus Paracaedibacter	8	4	Pre-threepoint	De-novo	88
+Cellulomonas	8	3	Pre-threepoint	De-novo	89
+Prosthecobacter	8	6	Pre-threepoint	De-novo	90
+Rickettsia	8	6	Pre-threepoint	De-novo	91
+Candidatus Berkiella	7	4	Pre-threepoint	De-novo	92
+Sporocytophaga	7	4	Pre-threepoint	De-novo	93
+Aminipila	6	3	Pre-threepoint	De-novo	94
+Mycoplana	4	2	Pre-threepoint	De-novo	95
+Hephaestia	7499	6	Pre-threepoint	Emu based	1
+Macellibacteroides	5955	6	Pre-threepoint	Emu based	2
+Vermiculatibacterium	733	3	Pre-threepoint	Emu based	3
+Ancylomarina	677	6	Pre-threepoint	Emu based	4
+Lysobacter	309	6	Pre-threepoint	Emu based	5
+Labilibaculum	305	6	Pre-threepoint	Emu based	6
+Propionivibrio	289	6	Pre-threepoint	Emu based	7
+Kiloniella	268	5	Pre-threepoint	Emu based	8
+Ercella	183	5	Pre-threepoint	Emu based	9
+Butyricicoccus	172	3	Pre-threepoint	Emu based	10
+Zongyangia	134	5	Pre-threepoint	Emu based	11
+Aliigemmobacter	124	5	Pre-threepoint	Emu based	12
+Candidatus Babela	120	4	Pre-threepoint	Emu based	13
+Desulfovectis	117	3	Pre-threepoint	Emu based	14
+Geofilum	109	5	Pre-threepoint	Emu based	15
+Dysosmobacter	105	5	Pre-threepoint	Emu based	16
+Terripilifer	96	4	Pre-threepoint	Emu based	17
+Mageeibacillus	89	3	Pre-threepoint	Emu based	18
+Neglectibacter	63	3	Pre-threepoint	Emu based	19
+Candidatus Galacturonatibacter	61	4	Pre-threepoint	Emu based	20
+Vescimonas	57	3	Pre-threepoint	Emu based	21
+Bengtsoniella	56	3	Pre-threepoint	Emu based	22
+Ahrensia	55	3	Pre-threepoint	Emu based	23
+Mobilisporobacter	52	3	Pre-threepoint	Emu based	24
+Antarcticimicrobium	48	3	Pre-threepoint	Emu based	25
+Allomesorhizobium	44	2	Pre-threepoint	Emu based	26
+Lacisediminimonas	42	2	Pre-threepoint	Emu based	27
+Longilinea	40	3	Pre-threepoint	Emu based	28
+Variimorphobacter	36	2	Pre-threepoint	Emu based	29
+Syntrophothermus	35	2	Pre-threepoint	Emu based	30
+Petroclostridium	34	2	Pre-threepoint	Emu based	31
+Gaoshiqia	32	2	Pre-threepoint	Emu based	32
+Rhabdanaerobium	32	2	Pre-threepoint	Emu based	33
+Thermanaerosceptrum	32	2	Pre-threepoint	Emu based	34
+Garciella	31	1	Pre-threepoint	Emu based	35
+Hydrogeniiclostridium	31	2	Pre-threepoint	Emu based	36
+Parasphingomonas	29	1	Pre-threepoint	Emu based	37
+Azohydromonas	26	2	Pre-threepoint	Emu based	38
+Qingrenia	26	2	Pre-threepoint	Emu based	39
+Roseateles	26	1	Pre-threepoint	Emu based	40
+Roseomonas	26	2	Pre-threepoint	Emu based	41
+Puniceibacterium	20	1	Pre-threepoint	Emu based	42
+Beijerinckia	18	1	Pre-threepoint	Emu based	43
+Haematobacter	17	1	Pre-threepoint	Emu based	44
+Comamonas	16	1	Pre-threepoint	Emu based	45
+Pararobbsia	14	1	Pre-threepoint	Emu based	46
+Zeimonas	14	1	Pre-threepoint	Emu based	47
+Maliibacterium	13	1	Pre-threepoint	Emu based	48
+Haliangium	11	1	Pre-threepoint	Emu based	49
+Pseudotabrizicola	3492	6	Post-threepoint	De-novo	1
+Rubrivivax	711	6	Post-threepoint	De-novo	2
+Acididesulfobacillus	439	5	Post-threepoint	De-novo	3
+Nibricoccus	281	6	Post-threepoint	De-novo	4
+Ideonella	248	6	Post-threepoint	De-novo	5
+Cognatilysobacter	243	6	Post-threepoint	De-novo	6
+Altererythrobacter	190	6	Post-threepoint	De-novo	7
+Sandaracinobacter	164	6	Post-threepoint	De-novo	8
+Moorella	136	3	Post-threepoint	De-novo	9
+Marivivens	117	6	Post-threepoint	De-novo	10
+Babela	114	6	Post-threepoint	De-novo	11
+Desulfomonile	104	6	Post-threepoint	De-novo	12
+Dichotomicrobium	101	6	Post-threepoint	De-novo	13
+Dongia	96	6	Post-threepoint	De-novo	14
+Algoriphagus	90	6	Post-threepoint	De-novo	15
+Allosphingosinicella	87	6	Post-threepoint	De-novo	16
+Desnuesiella	87	6	Post-threepoint	De-novo	17
+Rhizobium	85	6	Post-threepoint	De-novo	18
+Bartonella	82	6	Post-threepoint	De-novo	19
+Aquabacterium	79	4	Post-threepoint	De-novo	20
+Sediminicoccus	76	6	Post-threepoint	De-novo	21
+Gehongia	72	3	Post-threepoint	De-novo	22
+Phenylobacterium	67	6	Post-threepoint	De-novo	23
+Guopingia	63	4	Post-threepoint	De-novo	24
+Sinanaerobacter	63	6	Post-threepoint	De-novo	25
+Variovorax	57	6	Post-threepoint	De-novo	26
+Rubritepida	53	6	Post-threepoint	De-novo	27
+Angelakisella	41	3	Post-threepoint	De-novo	28
+Hephaestia	7499	6	Post-threepoint	Emu based	1
+Macellibacteroides	5955	6	Post-threepoint	Emu based	2
+Caldimonas	4812	6	Post-threepoint	Emu based	3
+Candidatus Borkfalkia	733	3	Post-threepoint	Emu based	4
+Vermiculatibacterium	733	3	Post-threepoint	Emu based	5
+Ancylomarina	677	6	Post-threepoint	Emu based	6
+Propionispora	593	6	Post-threepoint	Emu based	7
+Roseococcus	420	6	Post-threepoint	Emu based	8
+Proteiniclasticum	398	4	Post-threepoint	Emu based	9
+Labilibaculum	305	6	Post-threepoint	Emu based	10
+Alteraurantiacibacter	295	6	Post-threepoint	Emu based	11
+Lysobacter	293	6	Post-threepoint	Emu based	12
+Sandaracinobacteroides	282	6	Post-threepoint	Emu based	13
+Kiloniella	268	5	Post-threepoint	Emu based	14
+Propionivibrio	267	6	Post-threepoint	Emu based	15
+Anaerorhabdus	205	3	Post-threepoint	Emu based	16
+Colidextribacter	202	5	Post-threepoint	Emu based	17
+Ercella	183	5	Post-threepoint	Emu based	18
+Lautropia	175	6	Post-threepoint	Emu based	19
+Acetoanaerobium	173	5	Post-threepoint	Emu based	20
+Butyricicoccus	172	3	Post-threepoint	Emu based	21
+Piscinibacter	154	6	Post-threepoint	Emu based	22
+Alkalibaculum	141	6	Post-threepoint	Emu based	23
+Anaeromassilibacillus	139	3	Post-threepoint	Emu based	24
+Zongyangia	134	5	Post-threepoint	Emu based	25
+Aliigemmobacter	124	5	Post-threepoint	Emu based	26
+Sabulicella	123	5	Post-threepoint	Emu based	27
+Candidatus Babela	120	4	Post-threepoint	Emu based	28
+Desulfovectis	117	3	Post-threepoint	Emu based	29
+Agrobacterium	113	5	Post-threepoint	Emu based	30
+Geofilum	109	5	Post-threepoint	Emu based	31
+Dysosmobacter	105	5	Post-threepoint	Emu based	32
+Stagnihabitans	105	5	Post-threepoint	Emu based	33
+Holdemania	104	3	Post-threepoint	Emu based	34
+Desulfosporosinus	102	3	Post-threepoint	Emu based	35
+Pseudobacteroides	100	3	Post-threepoint	Emu based	36
+Mageeibacillus	89	3	Post-threepoint	Emu based	37
+Solibaculum	84	3	Post-threepoint	Emu based	38
+Geotalea	83	4	Post-threepoint	Emu based	39
+Paludibaculum	75	3	Post-threepoint	Emu based	40
+Flavobacterium	63	5	Post-threepoint	Emu based	41
+Neglectibacter	63	3	Post-threepoint	Emu based	42
+Candidatus Galacturonatibacter	61	4	Post-threepoint	Emu based	43
+Vescimonas	57	3	Post-threepoint	Emu based	44
+Bengtsoniella	56	3	Post-threepoint	Emu based	45
+Hominenteromicrobium	54	3	Post-threepoint	Emu based	46
+Aurantibacillus	53	4	Post-threepoint	Emu based	47
+Candidatus Soleaferrea	53	3	Post-threepoint	Emu based	48
+Aridibacter	49	3	Post-threepoint	Emu based	49
+Antarcticimicrobium	48	3	Post-threepoint	Emu based	50
+Pleomorphomonas	45	3	Post-threepoint	Emu based	51
+Longilinea	40	3	Post-threepoint	Emu based	52

@@ -1,0 +1,86 @@
+================================================================================
+PHYLUM-LEVEL COMPOSITION ANALYSIS - TOP 3 PHYLA
+Sixteen Dataset: EMU Abundance Data
+================================================================================
+
+IDENTIFIED TOP 3 PHYLA
+----------------------------------------
+1. Bacillota
+2. Pseudomonadota
+3. Bacteroidota
+
+
+COHORT-LEVEL STATISTICS
+================================================================================
+
+Bacillota
+----------------------------------------
+
+FUZZ:
+  Mean abundance: 0.7290
+  Std deviation:  0.0678
+  Total abundance: 2.1869
+  Prevalence: 3/3 samples
+
+DRY:
+  Mean abundance: 0.6460
+  Std deviation:  0.0275
+  Total abundance: 1.9379
+  Prevalence: 3/3 samples
+
+Pseudomonadota
+----------------------------------------
+
+FUZZ:
+  Mean abundance: 0.2407
+  Std deviation:  0.0615
+  Total abundance: 0.7220
+  Prevalence: 3/3 samples
+
+DRY:
+  Mean abundance: 0.2353
+  Std deviation:  0.0107
+  Total abundance: 0.7058
+  Prevalence: 3/3 samples
+
+Bacteroidota
+----------------------------------------
+
+FUZZ:
+  Mean abundance: 0.0109
+  Std deviation:  0.0015
+  Total abundance: 0.0328
+  Prevalence: 3/3 samples
+
+DRY:
+  Mean abundance: 0.0835
+  Std deviation:  0.0139
+  Total abundance: 0.2505
+  Prevalence: 3/3 samples
+
+
+================================================================================
+INTERPRETATION GUIDELINES
+================================================================================
+
+Bacillota:
+Enriched in fuzz cohort - consistent with stress-tolerant, anaerobic,
+and spore-forming lineages under reduced/disturbed soil conditions.
+Higher variance in fuzz indicates heterogeneous microbial response.
+Citations: Rivalland et al., 2022; Palmer, 2019; Yutin & Galperin, 2013
+
+Pseudomonadota:
+Stable across cohorts but more variable in fuzz - reflects metabolically
+flexible heterotrophs persisting across disturbance gradients.
+Increased variance suggests patchy micro-environmental conditions.
+Citations: Fierer et al., 2007; Delgado-Baquerizo et al., 2018
+
+Bacteroidota:
+Depleted in fuzz cohort - indicates functional simplification and
+environmental filtering. Associated with complex carbon degradation,
+rhizosphere activity, and soil functional capacity.
+Citations: Liu et al., 2023; Zhang et al., 2019
+
+================================================================================
+END OF REPORT
+================================================================================

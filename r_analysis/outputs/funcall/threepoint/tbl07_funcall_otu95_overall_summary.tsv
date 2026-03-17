@@ -1,0 +1,5 @@
+sample_id	n_otus	n_genera	n_phyla	total_reads	mean_reads_per_otu	median_reads_per_otu
+barcode19	111	94	10	20929.2	188.55135135135134	44
+barcode20	201	164	12	53010	263.7313432835821	44.8
+barcode21	257	196	12	106264.1	413.47898832684825	50.4
+unclassified	73	63	9	9257.1	126.80958904109589	49

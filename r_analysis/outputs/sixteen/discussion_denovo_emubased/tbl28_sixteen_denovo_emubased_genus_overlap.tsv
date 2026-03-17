@@ -1,0 +1,7 @@
+scope	category	n_genera	interpretation
+Pre-threepoint	Shared	193	Detected by both workflows
+Pre-threepoint	De-novo only	95	Detected only after reads-first clustering and post hoc taxonomy
+Pre-threepoint	Emu based only	49	Detected only after Emu-first taxonomy and OTU collapse
+Post-threepoint	Shared	125	Detected by both workflows
+Post-threepoint	De-novo only	28	Detected only after reads-first clustering and post hoc taxonomy
+Post-threepoint	Emu based only	52	Detected only after Emu-first taxonomy and OTU collapse

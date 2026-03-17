@@ -1,0 +1,8 @@
+Barcode: barcode03
+Total reads: 5685
+Products detected: 3
+
+Per-product counts:
+  clca                :     4777 ( 84.0%)
+  catB2               :      894 ( 15.7%)
+  BpHc                :       14 (  0.2%)
