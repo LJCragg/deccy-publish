@@ -8,9 +8,9 @@ MSc (Microbiology) thesis — Massey University, New Zealand
 
 ## Study Overview
 
-This repository contains the analysis outputs and figures from a metabarcoding study of microbial communities at the anonymized site / anonymized contaminated site site in anonymized New Zealand site, New Zealand — a historically TCDD-contaminated industrial site (1962–1987). Three sequencing approaches were used to characterise bacterial diversity, fungal diversity, and the diversity of functional genes associated with chlorophenol degradation.
+This repository contains analysis outputs and figures from a metabarcoding study of microbial communities in TCDD-contaminated soils. Three amplicon sequencing approaches were used to characterise bacterial diversity, fungal diversity, and functional gene diversity associated with chlorophenol degradation.
 
-Samples represent two soil types: fuzzsample (high contamination) and drysample (reference/low contamination), each sequenced in triplicate (16S/ITS) or duplicate technical replicates (targeted genes) using Oxford Nanopore Technology (MinION).
+Samples represent two soil cohorts (SS1 and SS2), each sequenced in triplicate (16S rRNA and ITS/18S) or as duplicate technical replicates (targeted genes) using Oxford Nanopore Technology (MinION).
 
 ---
 
@@ -18,10 +18,10 @@ Samples represent two soil types: fuzzsample (high contamination) and drysample 
 
 | Directory | Contents |
 |-----------|----------|
-| `16S/` | 16S rRNA bacterial amplicon analysis — OTU tables, diversity outputs, threepoint-filtered results |
-| `fungi/` | Fungal ITS/18S amplicon analysis — EMURE OTU tables, threepoint-filtered results |
+| `16S/` | 16S rRNA bacterial amplicon analysis — OTU tables, diversity outputs, filtered results |
+| `fungi/` | Fungal ITS/18S amplicon analysis — OTU tables, filtered results |
 | `targeted-genes/` | Targeted functional gene amplicon analysis (clcA, catB2, BpHc, ntDAa) — consensus sequences, alignment FASTAs, coverage tables |
-| `r_analysis/` | All thesis figures (PNG) and summary tables (TSV/CSV) generated from the above outputs |
+| `r_analysis/` | Thesis figures (PNG) and summary tables (TSV/CSV) |
 
 ---
 

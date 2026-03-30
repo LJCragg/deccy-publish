@@ -1,29 +1,11 @@
-# roadtrip
+# Targeted Functional Gene Analysis
 
-**Targeted functional gene amplicon pipeline for Oxford Nanopore Technologies (ONT) data**
+**Targeted functional gene amplicon analysis of dioxin-degradation genes using Oxford Nanopore Technologies (ONT)**
 
-Detects and characterises dioxin-degradation genes (clcA, catB2, BpHc, ntDAa) in anonymized site contaminated soils using PCR amplification + ONT sequencing + Medaka consensus polishing.
+Detects and characterises four functional genes (clcA, catB2, BpHc, ntDAa) in TCDD-contaminated soil DNA using PCR amplification, ONT sequencing, and Medaka consensus polishing.
 
 **Last updated:** 2026-03-17
-**Current dataset:** 4 barcodes (BC01–BC04) representing 2 soil DNA extracts × 2 technical replicates each
-
----
-
-## Overview
-
-This pipeline applies targeted PCR amplification of four functional dioxin-degradation genes followed by ONT long-read sequencing, read clustering, and consensus sequence generation. It complements the community-level 16S and fungal pipelines by providing direct sequence evidence of degradation pathway enzymes present in anonymized site soil DNA.
-
-The pipeline is implemented as a Snakemake workflow with modular components (rules in `rules/` and `components/`).
-
----
-
-## Project Context
-
-The anonymized contaminated site in anonymized New Zealand site, New Zealand was contaminated with **2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD)** and related chlorophenols as byproducts of herbicide production by anonymized contaminated site between **1962 and 1987**. This study employs three complementary sequencing strategies:
-
-1. **16S rRNA bacterial amplicon** — community-level taxonomic profiling ([../sixteen/README.md](../sixteen/README.md))
-2. **Fungal ITS/18S amplicon** — fungal community structure and POP-degrader guilds ([../funcall/README.md](../funcall/README.md))
-3. **Targeted functional gene sequencing** (THIS PIPELINE) — direct detection of degradation genes
+**Dataset:** 4 barcodes (BC01–BC04) — 2 soil DNA extracts (SS1, SS2) × 2 technical replicates each
 
 ---
 
@@ -31,13 +13,11 @@ The anonymized contaminated site in anonymized New Zealand site, New Zealand was
 
 | Barcode | Sample | Description |
 |---------|--------|-------------|
-| barcode01 | fuzzsample_rep1 | Wet soil DNA, technical replicate 1 |
-| barcode02 | fuzzsample_rep2 | Wet soil DNA, technical replicate 2 |
-| barcode03 | drysample_rep1 | Dry soil DNA, technical replicate 1 |
-| barcode04 | drysample_rep2 | Dry soil DNA, technical replicate 2 |
+| barcode01 | SS1_rep1 | SS1 soil DNA, technical replicate 1 |
+| barcode02 | SS1_rep2 | SS1 soil DNA, technical replicate 2 |
+| barcode03 | SS2_rep1 | SS2 soil DNA, technical replicate 1 |
+| barcode04 | SS2_rep2 | SS2 soil DNA, technical replicate 2 |
 | unclassified | — | Mixed/ambiguous barcode assignments |
-
-Two distinct soil cohorts (fuzzsample, drysample) each sequenced in duplicate to assess technical reproducibility.
 
 ---
 
@@ -54,64 +34,14 @@ Two distinct soil cohorts (fuzzsample, drysample) each sequenced in duplicate to
 
 ## Pipeline Stages
 
-### Stage 1: Slashing (QC Filtering)
-**Tools:** Porechop (adapter trimming) + Chopper (quality/length filtering)
-**Rule:** `rules/slashing.smk`
-**Parameters:** Q≥10, length 300–2000 bp, headcrop/tailcrop 15 bp
-
-### Stage 2: Greedhunt (Target Mapping)
-**Tool:** Minimap2 — maps QC'd reads against 4 target gene references
-**Rule:** `components/greedhunt/rules/greedhunt.smk`
-**Output:** Per-gene FASTQ files extracted from mapped reads
-**Result:** 14,474 reads assigned (12.2% of post-filter reads)
-
-### Stage 3: IsONclust3 (Read Clustering)
-**Tool:** IsONclust3 — ONT-aware read clustering
-**Rule:** `components/isonclust3/rules/isonclust3.smk`
-**Output:** Per-cluster FASTQ files
-**Result:** 48 total clusters across all barcodes and genes
-
-### Stage 4: Medaka (Consensus Polishing)
-**Tool:** Medaka — neural-network consensus caller for ONT reads
-**Rule:** `components/medaka/rules/medaka.smk`
-**Strategy:** Top-N reads per cluster submitted to Medaka polishing
-**Result:** 13 high-quality consensus sequences (7 clcA, 6 catB2)
-
-### Stage 5: Postage (Abundance Table)
-**Tool:** Custom Minimap2 + idxstats wrapper
-**Rule:** `components/postage/rules/map.smk`
-**Output:** Per-sample abundance table with coverage depth headers
-**Result:** Read counts and coverage statistics per consensus sequence
-
-### Stage 6: MAFFT (Multiple Sequence Alignment)
-**Tool:** MAFFT — multiple sequence alignment
-**Rule:** `components/mafft/rules/mafft.smk`
-**Output:** Aligned FASTA of consensus sequences
-**Result:** 576 bp conserved core region identified for clcA (22.79% gap rate)
-
----
-
-## Data Layout
-
-Large inputs and outputs are stored under `data/` (gitignored) and symlinked in:
-
-| Symlink | Target | Contents |
-|---------|--------|---------|
-| `forme` | `../data/roadtrip/forme` | Canonical FASTQ inputs (raw/demuxed reads) |
-| `results` | `../data/roadtrip/results` | Canonical pipeline outputs |
-
-Tracked outputs also written to `outputs/` in this directory.
-
----
-
-## Tracked Outputs
-
-`outputs/` contains:
-- `alignment_notes/` — MAFFT alignment reports and summaries
-- Per-run QC summaries (retention stats by barcode)
-- Consensus inventory (sequence IDs, identity scores, top BLAST hits)
-
-The `results` symlink (→ `data/roadtrip/results`) holds full intermediates and large files.
+| Stage | Tool | Purpose |
+|-------|------|---------|
+| QC filtering | Porechop + Chopper | Adapter trimming; Q≥10, 300–2000 bp |
+| Target mapping | Minimap2 | Maps QC reads against 4 gene references |
+| Read clustering | IsONclust3 | ONT-aware read clustering |
+| Consensus polishing | Medaka | Neural-network consensus from top reads per cluster |
+| Abundance table | Minimap2 + idxstats | Read counts and coverage depth per consensus |
+| Sequence alignment | MAFFT | Multiple sequence alignment of consensus sequences |
 
 ---
 
@@ -120,7 +50,7 @@ The `results` symlink (→ `data/roadtrip/results`) holds full intermediates and
 | Metric | Value |
 |--------|-------|
 | Raw reads (4 barcodes) | 308,806 |
-| Raw reads incl. unclassified | 381,589 |
+| Raw reads including unclassified | 381,589 |
 | Post-filter reads | 115,660 (37.5% retention) |
 | Assigned to targets | 14,474 (12.2%) |
 | clcA reads | 11,923 (82.4% of assigned) |
@@ -135,29 +65,27 @@ The `results` symlink (→ `data/roadtrip/results`) holds full intermediates and
 
 ---
 
-## Running the Pipeline
+## Tracked Outputs
 
-```bash
-cd roadtrip
-conda activate roadtrip   # or: mamba activate roadtrip
-
-# Full pipeline
-snakemake --use-conda -j8
-
-# Dry run first
-snakemake --use-conda -j8 -n
-
-# Resume from checkpoint
-snakemake --use-conda -j8 --rerun-incomplete
-```
-
-Configuration: `config/roadtrip.yml` — set barcode list, target gene paths, Medaka model.
+| Directory | Contents |
+|-----------|----------|
+| `outputs/greedhunt/` | Per-barcode mapping statistics (JSON, TXT) |
+| `outputs/mafft/` | Aligned FASTA files per target gene |
+| `outputs/medaka/` | All consensus sequences (FASTA) |
+| `outputs/postage/tables/` | Per-barcode abundance tables (TSV) |
+| `outputs/postage/coverage/` | Per-barcode coverage depth files |
+| `outputs/slashing_qc/` | QC filtering summary report |
+| `outputs/alignment_notes/` | clcA trimmed alignment FASTA; alignment comparison report |
 
 ---
 
-## Related
+## Pipeline Configuration
 
-- [../sixteen/README.md](../sixteen/README.md) — 16S bacterial community analysis
-- [../funcall/README.md](../funcall/README.md) — Fungal ITS/18S community analysis
-- [../waffle/targeted_genes/](../waffle/targeted_genes/) — Results section rewrite (active)
-- [../waffle/targeted_genes/00_plan.md](../waffle/targeted_genes/00_plan.md) — Writing plan with verified numbers
+Pipeline implemented as a Snakemake workflow. Configuration files are in `config/` and environment specifications in `envs/`. Component manifests are in `components/`.
+
+Large inputs and outputs are stored under `data/` (gitignored) and symlinked in:
+
+| Symlink | Contents |
+|---------|---------|
+| `forme` | Canonical FASTQ inputs (demultiplexed reads) |
+| `results` | Full pipeline intermediates and outputs |
