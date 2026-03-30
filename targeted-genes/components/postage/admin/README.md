@@ -1,12 +1,8 @@
-# postage (integrated)
+# Postage — Abundance Table Generation
 
-Purpose: targeted mapping/validation using existing Postage rules and scripts.
+**Purpose:** Maps QC-filtered reads against consensus sequences (Minimap2) and generates per-sample abundance tables with coverage depth statistics.
 
-Contract
-- inputs: FASTQ (trimmed or raw per `config/roadtrip.yml`), reference FASTA
-- outputs: BAM, coverage tables, abundance tables under `results/postage/{sample}/`
-- entry_rule: `postage:all`
+**Inputs:** QC-filtered FASTQs; consensus FASTA from Medaka.
+**Outputs:** Per-sample abundance tables (TSV); per-sample coverage depth files.
 
-Notes
-- See original design: `postage/postage_admin_postage_design_document.md` in the playground.
-- We'll align output paths and config names to roadtrip conventions.
+**Results are in:** [`../../outputs/postage/`](../../outputs/postage/)

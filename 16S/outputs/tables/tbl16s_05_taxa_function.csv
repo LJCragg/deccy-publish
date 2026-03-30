@@ -1,0 +1,59 @@
+genus,detected_16s,n_otus_detected,evidence_category,pop_classes,targeted_gene_validation,key_refs
+Sphingomonas,yes,26,BOTH,"PCDD/F, dibenzofuran, PAH-like aromatics",catB2 (family-level: Sphingobium in targeted sequencing),Omori_1994; Gai_2007; Megharaj_1997
+Novosphingobium,yes,11,POP_BROAD,"PCBs, PAHs, carbazole, other aromatics",not targeted,Ghosal_2016_review; Huang_2023_PAH_review; Hiraishi_2003_dioxin_biodiversity
+Dehalobacter,yes,5,BOTH,"PCDD/F (TriCDD), PCBs, chlorobenzenes",not targeted,Yoshida_2009; Dam_2017; Hiraishi_2008_Dehalorespiring_review
+Desulfitobacterium,yes,5,BOTH,"chlorophenols, chlorinated aromatics, PCDD/F consortia",not targeted,Utkin_1994; Futamata_2007; Yoshida_2005
+Sphingobium,yes,3,POP_BROAD,"PCBs, biphenyl, chlorobenzoates","catB2 (6 consensus seqs, 87.7-90.5% identity)",Hu_2015
+Sphingopyxis,yes,3,POP_BROAD,chlorophenols,not targeted,Godoy_2003
+Anaeromyxobacter,yes,2,BOTH,"chlorophenols, chlorobenzenes, PCB/dioxin sediments",not targeted,He_2002; Ahn_2008; Field_2007_review
+Desulfomonile,yes,2,POP_BROAD,"chlorophenols, PCBs/dioxins consortia",not targeted,Beurskens_1995; Hiraishi_2008; Toussaint_1997
+Ideonella,yes,2,POP_BROAD,plastics (PET; aromatic polyester),not targeted,Yoshida_2016; Palm_2019; Sevilla_2023
+Sphingorhabdus,yes,2,POP_BROAD,"PAHs, mixed aromatics",not targeted,PAH_general_reviews
+Acetobacterium,yes,1,BOTH,"PCDD/F (reductive dechlorination), other organohalides",not targeted,Adrian_2004; Bunge_2003; Dam_2019
+Acidovorax,yes,1,POP_BROAD,"chlorobenzenes, PAHs (phenanthrene)",not targeted,Monferran_2005; Singleton_2009
+Aeromonas,yes,1,POP_BROAD,"PAHs (phenanthrene, fluorene, acenaphthene)",not targeted,Nie_2016; Sankhyan_2025; PAH_bioremediation_reviews
+Agrobacterium,yes,1,POP_BROAD,"dibenzofuran, structural DF analogs",not targeted,Le_2014
+Flavobacterium,yes,1,POP_BROAD,"PAHs, organochlorine pesticides (endosulfan)",not targeted,Ghosal_2016; Kumar_2025_POP_review; Flavobacterium_PAH_endosulfan_studies
+Hydrogenophaga,yes,1,POP_BROAD,PCBs (Aroclor mixtures),not targeted,Kumar_2025_review; Lambo_2006
+Paracoccus,yes,1,POP_BROAD,"PCBs, PAHs, aromatics",not targeted,PCB_degraders_overview
+Serratia,yes,1,POP_BROAD,"dioxin-pathway genes, PAHs, aromatics",not targeted,Saibu_2022_Serratia_SSA1; Das_2025_PAH_review
+Variovorax,yes,1,POP_BROAD,"PAHs, chlorinated solvents",not targeted,PAH_general_reviews
+Achromobacter,no,0,POP_BROAD,"PAHs, chlorinated herbicides, other POPs; PCBs, PAHs, chlorinated solvents",not targeted,Ghosal_2016_POP_review; PCB_rhizosphere_biodegradation; Zhang_2023; El-Kurdi_2024; Villaverde_2019
+Acinetobacter,no,0,BOTH; POP_BROAD,"PAHs, chlorophenols, mixed organics; dibenzofuran, 2,7-dichloro-dibenzo-p-dioxin, PAHs",not targeted,DiMartino_2025; Hu_2023_Pseudomonas_POP_review; mixed_POP_bioremediation_reviews
+Agromyces,no,0,DIOXIN_CORE,dibenzofuran / dioxin-like compounds,not targeted,Saibu_2020_review
+Alcaligenes,no,0,BOTH,"PCDD, PCBs, chlorobenzenes, aromatic hydrocarbons",not targeted,Halden_1997_review; Parsons_1989; KEGG_Alcaligenes_dioxin_pathway
+Arthrobacter,no,0,POP_BROAD,"DF, chlorinated aromatics; PCBs, dioxin-like biphenyls, other POPs",not targeted,Futamata_2004_DF_degraders; POP_biodegradation_reviews; Zhang_2015; Ahmed_1973; Chen_2024
+Azoarcus,no,0,POP_BROAD,"Aromatics, PAHs",not targeted,PAH_general_reviews
+Bacillus,no,0,BOTH,"dioxin analogs (2,7-DD), PCBs, PAHs",not targeted,DiMartino_2025; Ghosal_2016
+Beijerinckia,no,0,DIOXIN_CORE,2-chlorodibenzo-p-dioxin,not targeted,Saibu_2020_review
+Bradyrhizobium,no,0,POP_BROAD,"PAHs (pyrene, others)",not targeted,Gundlapalli_2024; Ghosal_2016
+Burkholderia,no,0,BOTH; POP_BROAD,"PCBs, chlorobenzenes, PAHs; PCBs, dioxin-like aryl ethers; PCDD/F analogs, PCBs, PAHs; mixed chlorinated aromatics",not targeted,Cao_2011_PCB_degraders; Saibu_2020_review; Ghosal_2016_POP_review; PCB_degraders_overview; Saibu_2020_review; Kumar_2010_LB400_structure; Parnell_2006_LB400_review; Cao_2011_PCB_biphenyl_dioxygenases; Saibu_2020_review; Ghosal_2016
+Comamonas,no,0,BOTH; POP_BROAD,"PCBs, chlorobenzenes, other organochlorines; PCBs, chlorobenzenes, phenolics",not targeted,Abraham_2002_review; PCB_degraders_overview; Ghosal_2016_POP_review
+Cupriavidus,no,0,POP_BROAD,"PCBs, chlorinated benzenes",not targeted,Saavedra_2010; Suenaga_2015; Ma_2025
+Dehalobium,no,0,DIOXIN_CORE,"PCDD/F (including 2,3,7,8-TCDD)",not targeted,Lee_2021; Lee_2022
+Dehalococcoides,no,0,DIOXIN_CORE,"PCDD/F (reductive dechlorination), PCBs, chlorobenzenes",not targeted,Bunge_2003; Dam_2019; Hiraishi_2005; Dehalococcoides_review
+Gordonia,no,0,POP_BROAD,HMW PAHs,not targeted,Ghosal_2016; Hadibarata_2025
+Janibacter,no,0,DIOXIN_CORE,dibenzofuran / dioxin-like compounds,not targeted,Saibu_2020_review
+Klebsiella,no,0,DIOXIN_CORE,"2-chlorodibenzo-p-dioxin, DF",not targeted,Saibu_2020_review
+Mycobacterium,no,0,POP_BROAD,high-molecular-weight PAHs,not targeted,Ghosal_2016; Qutob_2022; Li_2025
+Neobacillus,no,0,DIOXIN_CORE,"PCDD/F (2,3,7,8-TCDD and congeners)",not targeted,Pham_2024; Nguyen_2022; Neobacillus_dioxin_pathway
+Nocardioides,no,0,BOTH; POP_BROAD,"DF, DD analogs; dibenzofuran, dioxin-polluted sites, other aromatics",not targeted,Futamata_2004_DF_degraders; Saibu_2020_review; Kubota_2005; Ma_2023
+Nocardioides_group,no,0,BOTH,"dibenzofuran, nitrophenols, other aromatics",not targeted,Kubota_2005; Sukda_2009
+Ochrobactrum,no,0,POP_BROAD,"PCBs, PAHs, chlorophenols",not targeted,PCB_rhizosphere_biodegradation
+Paenibacillus,no,0,DIOXIN_CORE,"dibenzofuran (DF), dioxin-contaminated soil, PAHs",not targeted,Thanh_2019; Saibu_2020_review; Paenibacillus_naphthalenovorans_dioxin_pathway
+Paraburkholderia,no,0,POP_BROAD,"PCBs, dioxin-like aromatics",not targeted,Ghosal_2016; KEGG_Burkholderia_Paraburkholderia_dioxin; Kumar_2025_POP_review
+Pigmentiphaga,no,0,POP_BROAD,Chlorinated aromatics,not targeted,chlorophenol_reviews
+Polaromonas,no,0,POP_BROAD,PAHs (naphthalene),not targeted,PAH_general_reviews
+Pseudarthrobacter,no,0,POP_BROAD,"Chlorophenols, aromatics",not targeted,chlorophenol_reviews
+Pseudomonas,no,0,BOTH; DIOXIN_CORE; POP_BROAD,"DD, DF, chlorinated DD; DF, PAHs, aromatics; PCDD/F, DD, DF; PCDD/F, PCBs (pathway); dibenzofuran, dioxin analogs, PCBs, PAHs","clcA (7 consensus seqs, 99.1-99.4% identity)",Ali_2019_Pseudomonas_DBF; Hu_2023_Pseudomonas_POP_review; Hong_2000; Abraham_2002; DiMartino_2025; Hong_2004_Pseudomonas_veronii_dioxin; Saibu_2020_review; KEGG_pen00621_dioxin_pathway; Saibu_2020_review; Lin_2014_Pseudomonas_mendocina_dioxin; Saibu_2020_review
+Pseudoxanthomonas,no,0,POP_BROAD,"PAHs, mixed aromatics",not targeted,PAH_general_reviews
+Ralstonia,no,0,POP_BROAD,"PCBs, chlorinated aromatics",not targeted,PCB_degraders_overview
+Rhizorhabdus,no,0,DIOXIN_CORE,"PCDD/F, dibenzofuran, chlorinated analogs",not targeted,Wittich_1992; Wilkes_1996; Zylstra_2010; Rhizorhabdus_wittichii_RW1_genome
+Rhodococcus,no,0,BOTH; DIOXIN_CORE,"DD, DF (and derivatives); DF, chlorinated DF; PCDD/F analogs, PCBs, aromatics",not targeted,Ali_2019_Rhodococcus_P52; Rhodococcus_P52_patent; Futamata_2004_DF_degraders; Kimura_2001_Rhodococcus_dioxin_pathway; Futamata_2004_DF_degraders; Nojiri_2002; Iwasaki_2007; Ghosal_2016
+Rhodopseudomonas,no,0,POP_BROAD,PAHs,not targeted,Gundlapalli_2024
+Shewanella,no,0,POP_BROAD,"PCBs, PAHs, organohalides",not targeted,organohalide_reviews
+Sphingomonas_RW1_label,no,0,DIOXIN_CORE,"dibenzo-p-dioxin, dibenzofuran",not targeted,Megharaj_1997; Wilkes_1996; Zylstra_2010
+Sphingomonas_yanoikuyae,no,0,POP_BROAD,"biphenyl, naphthalene, phenanthrene, xylenes",not targeted,Yabuuchi_1990; Ghosal_2016
+Stenotrophomonas,no,0,POP_BROAD,"PAHs, chlorophenols",not targeted,PAH_general_reviews
+Terrabacter,no,0,DIOXIN_CORE,"dibenzofuran, chlorinated DF/DD",not targeted,Kim_1999; Iida_2006
+Thauera,no,0,POP_BROAD,"dioxin-pathway genes, chlorophenols, xylene-like aromatics",not targeted,Thauera_dioxin_pathways; Lo_2019_Thauera_chlorophenols; Hiraishi_2003

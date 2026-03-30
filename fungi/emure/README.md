@@ -1,106 +1,48 @@
-# EMURE (EMU-derived OTU95 workflow)
+# Reference-Based OTU Clustering (Fungal ITS/18S)
 
-Last updated: March 10, 2026
+EMU taxonomic classification followed by phylum-level prefiltering and VSEARCH 95% identity clustering of classified reference sequences.
 
-## Purpose
+**Last updated:** 2026-03-10
 
-`emure/` builds 95% OTUs from the Morris EMU abundance table, then applies:
+---
 
-1. threepoint reproducibility filtering
-2. associated-target genus filtering
+## Method
 
-This workflow now applies a taxonomy-only prefilter before clustering.
+1. **Prefilter:** Retain rows where phylum is a target fungal group (Ascomycota, Basidiomycota, Chytridiomycota, Mucoromycota, Zoopagomycota, Blastocladiomycota, Olpidiomycota, Microsporidia, Cryptomycota, Oomycota, Chlorophyta, Bacillariophyta). Removes plants and animals; retains fungi, borderline algae, and water molds.
+2. **Collapser:** Converts prefiltered EMU table to VSEARCH-compatible format.
+3. **Clustering:** VSEARCH at 95% identity using MIMt 18S+ITS reference sequences.
+4. **Prevalence filter:** OTUs retained if ≥10 reads in all 3 barcodes.
+5. **Target filtering:** Separate outputs for degrader-associated OTUs at genus, family, and phylum resolution.
 
-## Primary Input
+---
 
-- EMU abundance table: `../mapping/morris/out/emu_morris/emu_abundance.tsv`
-- Reference mapping: `../mapping/refdbs/mergemimt/mimt_mapping.fixed.tsv`
-- Reference FASTA: `../mapping/refdbs/mergemimt/mimt_clean.filtered.fasta`
+## Run Statistics (2026-03-10)
 
-## Current Prefilter Rule (Option B)
+| Step | Count |
+|------|-------|
+| EMU rows pre-filter | 1,305 |
+| EMU rows post-filter | 913 (70.0%) |
+| Estimated reads retained | 189,727 / 359,734 (52.7%) |
+| OTU95 clusters | 308 |
+| OTUs after prevalence filter | 91 (29.5%) |
+| Reads retained after filter | 167,042 / 180,208 (92.7%) |
+| Degrader-associated OTUs (genus-level) | 3 |
 
-Implemented in `scripts/filter_emu_taxa.py` and called by `scripts/run_emure.sh`.
+---
 
-No abundance cutoff is used. Rows are retained only if `phylum` is one of:
+## Outputs
 
-- `Ascomycota`
-- `Basidiomycota`
-- `Chytridiomycota`
-- `Mucoromycota`
-- `Zoopagomycota`
-- `Blastocladiomycota`
-- `Olpidiomycota`
-- `Microsporidia`
-- `Cryptomycota`
-- `Oomycota`
-- `Chlorophyta`
-- `Bacillariophyta`
-
-This keeps fungi plus borderline algae and water molds, while removing clear non-target groups (for example plants and animals).
-
-## Pipeline Steps
-
-Run:
-
-```bash
-bash scripts/run_emure.sh
-```
-
-`run_emure.sh` executes:
-
-1. `filter_emu_taxa.py` -> `00_prefilter/emu_abundance_optionB.tsv`
-2. `build_its_collapser.py` -> `01_collapser/collapser_input.tsv`
-3. `collapser_otu95.sh` (VSEARCH at `id=0.95`)
-4. `build_otu_tables.py` -> wide and long OTU tables
-5. `filter_threepoint.py` (`>=10` reads in all three barcodes)
-6. `filter_associated.py` (target genera whitelist — 56 genera)
-7. `filter_associated_phylum.py` (target phylum whitelist — broad-resolution)
-8. `filter_associated_family.py` (target family whitelist — mid-resolution, 19 families)
-
-## Key Outputs
-
-- Prefiltered EMU table: `00_prefilter/emu_abundance_optionB.tsv`
-- Prefilter summary: `00_prefilter/emu_filter_summary_optionB.tsv`
-- OTU table (wide): `04_tables/otu_table_combined.tsv`
-- OTU table (long): `04_tables/otu_table_long.tsv`
-- Threepoint OTUs: `threepoint/emure_otu95_threepoint.tsv`
-- Threepoint long: `threepoint/emure_otu95_threepoint_long.tsv`
-- Threepoint summary: `threepoint/emure_otu95_threepoint_summary.tsv`
-- Associated OTUs: `threepoint/emure_associated_threepoint.tsv`
-- Non-associated OTUs: `threepoint/emure_non_associated_threepoint.tsv`
-- Associated OTUs (phylum): `threepoint/emure_associated_phylum_threepoint.tsv`
-- Non-associated OTUs (phylum): `threepoint/emure_non_associated_phylum_threepoint.tsv`
-- Associated OTUs (family): `threepoint/emure_associated_family_threepoint.tsv`
-- Non-associated OTUs (family): `threepoint/emure_non_associated_family_threepoint.tsv`
-- Run log: `emure.log`
-
-## Current Run Snapshot (March 10, 2026)
-
-From the Option-B rerun:
-
-- Prefilter retained `913 / 1305` rows (`69.962%`)
-- Prefilter retained `189,726.86 / 359,734.00` estimated reads (`52.741%`)
-- OTUs at 95%: `308`
-- Threepoint passing OTUs: `91` (`29.5%` of 308)
-- Threepoint reads retained: `167,042 / 180,208` (`92.7%`)
-- Associated passing OTUs: `3`
-- Non-associated passing OTUs: `88`
-- Matched associated genus in this run: `Acaulospora`
-
-Phylum filter snapshot (pending re-run):
-
-- Associated phylum OTUs: pending
-- Matched phyla: `Basidiomycota`, `Ascomycota`, `Mucoromycota`
-
-Reference files:
-
-- `00_prefilter/emu_filter_summary_optionB.tsv`
-- `04_tables/otu_table_combined.tsv`
-- `threepoint/emure_otu95_threepoint.tsv`
-- `threepoint/emure_associated_threepoint.tsv`
-
-## Notes
-
-- `emure.log` is appended to by clustering steps and may contain multiple runs.
-- All clustering is performed at 95% identity (`OTU_ID=0.95` in `run_emure.sh`).
-- This workflow does not apply prevalence or minimum-read filtering before OTU clustering.
+| File | Description |
+|------|-------------|
+| `00_prefilter/emu_abundance_optionB.tsv` | Prefiltered EMU abundance table |
+| `00_prefilter/emu_filter_summary_optionB.tsv` | Prefilter summary |
+| `01_collapser/collapser_input.tsv` | Collapser-format input for VSEARCH |
+| `02_reference_seqs/rep_seqs.fasta` | Representative sequences for detected taxa |
+| `03_cluster/centroids_0.95.fasta` | VSEARCH cluster centroids |
+| `03_cluster/clusters_0.95.uc` | VSEARCH cluster assignments |
+| `04_tables/otu_table_combined.tsv` | OTU table (wide format, all barcodes) |
+| `04_tables/otu_table_long.tsv` | OTU table (long format) |
+| `threepoint/emure_associated_threepoint.tsv` | Degrader-associated OTUs (genus-level) |
+| `threepoint/emure_associated_family_threepoint.tsv` | Degrader-associated OTUs (family-level) |
+| `threepoint/emure_associated_phylum_threepoint.tsv` | Degrader-associated OTUs (phylum-level) |
+| `threepoint/emure_otu95_threepoint.tsv` | All OTUs passing prevalence filter |

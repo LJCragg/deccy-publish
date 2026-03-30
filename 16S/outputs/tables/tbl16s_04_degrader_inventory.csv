@@ -1,0 +1,67 @@
+OTU_ID,genus,species,phylum,matched_genera,evidence_category,threepoint_status,total_reads,prevalence,mean_reads,mean_reads_ss1,mean_reads_ss2
+OTU_10,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,8811,6,1468.5,1159.0,1778.0
+OTU_47,Acetobacterium,,Bacillota,Acetobacterium,BOTH,both,1265,6,210.8,193.0,228.7
+OTU_56,Sphingorhabdus,,Pseudomonadota,Sphingorhabdus,POP_BROAD,both,775,6,129.2,177.0,81.3
+OTU_74,Anaeromyxobacter,,Myxococcota,Anaeromyxobacter,BOTH,both,646,6,107.7,26.3,189.0
+OTU_72,Sphingopyxis,Sphingopyxis terrae strain NBRC 15098,Pseudomonadota,Sphingopyxis,POP_BROAD,both,642,6,107.0,155.0,59.0
+OTU_57,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,both,533,6,88.8,96.0,81.7
+OTU_63,Desulfitobacterium,Desulfitobacterium nosdiversum,Bacillota,Desulfitobacterium,BOTH,SS1,516,3,86.0,172.0,0.0
+OTU_68,Sphingopyxis,Sphingopyxis witflariensis strain W-50,Pseudomonadota,Sphingopyxis,POP_BROAD,both,471,6,78.5,86.0,71.0
+OTU_137,Acidovorax,,Pseudomonadota,Acidovorax,POP_BROAD,both,440,6,73.3,86.3,60.3
+OTU_170,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,384,6,64.0,52.0,76.0
+OTU_180,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,297,6,49.5,55.0,44.0
+OTU_130,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,both,269,6,44.8,9.7,80.0
+OTU_90,Ideonella,Ideonella alba,Pseudomonadota,Ideonella,POP_BROAD,both,248,6,41.3,68.0,14.7
+OTU_167,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,214,6,35.7,53.0,18.3
+OTU_710,Sphingomonas,Sphingomonas zeicaulis strain 541,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,186,6,31.0,22.3,39.7
+OTU_152,Hydrogenophaga,,Pseudomonadota,Hydrogenophaga,POP_BROAD,both,185,6,30.8,25.7,36.0
+OTU_159,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,165,6,27.5,32.7,22.3
+OTU_349,Novosphingobium,Novosphingobium marinum strain LA53,Pseudomonadota,Novosphingobium,POP_BROAD,both,159,6,26.5,24.7,28.3
+OTU_249,Sphingomonas,Sphingomonas silvisoli strain RP18,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,149,6,24.8,16.3,33.3
+OTU_285,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,146,6,24.3,22.0,26.7
+OTU_254,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,139,6,23.2,38.0,8.3
+OTU_209,Desulfomonile,Desulfomonile tiedjei DSM 6799,Thermodesulfobacteriota,Desulfomonile,POP_BROAD,both,104,6,17.3,11.0,23.7
+OTU_536,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,104,6,17.3,9.3,25.3
+OTU_226,Sphingorhabdus,Sphingorhabdus lacus strain IMCC1753,Pseudomonadota,Sphingorhabdus,POP_BROAD,both,79,6,13.2,13.3,13.0
+OTU_245,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,both,73,6,12.2,5.7,18.7
+OTU_429,Sphingobium,,Pseudomonadota,Sphingobium,POP_BROAD,both,70,6,11.7,5.3,18.0
+OTU_308,Sphingobium,,Pseudomonadota,Sphingobium,POP_BROAD,both,70,6,11.7,3.3,20.0
+OTU_427,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,67,6,11.2,4.0,18.3
+OTU_721,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,66,6,11.0,14.0,8.0
+OTU_356,Flavobacterium,,Bacteroidota,Flavobacterium,POP_BROAD,both,62,6,10.3,9.0,11.7
+OTU_464,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,both,61,6,10.2,7.0,13.3
+OTU_198,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,both,58,6,9.7,10.0,9.3
+OTU_346,Variovorax,,Pseudomonadota,Variovorax,POP_BROAD,both,57,6,9.5,14.3,4.7
+OTU_298,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,55,6,9.2,12.0,6.3
+OTU_461,Desulfomonile,Desulfomonile tiedjei DSM 6799,Thermodesulfobacteriota,Desulfomonile,POP_BROAD,both,50,6,8.3,10.7,6.0
+OTU_214,Dehalobacter,Dehalobacter restrictus DSM 9455 strain PER-K23,Bacillota,Dehalobacter,BOTH,both,50,6,8.3,3.3,13.3
+OTU_296,Aeromonas,,Pseudomonadota,Aeromonas,POP_BROAD,both,44,6,7.3,8.7,6.0
+OTU_236,Dehalobacter,Dehalobacter restrictus DSM 9455 strain PER-K23,Bacillota,Dehalobacter,BOTH,SS2,44,3,7.3,0.0,14.7
+OTU_215,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,42,6,7.0,1.7,12.3
+OTU_270,Desulfitobacterium,Desulfitobacterium dichloroeliminans,Bacillota,Desulfitobacterium,BOTH,SS2,40,3,6.7,0.0,13.3
+OTU_262,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,both,39,6,6.5,7.3,5.7
+OTU_656,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,39,6,6.5,3.7,9.3
+OTU_374,Sphingomonas,Sphingomonas crocodyli strain CCP-7,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,39,6,6.5,8.7,4.3
+OTU_736,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,both,34,6,5.7,4.0,7.3
+OTU_314,Sphingobium,Sphingobium algorifonticola strain TLA-22,Pseudomonadota,Sphingobium,POP_BROAD,both,33,6,5.5,5.3,5.7
+OTU_420,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,32,6,5.3,6.3,4.3
+OTU_825,Desulfitobacterium,Desulfitobacterium chlororespirans strain Co23,Bacillota,Desulfitobacterium,BOTH,SS2,32,5,5.3,0.7,10.0
+OTU_463,Dehalobacter,Dehalobacter restrictus DSM 9455 strain PER-K23,Bacillota,Dehalobacter,BOTH,both,30,6,5.0,2.7,7.3
+OTU_442,Desulfitobacterium,Desulfitobacterium dichloroeliminans,Bacillota,Desulfitobacterium,BOTH,SS2,30,3,5.0,0.0,10.0
+OTU_305,Sphingomonas,Sphingomonas nostoxanthinifaciens,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,29,6,4.8,6.3,3.3
+OTU_284,Desulfitobacterium,Desulfitobacterium dichloroeliminans,Bacillota,Desulfitobacterium,BOTH,SS2,28,3,4.7,0.0,9.3
+OTU_596,Ideonella,Ideonella alba,Pseudomonadota,Ideonella,POP_BROAD,both,25,6,4.2,2.7,5.7
+OTU_424,Sphingomonas,Sphingomonas zeicaulis strain 541,Pseudomonadota,Sphingomonas,DIOXIN_CORE,SS2,24,5,4.0,6.3,1.7
+OTU_807,Sphingomonas,Sphingomonas rubra strain BH3,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,22,6,3.7,3.7,3.7
+OTU_602,Anaeromyxobacter,Anaeromyxobacter paludicola,Myxococcota,Anaeromyxobacter,BOTH,both,21,6,3.5,4.7,2.3
+OTU_713,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,SS1,20,5,3.3,4.7,2.0
+OTU_351,Novosphingobium,Novosphingobium aromaticivorans strain IFO 16085,Pseudomonadota,Novosphingobium,POP_BROAD,SS1,20,5,3.3,4.3,2.3
+OTU_785,Sphingopyxis,Sphingopyxis witflariensis strain W-50,Pseudomonadota,Sphingopyxis,POP_BROAD,SS1,19,5,3.2,2.7,3.7
+OTU_395,Sphingomonas,,Pseudomonadota,Sphingomonas,DIOXIN_CORE,SS2,18,4,3.0,0.7,5.3
+OTU_531,Dehalobacter,Dehalobacter restrictus DSM 9455 strain PER-K23,Bacillota,Dehalobacter,BOTH,SS2,18,3,3.0,0.0,6.0
+OTU_396,Paracoccus,Paracoccus marcusii strain MH1,Pseudomonadota,Paracoccus,POP_BROAD,both,16,6,2.7,3.3,2.0
+OTU_508,Sphingomonas,Sphingomonas donggukensis,Pseudomonadota,Sphingomonas,DIOXIN_CORE,both,16,6,2.7,3.0,2.3
+OTU_796,Novosphingobium,,Pseudomonadota,Novosphingobium,POP_BROAD,SS2,15,4,2.5,0.7,4.3
+OTU_575,Sphingomonas,Sphingomonas gotjawalisoli strain SN6-9,Pseudomonadota,Sphingomonas,DIOXIN_CORE,SS1,14,5,2.3,3.7,1.0
+OTU_562,Sphingomonas,Sphingomonas naphthae strain DKC-5-1,Pseudomonadota,Sphingomonas,DIOXIN_CORE,SS2,13,5,2.2,0.7,3.7
+OTU_715,Serratia,Serratia proteamaculans strain DSM 4543,Pseudomonadota,Serratia,POP_BROAD,SS1,9,3,1.5,3.0,0.0

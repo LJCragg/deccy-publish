@@ -1,6 +1,6 @@
 # Sphingomonadaceae: genera by barcode (estimated_counts)
 
-- Input: `/home/uca/chover/sixteen/cannon/emu/emu_abundance.tsv`
+- Source: EMU species-level abundance table
 - Metric: `estimated_counts` (summed)
 - Highlight: genus `Novosphingobium` lines are prefixed with `>>`
 

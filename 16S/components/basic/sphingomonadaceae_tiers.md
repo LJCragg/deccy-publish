@@ -1,6 +1,6 @@
 # Tiered contributions by barcode
 
-- Input: `/home/uca/chover/sixteen/cannon/emu/emu_abundance.tsv`
+- Source: EMU species-level abundance table
 - Metric: `estimated_counts` (summed)
 
 ## Sphingomonadaceae per barcode

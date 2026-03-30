@@ -1,13 +1,6 @@
-# Centralized data directory (actual storage for large assets)
+# Centralized data directory (raw data and large assets)
 data
 data/
-
-# Rubbish bin — removed files kept for reference only, never source from here
-dereplicated/
-
-# Thesis draft PDF exports
-racecar/thesis\ draft\ carry.pdf
-waffle/data/
 
 # Claude Code project files
 .claude/projects/
@@ -23,59 +16,37 @@ work/
 .snakemake/
 *.log
 
-# funcall pipeline outputs and data symlinks
-funcall/house/output/
-funcall/house/input
-funcall/oven/slashing/logs/
-funcall/oven/slashing/filtered/
-funcall/oven/slashing/trimmed/
-funcall/oven/slashing/qc_*/
-funcall/mapping/out/
-funcall/mapping/refdbs
-funcall/networkan/out/
-funcall/dordowna
+# 16S — large intermediates (outputs/tables/ and READMEs are tracked)
+16S/rin/
+16S/oven/
+16S/refdbs
+16S/cannon/emu/
+16S/cannon/emure/00_emu_input/
+16S/cannon/emure/01_collapser/
+16S/cannon/emure/02_reference_seqs/
+16S/cannon/emure/03_cluster/
+16S/cannon/emure/04_tables/
+16S/discussion/denovo/00_qc/
+16S/discussion/denovo/01_fasta/
+16S/discussion/denovo/02_denoise/
+16S/discussion/denovo/03_chimera/
+16S/discussion/denovo/04_cluster/
+16S/discussion/denovo/05_taxonomy/
+16S/discussion/denovo/06_tables/
+16S/discussion/denovo/07_summary/
+16S/outputs/associated97/*.tsv
 
-# sixteen pipeline outputs and data symlinks
-sixteen/rin/hq
-sixteen/rout/
-sixteen/cannon/emu/
-sixteen/oven/results/
-sixteen/oven/clusters/
-sixteen/oven/seqs/
-sixteen/oven/logs/
-sixteen/oven/tmp/
-sixteen/Luca/
-sixteen/refdbs
+# fungi — large intermediates (outputs and READMEs are tracked)
+fungi/house/input
+fungi/house/output/
+fungi/oven/
+fungi/mapping/out/
+fungi/mapping/refdbs
+fungi/networkan/out/
 
-# sixteen/cannon/emure — large intermediate stages (scripts and README tracked)
-sixteen/cannon/emure/00_emu_input/
-sixteen/cannon/emure/01_collapser/
-sixteen/cannon/emure/02_reference_seqs/
-sixteen/cannon/emure/03_cluster/
-sixteen/cannon/emure/04_tables/
-sixteen/cannon/emure/otu97.log
-
-# sixteen/discussion/denovo — large intermediate stages (scripts and README tracked)
-sixteen/discussion/denovo/00_qc/
-sixteen/discussion/denovo/01_fasta/
-sixteen/discussion/denovo/02_denoise/
-sixteen/discussion/denovo/03_chimera/
-sixteen/discussion/denovo/04_cluster/
-sixteen/discussion/denovo/05_taxonomy/
-sixteen/discussion/denovo/06_tables/
-sixteen/discussion/denovo/07_summary/
-sixteen/discussion/denovo/pipeline_run.log
-
-# sixteen/outputs — generated plots and large tables (READMEs and curated TSVs tracked)
-sixteen/outputs/plots/
-sixteen/outputs/figures/
-sixteen/outputs/images/
-sixteen/outputs/tables/
-sixteen/outputs/associated97/*.tsv
-
-# roadtrip pipeline — symlinks and large intermediates (outputs/ is tracked)
-roadtrip/forme
-roadtrip/results
+# targeted-genes — large intermediates (outputs/ is tracked)
+targeted-genes/forme
+targeted-genes/results
 
 # Large sequence files
 *.pod5
