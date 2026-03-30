@@ -33,6 +33,10 @@ Raw sequencing data (POD5 / FASTQ) are not included in this repository. Data are
 
 ---
 
+## License
+
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — free to use and adapt with attribution; commercial use prohibited.
+
 ## Contact
 
-Luca Scragg — Massey University, School of Natural Sciences
+Luca Scragg — Massey University, lucajacob1@gmail.com
